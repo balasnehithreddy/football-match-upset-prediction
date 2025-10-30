@@ -1,0 +1,1496 @@
+competition,season,date,match_id,home_team,away_team,home_goals,away_goals,home_win,home_points_last5,away_points_last5,home_gf_last5,home_ga_last5,away_gf_last5,away_ga_last5
+PL,2023,2023-08-18,435959,Nottingham Forest FC,Sheffield United FC,2,1,1,0,0,1,2,0,1
+PD,2023,2023-08-18,438491,RCD Mallorca,Villarreal CF,0,1,0,1,0,1,1,1,2
+PD,2023,2023-08-18,438490,Valencia CF,UD Las Palmas,1,0,1,3,1,2,1,1,1
+PD,2023,2023-08-19,438485,CA Osasuna,Athletic Club,0,2,0,3,0,2,0,0,2
+PL,2023,2023-08-19,435955,Fulham FC,Brentford FC,0,3,0,3,1,1,0,2,2
+PL,2023,2023-08-19,435956,Liverpool FC,AFC Bournemouth,3,1,1,1,1,1,1,1,1
+PL,2023,2023-08-19,435958,Manchester City FC,Newcastle United FC,1,0,1,3,3,3,0,5,1
+PD,2023,2023-08-19,438492,Real Sociedad de Fútbol,RC Celta de Vigo,1,1,0,1,0,1,1,0,2
+PL,2023,2023-08-19,435960,Tottenham Hotspur FC,Manchester United FC,2,0,1,1,3,2,2,1,0
+PD,2023,2023-08-19,438493,UD Almería,Real Madrid CF,1,3,0,0,3,0,2,2,0
+PL,2023,2023-08-19,435962,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1,4,0,0,3,0,1,4,1
+PL,2023,2023-08-20,435953,Aston Villa FC,Everton FC,4,0,1,0,0,1,5,0,1
+PD,2023,2023-08-20,438487,FC Barcelona,Cádiz CF,2,0,1,1,3,0,0,1,0
+PD,2023,2023-08-20,438488,Girona FC,Getafe CF,3,0,1,1,1,1,1,0,0
+PD,2023,2023-08-20,438484,Real Betis Balompié,Club Atlético de Madrid,0,0,0,3,3,2,1,3,1
+PL,2023,2023-08-20,435961,West Ham United FC,Chelsea FC,3,1,1,1,1,1,1,1,1
+PL,2023,2023-08-21,435954,Crystal Palace FC,Arsenal FC,0,1,0,3,3,1,0,2,1
+PD,2023,2023-08-21,438486,Deportivo Alavés,Sevilla FC,4,3,1,0,0,0,1,1,2
+PD,2023,2023-08-21,438489,Granada CF,Rayo Vallecano de Madrid,0,2,0,0,3,1,3,2,0
+PL,2023,2023-08-25,435968,Chelsea FC,Luton Town FC,3,0,1,1,0,2,4,1,4
+PD,2023,2023-08-25,438495,RC Celta de Vigo,Real Madrid CF,0,1,0,1,6,1,3,5,1
+PD,2023,2023-08-25,438503,UD Las Palmas,Real Sociedad de Fútbol,0,0,0,1,2,1,2,2,2
+PL,2023,2023-08-26,435963,AFC Bournemouth,Tottenham Hotspur FC,0,2,0,1,4,2,4,4,2
+PL,2023,2023-08-26,435964,Arsenal FC,Fulham FC,2,2,0,6,3,3,1,1,3
+PL,2023,2023-08-26,435965,Brentford FC,Crystal Palace FC,1,1,0,4,3,5,2,1,1
+PL,2023,2023-08-26,435966,Brighton & Hove Albion FC,West Ham United FC,1,3,0,6,4,8,2,4,2
+PD,2023,2023-08-26,438496,Cádiz CF,UD Almería,1,1,0,3,0,1,2,1,5
+PL,2023,2023-08-26,435969,Everton FC,Wolverhampton Wanderers FC,0,1,0,0,0,0,5,1,5
+PD,2023,2023-08-26,438498,Granada CF,RCD Mallorca,3,2,1,0,1,1,5,1,2
+PL,2023,2023-08-26,435970,Manchester United FC,Nottingham Forest FC,3,2,1,3,3,1,2,3,3
+PD,2023,2023-08-26,438499,Sevilla FC,Girona FC,1,2,0,0,4,4,6,4,1
+PD,2023,2023-08-27,438494,Athletic Club,Real Betis Balompié,4,2,1,3,4,2,2,2,1
+PL,2023,2023-08-27,435967,Burnley FC,Aston Villa FC,1,3,0,0,3,0,3,5,5
+PL,2023,2023-08-27,435971,Newcastle United FC,Liverpool FC,1,2,0,3,4,5,2,4,2
+PL,2023,2023-08-27,435972,Sheffield United FC,Manchester City FC,1,2,0,0,6,1,3,4,0
+PD,2023,2023-08-27,438500,Valencia CF,CA Osasuna,1,2,0,6,3,3,1,2,2
+PD,2023,2023-08-27,438501,Villarreal CF,FC Barcelona,3,4,0,3,4,2,2,2,0
+PD,2023,2023-08-28,438497,Getafe CF,Deportivo Alavés,1,0,1,1,3,0,3,4,4
+PD,2023,2023-08-28,438502,Rayo Vallecano de Madrid,Club Atlético de Madrid,0,7,0,6,4,4,0,3,1
+PD,2023,2023-09-01,438508,Cádiz CF,Villarreal CF,3,1,1,4,3,2,3,5,6
+PL,2023,2023-09-01,435980,Luton Town FC,West Ham United FC,1,2,0,0,7,1,7,7,3
+PD,2023,2023-09-01,438513,UD Almería,RC Celta de Vigo,2,3,0,1,1,2,6,1,4
+PL,2023,2023-09-02,435974,Brentford FC,AFC Bournemouth,2,2,0,5,1,6,3,2,6
+PL,2023,2023-09-02,435975,Brighton & Hove Albion FC,Newcastle United FC,3,1,1,6,3,9,5,6,4
+PL,2023,2023-09-02,435976,Burnley FC,Tottenham Hotspur FC,2,5,0,0,7,1,6,6,2
+PL,2023,2023-09-02,435977,Chelsea FC,Nottingham Forest FC,0,1,0,4,3,5,4,5,6
+PD,2023,2023-09-02,438507,Deportivo Alavés,Valencia CF,1,0,1,3,6,4,5,4,3
+PL,2023,2023-09-02,435981,Manchester City FC,Fulham FC,5,1,1,9,4,6,1,3,5
+PD,2023,2023-09-02,438505,Real Betis Balompié,Rayo Vallecano de Madrid,1,0,1,4,6,4,5,4,7
+PD,2023,2023-09-02,438511,Real Madrid CF,Getafe CF,2,1,1,9,4,6,1,1,3
+PD,2023,2023-09-02,438512,Real Sociedad de Fútbol,Granada CF,5,3,1,3,3,2,2,4,7
+PL,2023,2023-09-02,435982,Sheffield United FC,Everton FC,2,2,0,0,0,2,5,0,6
+PL,2023,2023-09-03,435973,Arsenal FC,Manchester United FC,3,1,1,7,6,5,3,4,4
+PD,2023,2023-09-03,438506,CA Osasuna,FC Barcelona,1,2,0,6,7,4,3,6,3
+PL,2023,2023-09-03,435978,Crystal Palace FC,Wolverhampton Wanderers FC,3,2,1,4,3,2,2,2,5
+PD,2023,2023-09-03,438509,Girona FC,UD Las Palmas,1,0,1,7,2,6,2,1,2
+PL,2023,2023-09-03,435979,Liverpool FC,Aston Villa FC,3,0,1,7,6,6,3,8,6
+PD,2023,2023-09-03,438510,RCD Mallorca,Athletic Club,0,0,0,1,6,3,5,6,4
+PD,2023,2023-09-15,438522,Rayo Vallecano de Madrid,Deportivo Alavés,2,0,1,6,6,4,8,5,5
+PL,2023,2023-09-16,435984,Aston Villa FC,Crystal Palace FC,3,1,1,6,7,8,9,5,4
+PD,2023,2023-09-16,438514,Athletic Club,Cádiz CF,3,0,1,7,7,6,4,5,4
+PD,2023,2023-09-16,438516,FC Barcelona,Real Betis Balompié,5,0,1,10,7,8,4,5,5
+PL,2023,2023-09-16,435986,Fulham FC,Luton Town FC,1,0,1,4,0,4,10,2,9
+PL,2023,2023-09-16,435987,Manchester United FC,Brighton & Hove Albion FC,1,3,0,6,9,5,7,12,6
+PL,2023,2023-09-16,435988,Newcastle United FC,Brentford FC,1,0,1,3,6,7,7,8,5
+PD,2023,2023-09-16,438515,RC Celta de Vigo,RCD Mallorca,0,1,0,4,2,4,6,3,5
+PL,2023,2023-09-16,435990,Tottenham Hotspur FC,Sheffield United FC,2,1,1,10,1,11,4,4,7
+PD,2023,2023-09-16,438520,Valencia CF,Club Atlético de Madrid,3,0,1,6,7,4,4,10,1
+PL,2023,2023-09-16,435991,West Ham United FC,Manchester City FC,1,3,0,10,12,9,4,11,2
+PL,2023,2023-09-16,435992,Wolverhampton Wanderers FC,Liverpool FC,1,3,0,3,10,4,8,9,3
+PL,2023,2023-09-17,435983,AFC Bournemouth,Chelsea FC,0,0,0,2,4,4,8,5,5
+PL,2023,2023-09-17,435985,Everton FC,Arsenal FC,0,1,0,1,10,2,8,8,4
+PD,2023,2023-09-17,438517,Getafe CF,CA Osasuna,3,2,1,4,6,2,5,5,5
+PD,2023,2023-09-17,438523,Real Madrid CF,Real Sociedad de Fútbol,2,1,1,12,6,8,2,7,5
+PD,2023,2023-09-17,438519,Sevilla FC,UD Las Palmas,1,0,1,0,2,5,8,1,3
+PD,2023,2023-09-17,438521,Villarreal CF,UD Almería,2,1,1,3,1,6,9,4,9
+PD,2023,2023-09-18,438518,Granada CF,Girona FC,2,4,0,3,10,7,12,7,2
+PL,2023,2023-09-18,435989,Nottingham Forest FC,Burnley FC,1,1,0,6,0,6,6,3,11
+PD,2023,2023-09-22,438527,Deportivo Alavés,Athletic Club,0,2,0,6,10,5,7,9,4
+PL,2023,2023-09-23,435994,Brentford FC,Everton FC,1,3,0,6,1,8,6,2,9
+PL,2023,2023-09-23,435996,Burnley FC,Manchester United FC,0,1,0,1,6,4,12,6,10
+PD,2023,2023-09-23,438526,CA Osasuna,Sevilla FC,0,0,0,6,3,7,8,6,8
+PL,2023,2023-09-23,435998,Crystal Palace FC,Fulham FC,0,0,0,7,7,6,7,5,10
+PD,2023,2023-09-23,438528,FC Barcelona,RC Celta de Vigo,3,2,1,13,4,13,4,4,7
+PD,2023,2023-09-23,438529,Girona FC,RCD Mallorca,5,3,1,13,5,11,4,4,5
+PL,2023,2023-09-23,436000,Luton Town FC,Wolverhampton Wanderers FC,1,1,0,0,3,2,10,5,11
+PL,2023,2023-09-23,436001,Manchester City FC,Nottingham Forest FC,2,0,1,15,7,14,3,7,7
+PD,2023,2023-09-23,438532,UD Almería,Valencia CF,2,2,0,1,9,5,11,7,4
+PL,2023,2023-09-24,435993,Arsenal FC,Tottenham Hotspur FC,2,2,0,13,13,9,4,13,5
+PL,2023,2023-09-24,435995,Brighton & Hove Albion FC,AFC Bournemouth,3,1,1,12,3,15,7,4,8
+PL,2023,2023-09-24,435997,Chelsea FC,Aston Villa FC,0,1,0,5,9,5,5,11,10
+PD,2023,2023-09-24,438524,Club Atlético de Madrid,Real Madrid CF,3,1,1,7,15,10,4,10,3
+PL,2023,2023-09-24,435999,Liverpool FC,West Ham United FC,3,1,1,13,10,12,4,10,7
+PD,2023,2023-09-24,438530,Rayo Vallecano de Madrid,Villarreal CF,1,1,0,9,6,6,8,8,10
+PD,2023,2023-09-24,438525,Real Betis Balompié,Cádiz CF,1,1,0,7,7,5,10,5,7
+PD,2023,2023-09-24,438531,Real Sociedad de Fútbol,Getafe CF,4,3,1,6,7,8,7,5,7
+PL,2023,2023-09-24,436002,Sheffield United FC,Newcastle United FC,0,8,0,1,6,5,9,8,7
+PD,2023,2023-09-24,438533,UD Las Palmas,Granada CF,1,0,1,2,3,1,4,9,16
+PD,2023,2023-09-26,438542,RCD Mallorca,FC Barcelona,2,2,0,4,15,6,9,16,6
+PD,2023,2023-09-26,438539,Sevilla FC,UD Almería,5,1,1,4,2,6,8,7,11
+PD,2023,2023-09-27,438534,Athletic Club,Getafe CF,2,2,0,13,6,11,2,8,11
+PD,2023,2023-09-27,438537,Cádiz CF,Rayo Vallecano de Madrid,0,0,0,5,7,5,8,5,9
+PD,2023,2023-09-27,438543,Real Madrid CF,UD Las Palmas,2,0,1,12,4,9,6,1,3
+PD,2023,2023-09-27,438540,Valencia CF,Real Sociedad de Fútbol,0,1,0,7,8,7,5,11,9
+PD,2023,2023-09-27,438541,Villarreal CF,Girona FC,1,2,0,7,15,8,9,15,6
+PD,2023,2023-09-28,438535,CA Osasuna,Club Atlético de Madrid,0,2,0,4,10,5,8,13,5
+PD,2023,2023-09-28,438538,Granada CF,Real Betis Balompié,1,1,0,3,5,8,14,4,10
+PD,2023,2023-09-28,438536,RC Celta de Vigo,Deportivo Alavés,1,1,0,4,6,6,8,5,8
+PD,2023,2023-09-29,438547,FC Barcelona,Sevilla FC,1,0,1,13,7,16,8,10,7
+PL,2023,2023-09-30,436003,AFC Bournemouth,Arsenal FC,0,4,0,2,11,4,10,9,5
+PL,2023,2023-09-30,436004,Aston Villa FC,Brighton & Hove Albion FC,6,1,1,12,12,11,5,14,7
+PL,2023,2023-09-30,436005,Everton FC,Luton Town FC,1,2,0,4,1,5,9,3,11
+PD,2023,2023-09-30,438548,Getafe CF,Villarreal CF,0,0,0,7,4,10,10,8,11
+PD,2023,2023-09-30,438549,Girona FC,Real Madrid CF,0,3,0,15,12,14,7,8,5
+PL,2023,2023-09-30,436007,Manchester United FC,Crystal Palace FC,0,1,0,6,5,6,10,5,7
+PL,2023,2023-09-30,436008,Newcastle United FC,Burnley FC,2,0,1,6,1,11,6,4,13
+PD,2023,2023-09-30,438550,Rayo Vallecano de Madrid,RCD Mallorca,2,2,0,5,5,3,9,8,10
+PD,2023,2023-09-30,438551,Real Sociedad de Fútbol,Athletic Club,3,0,1,10,11,11,8,11,4
+PL,2023,2023-09-30,436010,Tottenham Hotspur FC,Liverpool FC,2,1,1,13,15,13,5,14,4
+PL,2023,2023-09-30,436011,West Ham United FC,Sheffield United FC,2,0,1,9,1,10,9,5,16
+PL,2023,2023-09-30,436012,Wolverhampton Wanderers FC,Manchester City FC,2,1,1,4,15,6,11,13,3
+PD,2023,2023-10-01,438544,Club Atlético de Madrid,Cádiz CF,3,2,1,10,6,12,4,5,6
+PD,2023,2023-10-01,438546,Deportivo Alavés,CA Osasuna,0,2,0,4,4,2,6,5,8
+PL,2023,2023-10-01,436009,Nottingham Forest FC,Brentford FC,1,1,0,7,5,6,7,7,7
+PD,2023,2023-10-01,438545,Real Betis Balompié,Valencia CF,3,0,1,5,4,5,11,6,6
+PD,2023,2023-10-01,438552,UD Almería,Granada CF,3,3,0,2,4,7,13,9,13
+PL,2023,2023-10-02,436006,Fulham FC,Chelsea FC,0,2,0,5,4,4,10,4,5
+PD,2023,2023-10-02,438553,UD Las Palmas,RC Celta de Vigo,2,1,1,4,4,1,4,6,8
+PL,2023,2023-10-03,435957,Luton Town FC,Burnley FC,1,2,0,4,1,4,8,4,12
+PD,2023,2023-10-06,438554,Athletic Club,UD Almería,3,0,1,8,2,7,5,9,15
+PL,2023,2023-10-07,436015,Burnley FC,Chelsea FC,1,4,0,4,7,5,10,5,2
+PL,2023,2023-10-07,436016,Crystal Palace FC,Nottingham Forest FC,0,0,0,8,5,6,6,5,7
+PD,2023,2023-10-07,438558,Cádiz CF,Girona FC,0,1,0,5,12,6,8,12,9
+PL,2023,2023-10-07,436017,Everton FC,AFC Bournemouth,3,0,1,4,2,6,7,3,11
+PL,2023,2023-10-07,436018,Fulham FC,Sheffield United FC,3,1,1,5,1,4,9,4,16
+PL,2023,2023-10-07,436019,Luton Town FC,Tottenham Hotspur FC,0,1,0,4,13,5,7,13,6
+PL,2023,2023-10-07,436020,Manchester United FC,Brentford FC,2,1,1,6,3,6,9,5,8
+PD,2023,2023-10-07,438562,RCD Mallorca,Valencia CF,1,1,0,6,4,8,9,5,7
+PD,2023,2023-10-07,438563,Real Madrid CF,CA Osasuna,4,0,1,12,4,10,5,5,7
+PD,2023,2023-10-07,438560,Sevilla FC,Rayo Vallecano de Madrid,2,2,0,7,6,7,4,5,4
+PL,2023,2023-10-08,436013,Arsenal FC,Manchester City FC,1,0,1,11,12,12,5,13,5
+PL,2023,2023-10-08,436014,Brighton & Hove Albion FC,Liverpool FC,2,2,0,9,12,11,12,12,5
+PD,2023,2023-10-08,438555,Club Atlético de Madrid,Real Sociedad de Fútbol,2,1,1,12,12,15,6,14,8
+PD,2023,2023-10-08,438557,Deportivo Alavés,Real Betis Balompié,1,1,0,4,8,2,7,6,7
+PD,2023,2023-10-08,438559,Granada CF,FC Barcelona,2,2,0,2,13,9,14,13,5
+PD,2023,2023-10-08,438556,RC Celta de Vigo,Getafe CF,2,2,0,4,5,7,9,9,10
+PD,2023,2023-10-08,438561,Villarreal CF,UD Las Palmas,1,2,0,5,6,5,7,3,5
+PL,2023,2023-10-08,436021,West Ham United FC,Newcastle United FC,2,2,0,9,9,9,8,13,5
+PL,2023,2023-10-08,436022,Wolverhampton Wanderers FC,Aston Villa FC,1,1,0,7,12,7,8,13,6
+PD,2023,2023-10-20,438564,CA Osasuna,Granada CF,2,0,1,4,3,4,9,8,11
+PL,2023,2023-10-21,436023,AFC Bournemouth,Wolverhampton Wanderers FC,1,2,0,2,5,3,12,7,9
+PL,2023,2023-10-21,436025,Brentford FC,Burnley FC,3,0,1,2,4,5,9,4,9
+PL,2023,2023-10-21,436026,Chelsea FC,Arsenal FC,2,2,0,7,13,6,3,11,3
+PD,2023,2023-10-21,438567,Getafe CF,Real Betis Balompié,1,1,0,6,6,10,10,6,8
+PL,2023,2023-10-21,436027,Liverpool FC,Everton FC,2,0,1,10,7,12,6,9,6
+PL,2023,2023-10-21,436028,Manchester City FC,Brighton & Hove Albion FC,2,1,1,9,10,11,5,12,11
+PL,2023,2023-10-21,436029,Newcastle United FC,Crystal Palace FC,4,0,1,10,8,14,5,5,5
+PL,2023,2023-10-21,436030,Nottingham Forest FC,Luton Town FC,2,2,0,6,4,3,4,4,6
+PD,2023,2023-10-21,438565,RC Celta de Vigo,Club Atlético de Madrid,0,3,0,2,12,6,9,10,7
+PD,2023,2023-10-21,438572,Real Sociedad de Fútbol,RCD Mallorca,1,0,1,9,6,10,7,9,10
+PD,2023,2023-10-21,438569,Sevilla FC,Real Madrid CF,1,1,0,8,12,8,4,12,4
+PL,2023,2023-10-21,436031,Sheffield United FC,Manchester United FC,1,2,0,1,6,4,17,5,8
+PL,2023,2023-10-22,436024,Aston Villa FC,West Ham United FC,4,1,1,10,7,11,6,8,9
+PD,2023,2023-10-22,438566,FC Barcelona,Athletic Club,1,0,1,11,10,13,6,10,5
+PD,2023,2023-10-22,438568,Girona FC,UD Almería,5,2,1,12,2,12,9,7,15
+PD,2023,2023-10-22,438573,UD Las Palmas,Rayo Vallecano de Madrid,0,1,0,9,7,5,5,7,5
+PD,2023,2023-10-22,438571,Villarreal CF,Deportivo Alavés,1,1,0,5,2,5,6,2,8
+PL,2023,2023-10-23,436032,Tottenham Hotspur FC,Fulham FC,2,0,1,13,7,12,6,5,8
+PD,2023,2023-10-23,438570,Valencia CF,Cádiz CF,2,0,1,5,2,6,7,3,8
+PL,2023,2023-10-27,436038,Crystal Palace FC,Tottenham Hotspur FC,1,2,0,5,13,2,7,9,4
+PD,2023,2023-10-27,438579,Girona FC,RC Celta de Vigo,1,0,1,12,2,13,9,6,11
+PL,2023,2023-10-28,436033,AFC Bournemouth,Burnley FC,2,1,1,1,3,2,12,3,11
+PL,2023,2023-10-28,436034,Arsenal FC,Sheffield United FC,5,0,1,11,0,10,4,3,17
+PL,2023,2023-10-28,436037,Chelsea FC,Brentford FC,0,2,0,8,4,8,4,6,7
+PD,2023,2023-10-28,438578,Cádiz CF,Sevilla FC,2,2,0,2,6,3,7,8,5
+PD,2023,2023-10-28,438577,FC Barcelona,Real Madrid CF,1,2,0,11,10,9,6,11,4
+PD,2023,2023-10-28,438582,RCD Mallorca,Getafe CF,0,0,0,3,4,8,11,8,9
+PD,2023,2023-10-28,438583,UD Almería,UD Las Palmas,1,2,0,2,9,8,18,5,5
+PL,2023,2023-10-28,436042,Wolverhampton Wanderers FC,Newcastle United FC,2,2,0,8,13,7,7,17,2
+PL,2023,2023-10-29,436035,Aston Villa FC,Luton Town FC,3,1,1,13,5,15,4,6,7
+PD,2023,2023-10-29,438574,Athletic Club,Valencia CF,2,2,0,7,5,7,6,5,7
+PL,2023,2023-10-29,436036,Brighton & Hove Albion FC,Fulham FC,1,1,0,7,7,10,12,4,5
+PD,2023,2023-10-29,438575,Club Atlético de Madrid,Deportivo Alavés,2,1,1,15,3,13,4,3,7
+PL,2023,2023-10-29,436039,Liverpool FC,Nottingham Forest FC,3,0,1,10,4,11,6,4,6
+PL,2023,2023-10-29,436040,Manchester United FC,Manchester City FC,0,3,0,9,9,6,6,8,5
+PD,2023,2023-10-29,438581,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,2,2,0,7,12,6,5,10,5
+PD,2023,2023-10-29,438576,Real Betis Balompié,CA Osasuna,2,1,1,7,7,7,4,4,6
+PL,2023,2023-10-29,436041,West Ham United FC,Everton FC,0,1,0,4,6,7,12,7,6
+PD,2023,2023-10-30,438580,Granada CF,Villarreal CF,2,3,0,3,3,6,9,4,6
+PD,2023,2023-11-03,438593,UD Las Palmas,Club Atlético de Madrid,2,1,1,9,15,6,6,12,4
+PL,2023,2023-11-04,436043,Brentford FC,West Ham United FC,3,2,1,7,4,8,6,6,10
+PL,2023,2023-11-04,436044,Burnley FC,Crystal Palace FC,0,2,0,3,5,4,12,2,6
+PD,2023,2023-11-04,438585,CA Osasuna,Girona FC,2,4,0,6,12,5,8,9,6
+PL,2023,2023-11-04,436045,Everton FC,Brighton & Hove Albion FC,1,1,0,9,5,8,5,8,12
+PL,2023,2023-11-04,436046,Fulham FC,Manchester United FC,0,1,0,5,9,4,6,5,6
+PL,2023,2023-11-04,436048,Manchester City FC,AFC Bournemouth,6,1,1,9,3,8,4,4,13
+PL,2023,2023-11-04,436049,Newcastle United FC,Arsenal FC,1,0,1,11,11,18,4,14,4
+PD,2023,2023-11-04,438586,RC Celta de Vigo,Sevilla FC,1,1,0,2,6,4,9,10,7
+PD,2023,2023-11-04,438584,Real Betis Balompié,RCD Mallorca,2,0,1,9,4,8,4,5,6
+PD,2023,2023-11-04,438592,Real Sociedad de Fútbol,FC Barcelona,0,1,0,10,8,8,4,7,6
+PL,2023,2023-11-04,436051,Sheffield United FC,Wolverhampton Wanderers FC,2,1,1,0,9,2,20,8,6
+PD,2023,2023-11-05,438587,Deportivo Alavés,UD Almería,1,0,1,3,1,4,7,7,18
+PL,2023,2023-11-05,436047,Luton Town FC,Liverpool FC,1,1,0,4,10,6,9,11,5
+PL,2023,2023-11-05,436050,Nottingham Forest FC,Aston Villa FC,2,0,1,3,13,3,8,15,4
+PD,2023,2023-11-05,438591,Real Madrid CF,Rayo Vallecano de Madrid,0,0,0,13,7,12,2,7,6
+PD,2023,2023-11-05,438589,Valencia CF,Granada CF,1,0,1,5,3,5,7,8,11
+PD,2023,2023-11-05,438590,Villarreal CF,Athletic Club,2,3,0,5,5,6,7,7,8
+PD,2023,2023-11-06,438588,Getafe CF,Cádiz CF,1,0,1,5,2,5,5,4,8
+PL,2023,2023-11-06,436052,Tottenham Hotspur FC,Chelsea FC,1,4,0,13,7,9,4,8,6
+PD,2023,2023-11-10,438594,Athletic Club,RC Celta de Vigo,4,3,1,7,2,8,8,4,9
+PL,2023,2023-11-11,436053,AFC Bournemouth,Newcastle United FC,2,0,1,3,11,4,16,11,4
+PL,2023,2023-11-11,436054,Arsenal FC,Burnley FC,3,1,1,10,3,12,3,4,12
+PD,2023,2023-11-11,438596,CA Osasuna,UD Las Palmas,1,1,0,6,12,7,10,8,5
+PL,2023,2023-11-11,436058,Crystal Palace FC,Everton FC,2,3,0,7,7,4,6,6,5
+PD,2023,2023-11-11,438598,Granada CF,Getafe CF,1,1,0,2,7,7,11,4,3
+PL,2023,2023-11-11,436060,Manchester United FC,Luton Town FC,1,0,1,9,2,5,6,5,9
+PD,2023,2023-11-11,438600,Rayo Vallecano de Madrid,Girona FC,1,2,0,7,12,7,6,11,7
+PD,2023,2023-11-11,438602,Real Madrid CF,Valencia CF,5,1,1,11,8,10,2,6,6
+PD,2023,2023-11-11,438603,UD Almería,Real Sociedad de Fútbol,1,3,0,1,7,6,14,7,5
+PL,2023,2023-11-11,436062,Wolverhampton Wanderers FC,Tottenham Hotspur FC,2,1,1,8,12,8,7,8,6
+PL,2023,2023-11-12,436055,Aston Villa FC,Fulham FC,3,1,1,10,4,14,6,4,7
+PL,2023,2023-11-12,436056,Brighton & Hove Albion FC,Sheffield United FC,1,1,0,3,3,6,12,4,13
+PL,2023,2023-11-12,436057,Chelsea FC,Manchester City FC,4,4,0,10,9,12,6,12,5
+PD,2023,2023-11-12,438595,Club Atlético de Madrid,Villarreal CF,3,1,1,12,5,11,6,7,8
+PD,2023,2023-11-12,438597,FC Barcelona,Deportivo Alavés,2,1,1,10,5,6,4,4,6
+PL,2023,2023-11-12,436059,Liverpool FC,Brentford FC,3,0,1,8,10,9,5,10,5
+PD,2023,2023-11-12,438599,Sevilla FC,Real Betis Balompié,1,1,0,4,11,6,7,9,3
+PL,2023,2023-11-12,436061,West Ham United FC,Nottingham Forest FC,3,2,1,4,6,7,10,5,6
+PD,2023,2023-11-24,438606,Deportivo Alavés,Granada CF,3,1,1,5,2,5,6,5,9
+PL,2023,2023-11-25,436063,Brentford FC,Arsenal FC,0,1,0,9,10,9,7,11,4
+PL,2023,2023-11-25,436064,Burnley FC,West Ham United FC,1,2,0,0,4,3,14,8,12
+PD,2023,2023-11-25,438604,Club Atlético de Madrid,RCD Mallorca,1,0,1,12,3,11,5,3,6
+PD,2023,2023-11-25,438608,Getafe CF,UD Almería,2,1,1,7,0,5,4,4,14
+PL,2023,2023-11-25,436067,Luton Town FC,Crystal Palace FC,2,1,1,2,4,4,8,5,9
+PL,2023,2023-11-25,436068,Manchester City FC,Liverpool FC,1,1,0,10,11,15,7,11,3
+PL,2023,2023-11-25,436069,Newcastle United FC,Chelsea FC,4,1,1,8,8,9,6,14,10
+PL,2023,2023-11-25,436070,Nottingham Forest FC,Brighton & Hove Albion FC,2,3,0,5,4,6,8,6,7
+PD,2023,2023-11-25,438612,Rayo Vallecano de Madrid,FC Barcelona,1,1,0,6,10,6,6,7,5
+PL,2023,2023-11-25,436071,Sheffield United FC,AFC Bournemouth,1,3,0,4,6,5,12,6,12
+PD,2023,2023-11-25,438610,Valencia CF,RC Celta de Vigo,0,0,0,8,2,7,8,6,11
+PD,2023,2023-11-26,438607,Cádiz CF,Real Madrid CF,0,3,0,1,11,4,9,12,3
+PL,2023,2023-11-26,436065,Everton FC,Manchester United FC,0,3,0,10,12,8,5,6,5
+PD,2023,2023-11-26,438605,Real Betis Balompié,UD Las Palmas,1,0,1,9,10,7,4,7,5
+PD,2023,2023-11-26,438613,Real Sociedad de Fútbol,Sevilla FC,2,1,1,7,5,7,6,7,7
+PL,2023,2023-11-26,436072,Tottenham Hotspur FC,Aston Villa FC,1,2,0,9,10,7,7,11,6
+PD,2023,2023-11-26,438611,Villarreal CF,CA Osasuna,3,1,1,4,4,8,11,6,11
+PL,2023,2023-11-27,436066,Fulham FC,Wolverhampton Wanderers FC,3,2,1,4,8,5,8,8,7
+PD,2023,2023-11-27,438609,Girona FC,Athletic Club,1,1,0,15,10,13,5,12,8
+PD,2023,2023-11-29,438601,RCD Mallorca,Cádiz CF,1,1,0,2,1,1,5,2,9
+PD,2023,2023-12-01,438623,UD Las Palmas,Getafe CF,2,0,1,7,9,5,5,5,3
+PL,2023,2023-12-02,436074,Arsenal FC,Wolverhampton Wanderers FC,2,1,1,10,7,11,4,9,9
+PD,2023,2023-12-02,438614,Athletic Club,Rayo Vallecano de Madrid,4,0,1,8,6,10,9,5,5
+PL,2023,2023-12-02,436075,Brentford FC,Luton Town FC,3,1,1,9,5,8,6,6,8
+PL,2023,2023-12-02,436076,Burnley FC,Sheffield United FC,5,0,1,0,4,3,12,5,12
+PD,2023,2023-12-02,438615,CA Osasuna,Real Sociedad de Fútbol,1,1,0,4,10,7,10,8,5
+PD,2023,2023-12-02,438618,Girona FC,Valencia CF,2,1,1,13,8,13,6,6,7
+PL,2023,2023-12-02,436080,Newcastle United FC,Manchester United FC,1,0,1,10,12,11,5,7,4
+PL,2023,2023-12-02,436081,Nottingham Forest FC,Everton FC,0,1,0,4,7,8,11,5,8
+PD,2023,2023-12-02,438621,Real Madrid CF,Granada CF,2,0,1,11,1,11,3,4,10
+PL,2023,2023-12-03,436073,AFC Bournemouth,Aston Villa FC,2,2,0,9,12,9,10,12,6
+PL,2023,2023-12-03,436077,Chelsea FC,Brighton & Hove Albion FC,3,2,1,5,6,11,13,7,7
+PD,2023,2023-12-03,438617,FC Barcelona,Club Atlético de Madrid,1,0,1,10,12,6,4,10,4
+PL,2023,2023-12-03,436078,Liverpool FC,Fulham FC,4,3,1,11,4,10,2,5,9
+PL,2023,2023-12-03,436079,Manchester City FC,Tottenham Hotspur FC,3,3,0,11,6,16,7,7,9
+PD,2023,2023-12-03,438620,RCD Mallorca,Deportivo Alavés,0,0,0,2,7,1,5,7,6
+PD,2023,2023-12-03,438619,Sevilla FC,Villarreal CF,1,1,0,4,7,6,7,10,10
+PD,2023,2023-12-03,438622,UD Almería,Real Betis Balompié,0,0,0,0,11,5,13,7,3
+PL,2023,2023-12-03,436082,West Ham United FC,Crystal Palace FC,1,1,0,6,3,8,11,6,11
+PD,2023,2023-12-04,438616,RC Celta de Vigo,Cádiz CF,1,1,0,2,2,4,9,3,9
+PL,2023,2023-12-05,436087,Luton Town FC,Arsenal FC,3,4,0,4,12,5,9,11,3
+PL,2023,2023-12-05,436090,Wolverhampton Wanderers FC,Burnley FC,1,0,1,4,3,8,10,8,9
+PL,2023,2023-12-06,436083,Aston Villa FC,Manchester City FC,1,0,1,10,9,10,7,17,9
+PL,2023,2023-12-06,436084,Brighton & Hove Albion FC,Brentford FC,2,1,1,6,9,8,8,8,7
+PL,2023,2023-12-06,436091,Crystal Palace FC,AFC Bournemouth,0,2,0,4,10,7,8,10,10
+PL,2023,2023-12-06,436086,Fulham FC,Nottingham Forest FC,5,0,1,4,3,8,11,6,10
+PL,2023,2023-12-06,436092,Manchester United FC,Chelsea FC,2,1,1,9,7,5,4,12,13
+PL,2023,2023-12-06,436088,Sheffield United FC,Liverpool FC,0,2,0,4,11,4,15,12,5
+PL,2023,2023-12-07,436085,Everton FC,Newcastle United FC,3,0,1,10,10,6,6,8,5
+PL,2023,2023-12-07,436089,Tottenham Hotspur FC,West Ham United FC,1,2,0,4,7,8,12,8,8
+PD,2023,2023-12-08,438629,Getafe CF,Valencia CF,1,0,1,8,5,4,4,5,9
+PL,2023,2023-12-09,436093,Aston Villa FC,Arsenal FC,1,0,1,10,12,8,6,10,6
+PL,2023,2023-12-09,436094,Brighton & Hove Albion FC,Burnley FC,1,1,0,8,3,9,8,7,8
+PL,2023,2023-12-09,436095,Crystal Palace FC,Liverpool FC,1,2,0,4,11,6,8,11,5
+PD,2023,2023-12-09,438626,Deportivo Alavés,UD Las Palmas,0,1,0,7,10,6,5,7,4
+PL,2023,2023-12-09,436099,Manchester United FC,AFC Bournemouth,0,3,0,12,10,7,2,10,9
+PD,2023,2023-12-09,438633,RCD Mallorca,Sevilla FC,1,0,1,3,4,1,4,6,7
+PD,2023,2023-12-09,438625,Real Betis Balompié,Real Madrid CF,1,1,0,11,13,6,2,12,2
+PL,2023,2023-12-09,436100,Sheffield United FC,Brentford FC,1,0,1,4,6,4,12,7,9
+PD,2023,2023-12-09,438631,Villarreal CF,Real Sociedad de Fútbol,0,3,0,7,8,10,10,8,6
+PL,2023,2023-12-09,436102,Wolverhampton Wanderers FC,Nottingham Forest FC,1,1,0,6,3,7,8,6,12
+PD,2023,2023-12-10,438624,Club Atlético de Madrid,UD Almería,2,1,1,9,1,7,5,3,8
+PD,2023,2023-12-10,438628,Cádiz CF,CA Osasuna,1,1,0,3,2,4,8,6,11
+PL,2023,2023-12-10,436096,Everton FC,Chelsea FC,2,0,1,10,7,8,6,13,13
+PD,2023,2023-12-10,438627,FC Barcelona,Girona FC,2,4,0,10,13,6,4,10,5
+PL,2023,2023-12-10,436097,Fulham FC,West Ham United FC,5,0,1,6,10,12,10,10,8
+PL,2023,2023-12-10,436098,Luton Town FC,Manchester City FC,1,2,0,4,6,7,10,14,10
+PL,2023,2023-12-10,436101,Tottenham Hotspur FC,Newcastle United FC,4,1,1,1,9,7,13,6,6
+PD,2023,2023-12-11,438630,Granada CF,Athletic Club,1,1,0,1,11,4,10,14,8
+PD,2023,2023-12-11,438632,Rayo Vallecano de Madrid,RC Celta de Vigo,0,0,0,3,3,4,9,5,7
+PD,2023,2023-12-15,438635,CA Osasuna,Rayo Vallecano de Madrid,1,0,1,3,3,6,10,2,7
+PL,2023,2023-12-15,436111,Nottingham Forest FC,Tottenham Hotspur FC,0,2,0,1,4,5,13,10,10
+PD,2023,2023-12-16,438634,Athletic Club,Club Atlético de Madrid,2,0,1,11,9,13,7,7,5
+PL,2023,2023-12-16,436106,Burnley FC,Everton FC,0,2,0,4,12,8,7,9,5
+PL,2023,2023-12-16,436107,Chelsea FC,Sheffield United FC,2,0,1,4,4,9,14,3,11
+PL,2023,2023-12-16,436109,Manchester City FC,Crystal Palace FC,2,2,0,6,1,10,10,5,10
+PL,2023,2023-12-16,436110,Newcastle United FC,Fulham FC,3,0,1,6,9,6,10,17,9
+PD,2023,2023-12-16,438636,RC Celta de Vigo,Granada CF,1,0,1,4,2,5,6,3,8
+PD,2023,2023-12-16,438638,Sevilla FC,Getafe CF,0,3,0,3,10,4,6,5,4
+PD,2023,2023-12-16,438639,Valencia CF,FC Barcelona,1,1,0,4,10,3,8,7,6
+PL,2023,2023-12-17,436104,Arsenal FC,Brighton & Hove Albion FC,2,0,1,12,8,10,6,9,8
+PL,2023,2023-12-17,436105,Brentford FC,Aston Villa FC,1,2,0,3,13,4,8,9,4
+PL,2023,2023-12-17,436108,Liverpool FC,Manchester United FC,0,0,0,13,9,12,5,6,5
+PD,2023,2023-12-17,438640,Real Madrid CF,Villarreal CF,4,1,1,11,4,11,2,7,11
+PD,2023,2023-12-17,438641,Real Sociedad de Fútbol,Real Betis Balompié,0,0,0,10,9,9,4,5,2
+PD,2023,2023-12-17,438642,UD Almería,RCD Mallorca,0,0,0,1,5,3,8,2,4
+PD,2023,2023-12-17,438643,UD Las Palmas,Cádiz CF,1,1,0,10,3,6,3,3,7
+PL,2023,2023-12-17,436112,West Ham United FC,Wolverhampton Wanderers FC,3,0,1,10,7,8,10,7,7
+PD,2023,2023-12-18,438637,Girona FC,Deportivo Alavés,3,0,1,13,7,13,7,5,4
+PD,2023,2023-12-19,438645,Club Atlético de Madrid,Getafe CF,3,3,0,9,10,6,5,7,4
+PD,2023,2023-12-19,438650,Granada CF,Sevilla FC,0,3,0,2,2,3,8,3,8
+PD,2023,2023-12-19,438652,Rayo Vallecano de Madrid,Valencia CF,0,1,0,2,2,2,8,3,9
+PD,2023,2023-12-20,438644,Athletic Club,UD Las Palmas,1,0,1,11,8,12,5,5,3
+PD,2023,2023-12-20,438648,FC Barcelona,UD Almería,3,2,1,8,2,7,7,3,7
+PD,2023,2023-12-20,438651,Villarreal CF,RC Celta de Vigo,3,2,1,4,6,6,12,5,5
+PL,2023,2023-12-21,436114,Crystal Palace FC,Brighton & Hove Albion FC,1,1,0,2,7,5,9,8,9
+PD,2023,2023-12-21,438649,Cádiz CF,Real Sociedad de Fútbol,0,0,0,4,11,4,7,9,3
+PD,2023,2023-12-21,438647,Deportivo Alavés,Real Madrid CF,0,1,0,4,13,4,7,15,3
+PD,2023,2023-12-21,438653,RCD Mallorca,CA Osasuna,3,2,1,6,6,2,2,5,6
+PD,2023,2023-12-21,438646,Real Betis Balompié,Girona FC,1,1,0,7,13,3,2,12,5
+PL,2023,2023-12-22,436113,Aston Villa FC,Sheffield United FC,1,1,0,13,3,8,4,2,12
+PD,2023,2023-12-23,438504,Club Atlético de Madrid,Sevilla FC,1,0,1,7,4,6,7,5,7
+PL,2023,2023-12-23,436115,Fulham FC,Burnley FC,0,2,0,9,4,16,9,7,6
+PL,2023,2023-12-23,436116,Liverpool FC,Arsenal FC,1,1,0,11,12,9,5,9,5
+PL,2023,2023-12-23,436117,Luton Town FC,Newcastle United FC,1,0,1,3,9,7,11,9,8
+PL,2023,2023-12-23,436119,Nottingham Forest FC,AFC Bournemouth,2,3,0,1,13,3,12,12,3
+PL,2023,2023-12-23,436120,Tottenham Hotspur FC,Everton FC,2,1,1,7,12,11,8,8,3
+PL,2023,2023-12-23,436121,West Ham United FC,Manchester United FC,2,0,1,10,7,8,8,5,5
+PL,2023,2023-12-24,436122,Wolverhampton Wanderers FC,Chelsea FC,2,1,1,4,6,5,9,7,10
+PL,2023,2023-12-26,436123,AFC Bournemouth,Fulham FC,3,0,1,13,6,13,5,13,9
+PL,2023,2023-12-26,436127,Burnley FC,Liverpool FC,0,2,0,7,11,8,4,9,5
+PL,2023,2023-12-26,436130,Manchester United FC,Aston Villa FC,3,2,1,4,11,2,7,7,4
+PL,2023,2023-12-26,436131,Newcastle United FC,Nottingham Forest FC,1,3,0,6,1,5,8,3,12
+PL,2023,2023-12-26,436132,Sheffield United FC,Luton Town FC,2,3,0,4,6,2,10,8,10
+PL,2023,2023-12-27,436125,Brentford FC,Wolverhampton Wanderers FC,1,4,0,3,7,5,7,5,7
+PL,2023,2023-12-27,436128,Chelsea FC,Crystal Palace FC,2,1,1,6,3,7,8,5,8
+PL,2023,2023-12-27,436129,Everton FC,Manchester City FC,1,3,0,12,6,9,2,8,8
+PL,2023,2023-12-28,436124,Arsenal FC,West Ham United FC,0,2,0,10,10,9,6,8,7
+PL,2023,2023-12-28,436126,Brighton & Hove Albion FC,Tottenham Hotspur FC,4,2,1,5,10,6,8,12,7
+PL,2023,2023-12-30,436133,Aston Villa FC,Burnley FC,3,2,1,10,4,7,5,3,6
+PL,2023,2023-12-30,436134,Crystal Palace FC,Brentford FC,3,1,1,2,3,5,9,6,10
+PL,2023,2023-12-30,436137,Luton Town FC,Chelsea FC,2,3,0,6,6,9,11,6,7
+PL,2023,2023-12-30,436138,Manchester City FC,Sheffield United FC,2,0,1,8,4,10,8,4,8
+PL,2023,2023-12-30,436139,Nottingham Forest FC,Manchester United FC,2,1,1,4,7,6,12,5,8
+PL,2023,2023-12-30,436142,Wolverhampton Wanderers FC,Everton FC,3,0,1,10,9,8,6,9,5
+PL,2023,2023-12-31,436135,Fulham FC,Arsenal FC,2,1,1,6,7,10,8,7,7
+PL,2023,2023-12-31,436140,Tottenham Hotspur FC,AFC Bournemouth,3,1,1,9,13,11,8,13,4
+PL,2023,2024-01-01,436136,Liverpool FC,Newcastle United FC,4,2,1,11,3,7,2,5,11
+PD,2023,2024-01-02,438656,Getafe CF,Rayo Vallecano de Madrid,0,2,0,10,2,9,6,1,7
+PD,2023,2024-01-02,438662,Real Sociedad de Fútbol,Deportivo Alavés,1,1,0,9,4,6,2,3,6
+PD,2023,2024-01-02,438660,Valencia CF,Villarreal CF,3,1,1,5,7,3,4,8,11
+PL,2023,2024-01-02,436141,West Ham United FC,Brighton & Hove Albion FC,0,0,0,12,8,9,6,8,7
+PD,2023,2024-01-03,438657,Girona FC,Club Atlético de Madrid,4,3,1,11,7,11,5,6,7
+PD,2023,2024-01-03,438658,Granada CF,Cádiz CF,2,0,1,1,5,2,10,4,4
+PD,2023,2024-01-03,438655,RC Celta de Vigo,Real Betis Balompié,2,1,1,6,7,4,4,3,2
+PD,2023,2024-01-03,438661,Real Madrid CF,RCD Mallorca,1,0,1,13,9,11,2,5,3
+PD,2023,2024-01-04,438654,CA Osasuna,UD Almería,1,0,1,5,2,6,8,4,7
+PD,2023,2024-01-04,438659,Sevilla FC,Athletic Club,0,2,0,4,11,4,6,9,2
+PD,2023,2024-01-04,438663,UD Las Palmas,FC Barcelona,1,2,0,7,8,4,3,8,8
+PL,2023,2024-01-12,436147,Burnley FC,Luton Town FC,1,1,0,4,6,5,8,10,11
+PD,2023,2024-01-12,438670,Sevilla FC,Deportivo Alavés,2,3,0,3,2,3,7,1,6
+PD,2023,2024-01-13,438664,Athletic Club,Real Sociedad de Fútbol,2,1,1,13,7,10,1,5,2
+PL,2023,2024-01-13,436148,Chelsea FC,Fulham FC,1,0,1,9,6,8,7,7,9
+PL,2023,2024-01-13,436151,Newcastle United FC,Manchester City FC,2,3,0,3,10,7,12,9,5
+PD,2023,2024-01-13,438671,RCD Mallorca,RC Celta de Vigo,1,1,0,8,8,4,3,6,5
+PD,2023,2024-01-13,438666,Real Betis Balompié,Granada CF,1,0,1,4,4,3,4,3,7
+PD,2023,2024-01-13,438673,UD Las Palmas,Villarreal CF,3,0,1,7,4,5,4,6,13
+PD,2023,2024-01-14,438668,Cádiz CF,Valencia CF,1,4,0,4,7,3,5,6,5
+PL,2023,2024-01-14,436149,Everton FC,Aston Villa FC,0,0,0,6,10,6,8,9,7
+PL,2023,2024-01-14,436150,Manchester United FC,Tottenham Hotspur FC,2,2,0,4,12,4,9,13,7
+PD,2023,2024-01-14,438672,UD Almería,Girona FC,0,0,0,2,13,3,6,14,7
+PD,2023,2024-01-19,438677,Deportivo Alavés,Cádiz CF,1,0,1,4,3,4,8,3,8
+PL,2023,2024-01-20,436144,Arsenal FC,Crystal Palace FC,5,0,1,4,5,4,6,8,8
+PL,2023,2024-01-20,436145,Brentford FC,Nottingham Forest FC,3,2,1,0,7,4,12,8,8
+PD,2023,2024-01-20,438676,RC Celta de Vigo,Real Sociedad de Fútbol,0,1,0,8,6,6,5,5,3
+PD,2023,2024-01-20,438682,Rayo Vallecano de Madrid,UD Las Palmas,0,2,0,4,7,2,6,6,4
+PD,2023,2024-01-20,438680,Valencia CF,Athletic Club,1,0,1,10,13,9,4,8,2
+PD,2023,2024-01-20,438681,Villarreal CF,RCD Mallorca,1,1,0,3,8,5,15,5,4
+PL,2023,2024-01-21,436143,AFC Bournemouth,Liverpool FC,0,4,0,12,11,12,5,9,4
+PD,2023,2024-01-21,438675,CA Osasuna,Getafe CF,3,2,1,8,7,6,5,7,7
+PD,2023,2024-01-21,438678,Girona FC,Sevilla FC,5,1,1,11,3,12,6,5,9
+PD,2023,2024-01-21,438674,Real Betis Balompié,FC Barcelona,2,4,0,6,10,4,4,9,8
+PD,2023,2024-01-21,438683,Real Madrid CF,UD Almería,3,2,1,13,2,9,2,3,6
+PL,2023,2024-01-21,436152,Sheffield United FC,West Ham United FC,2,2,0,4,10,4,8,7,5
+PL,2023,2024-01-22,436146,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,0,0,0,6,10,6,6,10,6
+PD,2023,2024-01-22,438679,Granada CF,Club Atlético de Madrid,0,1,0,4,7,3,6,9,10
+PD,2023,2024-01-26,438692,UD Almería,Deportivo Alavés,0,3,0,2,7,4,7,5,7
+PD,2023,2024-01-27,438686,FC Barcelona,Villarreal CF,3,5,0,10,4,12,10,6,13
+PD,2023,2024-01-27,438690,RCD Mallorca,Real Betis Balompié,0,1,0,6,5,5,5,5,7
+PD,2023,2024-01-27,438691,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,0,0,0,6,4,3,3,2,4
+PD,2023,2024-01-27,438693,UD Las Palmas,Real Madrid CF,1,2,0,7,13,7,4,10,4
+PD,2023,2024-01-28,438684,Club Atlético de Madrid,Valencia CF,2,0,1,7,13,8,9,10,3
+PD,2023,2024-01-28,438687,Cádiz CF,Athletic Club,0,0,0,2,12,2,8,7,2
+PD,2023,2024-01-28,438685,RC Celta de Vigo,Girona FC,0,1,0,7,11,6,6,13,5
+PD,2023,2024-01-28,438689,Sevilla FC,CA Osasuna,1,1,0,3,10,6,11,8,6
+PD,2023,2024-01-29,438688,Getafe CF,Granada CF,2,0,1,7,3,9,8,2,6
+PL,2023,2024-01-30,436158,Aston Villa FC,Newcastle United FC,1,3,0,8,3,8,7,8,11
+PL,2023,2024-01-30,436157,Crystal Palace FC,Sheffield United FC,3,2,1,5,2,7,11,5,10
+PL,2023,2024-01-30,436156,Fulham FC,Everton FC,0,0,0,3,4,2,10,4,8
+PL,2023,2024-01-30,436155,Luton Town FC,Brighton & Hove Albion FC,4,0,1,7,6,8,8,5,5
+PL,2023,2024-01-30,436153,Nottingham Forest FC,Arsenal FC,1,2,0,6,7,9,10,9,5
+PD,2023,2024-01-31,438665,Club Atlético de Madrid,Rayo Vallecano de Madrid,2,1,1,10,4,10,7,2,4
+PD,2023,2024-01-31,438667,FC Barcelona,CA Osasuna,1,0,1,10,10,13,11,8,6
+PL,2023,2024-01-31,436162,Liverpool FC,Chelsea FC,4,1,1,11,12,11,3,9,5
+PL,2023,2024-01-31,436161,Manchester City FC,Burnley FC,3,1,1,13,4,12,6,5,8
+PL,2023,2024-01-31,436159,Tottenham Hotspur FC,Brentford FC,3,2,1,10,3,11,8,6,12
+PD,2023,2024-02-01,438669,Getafe CF,Real Madrid CF,0,2,0,7,15,10,8,11,4
+PL,2023,2024-02-01,436154,West Ham United FC,AFC Bournemouth,1,1,0,11,9,9,2,10,9
+PL,2023,2024-02-01,436160,Wolverhampton Wanderers FC,Manchester United FC,3,4,0,10,5,9,5,6,8
+PD,2023,2024-02-02,438694,Athletic Club,RCD Mallorca,4,0,1,10,5,5,2,5,6
+PL,2023,2024-02-03,436166,Brighton & Hove Albion FC,Crystal Palace FC,4,1,1,6,7,5,7,8,11
+PL,2023,2024-02-03,436167,Burnley FC,Fulham FC,2,2,0,4,4,6,9,2,7
+PD,2023,2024-02-03,438697,Deportivo Alavés,FC Barcelona,1,3,0,10,12,8,4,13,10
+PL,2023,2024-02-03,436169,Everton FC,Tottenham Hotspur FC,2,2,0,2,10,2,8,12,10
+PD,2023,2024-02-03,438698,Girona FC,Real Sociedad de Fútbol,0,0,0,11,6,11,5,3,3
+PD,2023,2024-02-03,438699,Granada CF,UD Las Palmas,1,1,0,3,6,2,7,7,5
+PL,2023,2024-02-03,436171,Newcastle United FC,Luton Town FC,4,4,0,3,10,8,12,11,6
+PL,2023,2024-02-03,436172,Sheffield United FC,Aston Villa FC,0,5,0,2,5,7,11,7,9
+PD,2023,2024-02-03,438700,Valencia CF,UD Almería,2,1,1,12,1,9,4,4,10
+PL,2023,2024-02-04,436163,AFC Bournemouth,Nottingham Forest FC,1,1,0,7,6,8,10,10,10
+PL,2023,2024-02-04,436164,Arsenal FC,Liverpool FC,3,1,1,7,13,9,6,15,4
+PD,2023,2024-02-04,438696,CA Osasuna,RC Celta de Vigo,0,3,0,7,4,7,7,5,7
+PL,2023,2024-02-04,436168,Chelsea FC,Wolverhampton Wanderers FC,2,4,0,9,10,8,9,12,6
+PL,2023,2024-02-04,436170,Manchester United FC,West Ham United FC,3,0,1,7,9,10,11,7,3
+PD,2023,2024-02-04,438695,Real Betis Balompié,Getafe CF,1,1,0,7,4,6,7,7,10
+PD,2023,2024-02-04,438703,Real Madrid CF,Club Atlético de Madrid,1,1,0,15,12,9,3,9,5
+PD,2023,2024-02-04,438701,Villarreal CF,Cádiz CF,0,0,0,7,2,10,12,1,7
+PL,2023,2024-02-05,436165,Brentford FC,Manchester City FC,1,3,0,3,13,8,14,13,6
+PD,2023,2024-02-05,438702,Rayo Vallecano de Madrid,Sevilla FC,1,2,0,4,1,3,5,4,12
+PD,2023,2024-02-09,438706,Cádiz CF,Real Betis Balompié,0,2,0,2,7,1,7,6,7
+PD,2023,2024-02-10,438704,Deportivo Alavés,Villarreal CF,1,1,0,10,5,9,6,7,10
+PL,2023,2024-02-10,436175,Fulham FC,AFC Bournemouth,3,1,1,5,5,4,7,6,9
+PL,2023,2024-02-10,436176,Liverpool FC,Burnley FC,3,1,1,12,2,15,6,6,11
+PL,2023,2024-02-10,436177,Luton Town FC,Sheffield United FC,1,3,0,8,1,14,10,6,15
+PL,2023,2024-02-10,436178,Manchester City FC,Everton FC,2,0,1,15,3,14,5,3,8
+PL,2023,2024-02-10,436179,Nottingham Forest FC,Newcastle United FC,2,3,0,7,4,9,8,12,15
+PD,2023,2024-02-10,438710,Real Madrid CF,Girona FC,4,0,1,13,11,9,4,10,4
+PD,2023,2024-02-10,438711,Real Sociedad de Fútbol,CA Osasuna,0,1,0,6,7,3,3,5,7
+PL,2023,2024-02-10,436180,Tottenham Hotspur FC,Brighton & Hove Albion FC,2,1,1,8,8,12,11,8,7
+PD,2023,2024-02-10,438713,UD Las Palmas,Valencia CF,2,0,1,7,12,8,5,10,5
+PL,2023,2024-02-10,436182,Wolverhampton Wanderers FC,Brentford FC,0,2,0,10,3,14,7,8,15
+PL,2023,2024-02-11,436173,Aston Villa FC,Manchester United FC,1,2,0,7,10,11,8,13,9
+PD,2023,2024-02-11,438705,FC Barcelona,Granada CF,3,3,0,12,4,13,9,3,5
+PD,2023,2024-02-11,438707,Getafe CF,RC Celta de Vigo,3,2,1,4,7,5,8,6,4
+PD,2023,2024-02-11,438709,RCD Mallorca,Rayo Vallecano de Madrid,2,1,1,2,4,2,8,4,6
+PD,2023,2024-02-11,438708,Sevilla FC,Club Atlético de Madrid,1,0,1,4,10,6,12,9,6
+PL,2023,2024-02-11,436181,West Ham United FC,Arsenal FC,0,6,0,6,9,5,6,11,6
+PL,2023,2024-02-12,436174,Crystal Palace FC,Chelsea FC,1,3,0,6,9,8,14,9,11
+PD,2023,2024-02-12,438712,UD Almería,Athletic Club,0,0,0,1,10,3,9,8,2
+PD,2023,2024-02-16,438721,Villarreal CF,Getafe CF,1,1,0,6,7,7,8,8,8
+PL,2023,2024-02-17,436183,Brentford FC,Liverpool FC,1,4,0,6,12,9,11,16,7
+PL,2023,2024-02-17,436184,Burnley FC,Arsenal FC,0,5,0,2,12,7,12,17,4
+PD,2023,2024-02-17,438717,CA Osasuna,Cádiz CF,2,0,1,7,2,5,7,1,7
+PD,2023,2024-02-17,438715,Club Atlético de Madrid,UD Las Palmas,5,0,1,10,10,6,3,9,3
+PL,2023,2024-02-17,436186,Fulham FC,Aston Villa FC,1,2,0,8,7,7,5,10,7
+PL,2023,2024-02-17,436188,Manchester City FC,Chelsea FC,1,1,0,15,9,13,4,10,11
+PL,2023,2024-02-17,436189,Newcastle United FC,AFC Bournemouth,2,2,0,7,2,14,14,4,12
+PL,2023,2024-02-17,436190,Nottingham Forest FC,West Ham United FC,2,0,1,4,3,8,10,3,12
+PD,2023,2024-02-17,438718,RC Celta de Vigo,FC Barcelona,1,2,0,4,10,6,6,14,11
+PL,2023,2024-02-17,436192,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1,2,0,11,7,12,8,10,8
+PD,2023,2024-02-17,438720,Valencia CF,Sevilla FC,0,0,0,9,7,7,6,7,10
+PD,2023,2024-02-18,438719,Granada CF,UD Almería,1,1,0,2,2,4,8,3,8
+PL,2023,2024-02-18,436187,Luton Town FC,Manchester United FC,1,2,0,5,10,12,11,12,8
+PD,2023,2024-02-18,438723,RCD Mallorca,Real Sociedad de Fútbol,1,2,0,5,5,4,8,2,3
+PD,2023,2024-02-18,438722,Rayo Vallecano de Madrid,Real Madrid CF,1,1,0,1,13,3,8,12,4
+PD,2023,2024-02-18,438716,Real Betis Balompié,Deportivo Alavés,0,0,0,10,10,7,5,9,6
+PL,2023,2024-02-18,436191,Sheffield United FC,Brighton & Hove Albion FC,0,5,0,4,5,7,13,5,7
+PD,2023,2024-02-19,438714,Athletic Club,Girona FC,3,2,1,8,8,6,2,6,5
+PL,2023,2024-02-19,436185,Everton FC,Crystal Palace FC,1,1,0,3,6,2,7,8,15
+PL,2023,2024-02-20,436118,Manchester City FC,Brentford FC,1,0,1,13,6,12,5,9,12
+PL,2023,2024-02-21,436199,Liverpool FC,Luton Town FC,4,1,1,12,5,16,6,11,10
+PD,2023,2024-02-23,438731,Real Sociedad de Fútbol,Villarreal CF,1,3,0,8,7,3,2,8,6
+PL,2023,2024-02-24,436193,AFC Bournemouth,Manchester City FC,0,1,0,3,13,5,11,10,3
+PL,2023,2024-02-24,436194,Arsenal FC,Newcastle United FC,4,1,1,15,8,21,2,14,12
+PL,2023,2024-02-24,436195,Aston Villa FC,Nottingham Forest FC,4,2,1,7,4,9,6,8,9
+PL,2023,2024-02-24,436196,Brighton & Hove Albion FC,Everton FC,1,1,0,7,4,10,7,3,5
+PL,2023,2024-02-24,436198,Crystal Palace FC,Burnley FC,3,0,1,4,2,6,15,5,14
+PD,2023,2024-02-24,438725,Deportivo Alavés,RCD Mallorca,1,1,0,8,4,6,4,4,9
+PD,2023,2024-02-24,438726,FC Barcelona,Getafe CF,4,0,1,10,8,12,10,7,6
+PL,2023,2024-02-24,436200,Manchester United FC,Fulham FC,1,2,0,13,5,13,7,6,6
+PD,2023,2024-02-24,438732,UD Almería,Club Atlético de Madrid,2,2,0,2,10,4,9,10,3
+PD,2023,2024-02-25,438727,Cádiz CF,RC Celta de Vigo,2,2,0,2,3,0,5,6,7
+PD,2023,2024-02-25,438724,Real Betis Balompié,Athletic Club,3,1,1,8,8,6,5,7,3
+PD,2023,2024-02-25,438730,Real Madrid CF,Sevilla FC,1,0,1,11,8,10,3,5,7
+PD,2023,2024-02-25,438733,UD Las Palmas,CA Osasuna,1,1,0,7,7,6,8,4,5
+PL,2023,2024-02-25,436202,Wolverhampton Wanderers FC,Sheffield United FC,1,0,1,7,4,9,9,7,16
+PD,2023,2024-02-26,438728,Girona FC,Rayo Vallecano de Madrid,3,0,1,7,2,8,8,4,7
+PL,2023,2024-02-26,436201,West Ham United FC,Brentford FC,4,2,1,2,3,3,14,6,11
+PD,2023,2024-03-01,438737,RC Celta de Vigo,UD Almería,1,0,1,4,3,8,8,4,8
+PL,2023,2024-03-02,436203,Brentford FC,Chelsea FC,2,2,0,3,7,6,12,8,10
+PL,2023,2024-03-02,436205,Everton FC,West Ham United FC,1,3,0,4,4,4,6,5,14
+PL,2023,2024-03-02,436206,Fulham FC,Brighton & Hove Albion FC,3,0,1,8,7,8,6,11,8
+PD,2023,2024-03-02,438738,Getafe CF,UD Las Palmas,3,3,0,5,5,5,10,5,9
+PL,2023,2024-03-02,436207,Luton Town FC,Aston Villa FC,2,3,0,4,9,11,13,13,8
+PL,2023,2024-03-02,436209,Newcastle United FC,Wolverhampton Wanderers FC,3,0,1,8,9,13,13,10,9
+PL,2023,2024-03-02,436210,Nottingham Forest FC,Liverpool FC,0,1,0,4,12,8,10,16,7
+PD,2023,2024-03-02,438742,Rayo Vallecano de Madrid,Cádiz CF,1,1,0,1,3,4,10,2,6
+PD,2023,2024-03-02,438739,Sevilla FC,Real Sociedad de Fútbol,3,2,1,8,5,4,3,3,5
+PL,2023,2024-03-02,436212,Tottenham Hotspur FC,Crystal Palace FC,3,1,1,8,7,10,9,9,10
+PD,2023,2024-03-02,438740,Valencia CF,Real Madrid CF,2,2,0,7,11,3,5,9,2
+PD,2023,2024-03-03,438734,Athletic Club,FC Barcelona,0,0,0,8,13,8,5,13,5
+PL,2023,2024-03-03,436204,Burnley FC,AFC Bournemouth,0,2,0,1,3,4,16,5,8
+PD,2023,2024-03-03,438735,Club Atlético de Madrid,Real Betis Balompié,2,1,1,8,11,10,5,7,2
+PL,2023,2024-03-03,436208,Manchester City FC,Manchester United FC,3,1,1,13,12,8,2,12,7
+PD,2023,2024-03-03,438743,RCD Mallorca,Girona FC,1,0,1,4,7,4,9,6,7
+PD,2023,2024-03-03,438741,Villarreal CF,Granada CF,5,1,1,9,3,10,6,5,8
+PD,2023,2024-03-04,438736,CA Osasuna,Deportivo Alavés,1,0,1,7,6,4,5,6,5
+PL,2023,2024-03-04,436211,Sheffield United FC,Arsenal FC,0,6,0,3,15,5,15,20,3
+PD,2023,2024-03-08,438746,FC Barcelona,RCD Mallorca,1,0,1,11,7,12,5,5,8
+PL,2023,2024-03-09,436213,AFC Bournemouth,Sheffield United FC,2,2,0,5,3,6,7,3,18
+PL,2023,2024-03-09,436214,Arsenal FC,Brentford FC,2,1,1,15,4,24,2,7,11
+PL,2023,2024-03-09,436218,Crystal Palace FC,Luton Town FC,1,1,0,4,1,7,11,9,16
+PD,2023,2024-03-09,438747,Cádiz CF,Club Atlético de Madrid,2,0,1,3,8,3,7,10,5
+PD,2023,2024-03-09,438748,Girona FC,CA Osasuna,2,0,1,4,10,5,8,5,4
+PD,2023,2024-03-09,438749,Granada CF,Real Sociedad de Fútbol,2,3,0,3,4,6,12,5,8
+PL,2023,2024-03-09,436220,Manchester United FC,Everton FC,2,0,1,9,3,9,7,5,9
+PD,2023,2024-03-09,438750,Valencia CF,Getafe CF,1,0,1,5,6,4,7,8,11
+PL,2023,2024-03-09,436222,Wolverhampton Wanderers FC,Fulham FC,2,1,1,9,10,7,8,11,6
+PL,2023,2024-03-10,436215,Aston Villa FC,Tottenham Hotspur FC,0,4,0,12,10,15,7,11,8
+PL,2023,2024-03-10,436216,Brighton & Hove Albion FC,Nottingham Forest FC,1,0,1,7,4,11,7,7,9
+PD,2023,2024-03-10,438745,Deportivo Alavés,Rayo Vallecano de Madrid,1,0,1,3,2,3,6,4,9
+PL,2023,2024-03-10,436219,Liverpool FC,Manchester City FC,1,1,0,12,13,13,6,8,2
+PD,2023,2024-03-10,438744,Real Betis Balompié,Villarreal CF,2,3,0,8,9,7,4,10,4
+PD,2023,2024-03-10,438751,Real Madrid CF,RC Celta de Vigo,4,0,1,9,7,9,4,9,7
+PD,2023,2024-03-10,438753,UD Las Palmas,Athletic Club,0,2,0,6,8,7,10,8,5
+PL,2023,2024-03-10,436221,West Ham United FC,Burnley FC,2,2,0,6,1,7,14,3,15
+PL,2023,2024-03-11,436217,Chelsea FC,Newcastle United FC,3,2,1,5,8,9,12,13,12
+PD,2023,2024-03-11,438752,UD Almería,Sevilla FC,2,2,0,3,10,4,6,6,4
+PL,2023,2024-03-13,436103,AFC Bournemouth,Luton Town FC,4,3,1,5,1,7,8,6,13
+PD,2023,2024-03-15,438762,Real Sociedad de Fútbol,Cádiz CF,2,0,1,6,5,8,10,5,7
+PD,2023,2024-03-16,438754,Athletic Club,Deportivo Alavés,2,0,1,8,6,6,5,3,3
+PL,2023,2024-03-16,436225,Burnley FC,Brentford FC,2,1,1,1,1,3,15,6,13
+PD,2023,2024-03-16,438756,CA Osasuna,Real Madrid CF,2,4,0,10,11,5,3,12,3
+PL,2023,2024-03-16,436228,Fulham FC,Tottenham Hotspur FC,3,0,1,9,10,10,6,12,6
+PD,2023,2024-03-16,438757,Getafe CF,Girona FC,1,0,1,5,6,7,11,7,8
+PL,2023,2024-03-16,436229,Luton Town FC,Nottingham Forest FC,1,1,0,1,3,8,14,6,9
+PD,2023,2024-03-16,438761,RCD Mallorca,Granada CF,1,0,1,7,3,5,5,8,13
+PD,2023,2024-03-17,438755,Club Atlético de Madrid,FC Barcelona,0,3,0,7,11,9,6,10,4
+PD,2023,2024-03-17,438760,Rayo Vallecano de Madrid,Real Betis Balompié,2,0,1,2,7,3,8,8,6
+PD,2023,2024-03-17,438758,Sevilla FC,RC Celta de Vigo,1,2,0,8,4,6,5,6,11
+PD,2023,2024-03-17,438763,UD Las Palmas,UD Almería,0,1,0,5,4,6,11,5,6
+PD,2023,2024-03-17,438759,Villarreal CF,Valencia CF,1,0,1,11,8,13,6,5,5
+PL,2023,2024-03-17,436231,West Ham United FC,Aston Villa FC,1,1,0,7,9,9,13,10,11
+PD,2023,2024-03-29,438767,Cádiz CF,Granada CF,1,0,1,5,2,5,7,7,13
+PL,2023,2024-03-30,436233,AFC Bournemouth,Everton FC,2,1,1,8,2,10,8,3,9
+PL,2023,2024-03-30,436234,Aston Villa FC,Wolverhampton Wanderers FC,2,0,1,10,9,10,10,5,7
+PL,2023,2024-03-30,436235,Brentford FC,Manchester United FC,1,1,0,1,9,6,11,8,7
+PL,2023,2024-03-30,436236,Chelsea FC,Burnley FC,2,2,0,8,4,11,10,4,13
+PD,2023,2024-03-30,438766,FC Barcelona,UD Las Palmas,1,0,1,13,2,10,1,4,12
+PD,2023,2024-03-30,438768,Getafe CF,Sevilla FC,0,1,0,5,5,5,9,6,7
+PL,2023,2024-03-30,436239,Newcastle United FC,West Ham United FC,4,3,1,7,8,11,11,10,8
+PL,2023,2024-03-30,436240,Nottingham Forest FC,Crystal Palace FC,1,1,0,4,5,5,7,7,8
+PL,2023,2024-03-30,436241,Sheffield United FC,Fulham FC,3,3,0,4,9,5,15,10,5
+PL,2023,2024-03-30,436242,Tottenham Hotspur FC,Luton Town FC,2,1,1,9,2,10,7,8,13
+PD,2023,2024-03-30,438773,UD Almería,CA Osasuna,0,3,0,6,7,6,6,6,7
+PD,2023,2024-03-30,438770,Valencia CF,RCD Mallorca,0,0,0,5,7,3,5,4,4
+PD,2023,2024-03-31,438765,Deportivo Alavés,Real Sociedad de Fútbol,0,1,0,5,9,2,4,10,9
+PD,2023,2024-03-31,438769,Girona FC,Real Betis Balompié,3,2,1,6,4,7,5,6,8
+PL,2023,2024-03-31,436237,Liverpool FC,Brighton & Hove Albion FC,2,1,1,13,7,13,4,8,6
+PL,2023,2024-03-31,436238,Manchester City FC,Arsenal FC,0,0,0,11,15,7,3,23,2
+PD,2023,2024-03-31,438764,RC Celta de Vigo,Rayo Vallecano de Madrid,0,0,0,7,5,6,9,4,6
+PD,2023,2024-03-31,438772,Real Madrid CF,Athletic Club,2,0,1,11,10,12,5,8,5
+PD,2023,2024-04-01,438771,Villarreal CF,Club Atlético de Madrid,1,2,0,13,7,13,5,9,8
+PL,2023,2024-04-02,436243,AFC Bournemouth,Crystal Palace FC,1,0,1,10,6,10,7,7,6
+PL,2023,2024-04-02,436246,Burnley FC,Wolverhampton Wanderers FC,1,1,0,5,9,6,10,5,7
+PL,2023,2024-04-02,436250,Newcastle United FC,Everton FC,1,1,0,7,2,12,12,4,9
+PL,2023,2024-04-02,436247,Nottingham Forest FC,Fulham FC,3,1,1,2,10,4,8,12,6
+PL,2023,2024-04-02,436248,West Ham United FC,Tottenham Hotspur FC,1,1,0,8,9,13,10,10,7
+PL,2023,2024-04-03,436244,Arsenal FC,Luton Town FC,2,0,1,13,2,17,2,8,11
+PL,2023,2024-04-03,436245,Brentford FC,Brighton & Hove Albion FC,0,0,0,2,7,7,11,8,6
+PL,2023,2024-04-03,436252,Manchester City FC,Aston Villa FC,4,1,1,11,10,6,2,10,9
+PL,2023,2024-04-04,436249,Chelsea FC,Manchester United FC,4,3,1,9,7,11,8,7,7
+PD,2023,2024-04-04,438729,Granada CF,Valencia CF,0,1,0,1,6,4,11,3,3
+PL,2023,2024-04-04,436251,Liverpool FC,Sheffield United FC,3,1,1,13,2,12,4,5,17
+PL,2023,2024-04-06,436253,Aston Villa FC,Brentford FC,3,3,0,7,3,7,11,5,7
+PL,2023,2024-04-06,436254,Brighton & Hove Albion FC,Arsenal FC,0,3,0,5,13,3,6,14,2
+PL,2023,2024-04-06,436255,Crystal Palace FC,Manchester City FC,2,4,0,5,11,6,6,9,3
+PL,2023,2024-04-06,436256,Everton FC,Burnley FC,1,0,1,2,6,4,9,7,8
+PL,2023,2024-04-06,436257,Fulham FC,Newcastle United FC,0,1,0,7,7,11,8,11,11
+PL,2023,2024-04-06,436258,Luton Town FC,AFC Bournemouth,2,1,1,2,13,6,10,11,6
+PL,2023,2024-04-06,436262,Wolverhampton Wanderers FC,West Ham United FC,1,2,0,7,6,4,7,10,9
+PL,2023,2024-04-07,436259,Manchester United FC,Liverpool FC,2,2,0,4,13,8,10,11,4
+PL,2023,2024-04-07,436260,Sheffield United FC,Chelsea FC,2,2,0,2,9,6,15,12,10
+PL,2023,2024-04-07,436261,Tottenham Hotspur FC,Nottingham Forest FC,3,1,1,10,5,10,6,5,5
+PD,2023,2024-04-12,438776,Real Betis Balompié,RC Celta de Vigo,2,1,1,3,8,8,11,5,7
+PL,2023,2024-04-13,436263,AFC Bournemouth,Manchester United FC,2,2,0,10,5,10,8,9,10
+PL,2023,2024-04-13,436265,Brentford FC,Sheffield United FC,2,0,1,3,3,6,8,8,16
+PL,2023,2024-04-13,436266,Burnley FC,Brighton & Hove Albion FC,1,1,0,6,4,7,7,2,8
+PD,2023,2024-04-13,438775,Club Atlético de Madrid,Girona FC,3,1,1,7,9,6,9,8,4
+PD,2023,2024-04-13,438778,Cádiz CF,FC Barcelona,0,1,0,8,13,6,5,9,0
+PL,2023,2024-04-13,436269,Manchester City FC,Luton Town FC,5,1,1,11,4,12,5,7,10
+PL,2023,2024-04-13,436270,Newcastle United FC,Tottenham Hotspur FC,4,0,1,10,10,11,7,10,6
+PL,2023,2024-04-13,436271,Nottingham Forest FC,Wolverhampton Wanderers FC,2,2,0,5,4,6,7,4,9
+PD,2023,2024-04-13,438781,RCD Mallorca,Real Madrid CF,0,1,0,8,13,3,2,13,4
+PD,2023,2024-04-13,438780,Rayo Vallecano de Madrid,Getafe CF,0,0,0,5,4,3,5,4,9
+PL,2023,2024-04-14,436264,Arsenal FC,Aston Villa FC,0,2,0,13,5,13,1,7,12
+PD,2023,2024-04-14,438774,Athletic Club,Villarreal CF,1,1,0,7,12,5,5,13,6
+PD,2023,2024-04-14,438779,Granada CF,Deportivo Alavés,2,0,1,0,4,3,11,2,5
+PL,2023,2024-04-14,436268,Liverpool FC,Crystal Palace FC,0,1,0,11,2,9,5,5,10
+PD,2023,2024-04-14,438782,Real Sociedad de Fútbol,UD Almería,2,2,0,9,5,9,8,5,8
+PD,2023,2024-04-14,438783,UD Las Palmas,Sevilla FC,0,2,0,2,7,4,8,7,7
+PL,2023,2024-04-14,436272,West Ham United FC,Fulham FC,0,2,0,6,4,9,9,8,9
+PD,2023,2024-04-15,438777,CA Osasuna,Valencia CF,0,1,0,7,8,7,7,4,3
+PL,2023,2024-04-15,436267,Chelsea FC,Everton FC,6,0,1,9,4,13,11,4,8
+PD,2023,2024-04-19,438784,Athletic Club,Granada CF,1,1,0,8,3,5,3,4,6
+PD,2023,2024-04-20,438788,Girona FC,Cádiz CF,4,1,1,6,7,6,7,4,4
+PL,2023,2024-04-20,436278,Luton Town FC,Brentford FC,1,5,0,4,6,5,11,7,6
+PD,2023,2024-04-20,438785,RC Celta de Vigo,UD Las Palmas,4,1,1,7,1,4,7,3,9
+PD,2023,2024-04-20,438791,Rayo Vallecano de Madrid,CA Osasuna,2,1,1,6,6,3,2,6,7
+PL,2023,2024-04-20,436280,Sheffield United FC,Burnley FC,1,4,0,3,6,8,12,6,6
+PD,2023,2024-04-20,438790,Valencia CF,Real Betis Balompié,1,2,0,10,3,3,1,7,11
+PL,2023,2024-04-20,436282,Wolverhampton Wanderers FC,Arsenal FC,0,2,0,5,10,6,8,7,3
+PL,2023,2024-04-21,436273,Aston Villa FC,AFC Bournemouth,3,1,1,8,10,9,8,10,8
+PL,2023,2024-04-21,436275,Crystal Palace FC,West Ham United FC,5,2,1,5,5,5,7,7,9
+PD,2023,2024-04-21,438786,Deportivo Alavés,Club Atlético de Madrid,2,0,1,3,9,1,6,7,8
+PL,2023,2024-04-21,436276,Everton FC,Nottingham Forest FC,2,0,1,4,6,3,11,8,8
+PL,2023,2024-04-21,436277,Fulham FC,Liverpool FC,1,3,0,7,8,9,7,8,6
+PD,2023,2024-04-21,438787,Getafe CF,Real Sociedad de Fútbol,1,1,0,5,10,4,5,10,7
+PD,2023,2024-04-21,438792,Real Madrid CF,FC Barcelona,3,2,1,13,13,13,4,6,0
+PD,2023,2024-04-21,438793,UD Almería,Villarreal CF,1,2,0,5,10,5,8,11,6
+PD,2023,2024-04-22,438789,Sevilla FC,RCD Mallorca,2,1,1,10,7,9,6,2,2
+PL,2023,2024-04-23,436223,Arsenal FC,Chelsea FC,5,0,1,10,11,7,2,17,9
+PL,2023,2024-04-24,436226,Crystal Palace FC,Newcastle United FC,2,0,1,7,10,9,8,12,7
+PL,2023,2024-04-24,436227,Everton FC,Liverpool FC,2,0,1,7,10,5,9,10,6
+PL,2023,2024-04-24,436230,Manchester United FC,Sheffield United FC,4,2,1,6,2,10,9,7,14
+PL,2023,2024-04-24,436232,Wolverhampton Wanderers FC,AFC Bournemouth,0,1,0,2,7,4,9,7,8
+PL,2023,2024-04-25,436224,Brighton & Hove Albion FC,Manchester City FC,0,4,0,5,11,3,6,14,5
+PD,2023,2024-04-26,438801,Real Sociedad de Fútbol,Real Madrid CF,0,1,0,11,15,9,5,14,4
+PL,2023,2024-04-27,436284,Aston Villa FC,Chelsea FC,2,2,0,10,8,11,8,14,12
+PD,2023,2024-04-27,438794,Club Atlético de Madrid,Athletic Club,3,1,1,6,8,5,9,6,4
+PD,2023,2024-04-27,438796,Deportivo Alavés,RC Celta de Vigo,3,0,1,6,7,3,5,7,8
+PL,2023,2024-04-27,436285,Everton FC,Brentford FC,1,0,1,10,9,6,7,11,5
+PL,2023,2024-04-27,436286,Fulham FC,Crystal Palace FC,1,1,0,4,9,7,10,10,7
+PL,2023,2024-04-27,436287,Manchester United FC,Burnley FC,1,1,0,6,6,12,11,8,6
+PL,2023,2024-04-27,436288,Newcastle United FC,Sheffield United FC,5,1,1,10,1,10,6,6,15
+PD,2023,2024-04-27,438802,UD Almería,Getafe CF,1,3,0,5,5,6,9,2,3
+PD,2023,2024-04-27,438803,UD Las Palmas,Girona FC,0,2,0,0,9,1,10,10,7
+PL,2023,2024-04-27,436291,West Ham United FC,Liverpool FC,2,2,0,4,7,8,13,8,7
+PL,2023,2024-04-27,436292,Wolverhampton Wanderers FC,Luton Town FC,2,1,1,2,3,4,8,5,15
+PL,2023,2024-04-28,436283,AFC Bournemouth,Brighton & Hove Albion FC,3,0,1,7,2,6,7,2,10
+PD,2023,2024-04-28,438798,Cádiz CF,RCD Mallorca,1,1,0,6,4,4,7,2,4
+PD,2023,2024-04-28,438799,Granada CF,CA Osasuna,3,0,1,4,3,3,4,6,9
+PL,2023,2024-04-28,436289,Nottingham Forest FC,Manchester City FC,0,2,0,5,13,7,9,17,4
+PD,2023,2024-04-28,438795,Real Betis Balompié,Sevilla FC,1,1,0,6,10,8,10,8,5
+PL,2023,2024-04-28,436290,Tottenham Hotspur FC,Arsenal FC,2,3,0,7,12,6,10,12,2
+PD,2023,2024-04-28,438800,Villarreal CF,Rayo Vallecano de Madrid,3,0,1,10,8,8,6,4,2
+PD,2023,2024-04-29,438797,FC Barcelona,Valencia CF,4,2,1,12,7,8,3,3,3
+PL,2023,2024-05-02,436197,Chelsea FC,Tottenham Hotspur FC,2,0,1,8,7,14,12,8,10
+PD,2023,2024-05-03,438806,Getafe CF,Athletic Club,0,2,0,8,5,5,3,5,7
+PL,2023,2024-05-03,436300,Luton Town FC,Everton FC,1,1,0,3,12,5,15,6,6
+PL,2023,2024-05-04,436293,Arsenal FC,AFC Bournemouth,3,0,1,12,7,13,4,8,7
+PL,2023,2024-05-04,436294,Brentford FC,Fulham FC,0,0,0,8,4,10,5,5,8
+PL,2023,2024-05-04,436296,Burnley FC,Newcastle United FC,1,4,0,6,10,7,5,11,4
+PD,2023,2024-05-04,438807,Girona FC,FC Barcelona,4,2,1,9,12,10,7,11,5
+PL,2023,2024-05-04,436301,Manchester City FC,Wolverhampton Wanderers FC,5,1,1,15,4,19,4,5,8
+PD,2023,2024-05-04,438811,RCD Mallorca,Club Atlético de Madrid,0,1,0,5,9,3,4,8,8
+PD,2023,2024-05-04,438812,Real Madrid CF,Cádiz CF,3,0,1,15,4,11,4,3,8
+PD,2023,2024-05-04,438813,Real Sociedad de Fútbol,UD Las Palmas,2,0,1,8,0,6,4,1,10
+PL,2023,2024-05-04,436302,Sheffield United FC,Nottingham Forest FC,1,3,0,1,4,6,17,6,10
+PL,2023,2024-05-05,436295,Brighton & Hove Albion FC,Aston Villa FC,1,0,1,2,8,1,11,11,10
+PD,2023,2024-05-05,438804,CA Osasuna,Real Betis Balompié,0,2,0,3,7,6,10,7,8
+PL,2023,2024-05-05,436297,Chelsea FC,West Ham United FC,5,0,1,8,5,12,9,7,11
+PL,2023,2024-05-05,436299,Liverpool FC,Tottenham Hotspur FC,4,2,1,5,4,7,8,6,11
+PD,2023,2024-05-05,438805,RC Celta de Vigo,Villarreal CF,3,2,1,7,10,7,7,8,4
+PD,2023,2024-05-05,438810,Rayo Vallecano de Madrid,UD Almería,0,1,0,8,4,4,4,5,10
+PD,2023,2024-05-05,438808,Sevilla FC,Granada CF,3,0,1,10,7,7,4,6,3
+PD,2023,2024-05-05,438809,Valencia CF,Deportivo Alavés,0,1,0,7,6,5,6,5,5
+PL,2023,2024-05-06,436298,Crystal Palace FC,Manchester United FC,4,0,1,10,6,11,7,12,11
+PD,2023,2024-05-10,438817,Deportivo Alavés,Girona FC,2,2,0,9,12,6,3,14,8
+PL,2023,2024-05-11,436303,AFC Bournemouth,Brentford FC,1,2,0,7,8,7,8,10,5
+PD,2023,2024-05-11,438814,Athletic Club,CA Osasuna,2,2,0,5,3,5,7,4,8
+PL,2023,2024-05-11,436305,Everton FC,Sheffield United FC,1,0,1,10,0,6,7,5,18
+PL,2023,2024-05-11,436306,Fulham FC,Manchester City FC,0,4,0,5,15,4,5,20,4
+PD,2023,2024-05-11,438820,Granada CF,Real Madrid CF,0,4,0,7,15,6,5,10,2
+PL,2023,2024-05-11,436308,Newcastle United FC,Brighton & Hove Albion FC,1,1,0,12,4,14,4,2,11
+PL,2023,2024-05-11,436309,Nottingham Forest FC,Chelsea FC,2,3,0,4,10,6,10,15,7
+PD,2023,2024-05-11,438823,RCD Mallorca,UD Las Palmas,1,0,1,2,0,2,5,1,11
+PL,2023,2024-05-11,436310,Tottenham Hotspur FC,Burnley FC,2,1,1,3,5,7,14,7,8
+PD,2023,2024-05-11,438822,Villarreal CF,Sevilla FC,3,2,1,7,13,9,7,9,2
+PL,2023,2024-05-11,436311,West Ham United FC,Luton Town FC,3,1,1,4,4,6,15,6,14
+PL,2023,2024-05-11,436312,Wolverhampton Wanderers FC,Crystal Palace FC,1,3,0,4,13,5,11,13,3
+PD,2023,2024-05-12,438815,Club Atlético de Madrid,RC Celta de Vigo,1,0,1,12,7,9,5,8,8
+PD,2023,2024-05-12,438819,Cádiz CF,Getafe CF,1,0,1,4,5,3,9,4,5
+PL,2023,2024-05-12,436307,Manchester United FC,Arsenal FC,0,1,0,6,12,9,11,13,4
+PD,2023,2024-05-12,438816,Real Betis Balompié,UD Almería,3,2,1,10,4,9,6,5,10
+PD,2023,2024-05-12,438821,Valencia CF,Rayo Vallecano de Madrid,0,0,0,6,5,5,7,2,5
+PL,2023,2024-05-13,436304,Aston Villa FC,Liverpool FC,3,3,0,8,7,10,7,9,8
+PD,2023,2024-05-13,438818,FC Barcelona,Real Sociedad de Fútbol,2,0,1,9,8,10,9,6,4
+PD,2023,2024-05-14,438824,CA Osasuna,RCD Mallorca,1,1,0,1,4,3,10,3,5
+PD,2023,2024-05-14,438827,Girona FC,Villarreal CF,0,1,0,10,10,13,8,11,7
+PD,2023,2024-05-14,438830,Real Madrid CF,Deportivo Alavés,5,0,1,15,10,12,2,8,4
+PL,2023,2024-05-14,436281,Tottenham Hotspur FC,Manchester City FC,0,2,0,3,15,6,14,20,2
+PL,2023,2024-05-15,436274,Brighton & Hove Albion FC,Chelsea FC,1,2,0,5,10,3,9,12,9
+PD,2023,2024-05-15,438826,Getafe CF,Club Atlético de Madrid,0,3,0,5,12,4,5,8,4
+PL,2023,2024-05-15,436279,Manchester United FC,Newcastle United FC,3,2,1,5,10,7,10,14,5
+PD,2023,2024-05-15,438825,RC Celta de Vigo,Athletic Club,2,1,1,6,6,8,9,7,7
+PD,2023,2024-05-15,438829,Rayo Vallecano de Madrid,Granada CF,2,1,1,5,7,2,5,6,8
+PD,2023,2024-05-15,438828,Sevilla FC,Cádiz CF,0,1,0,10,4,10,5,3,9
+PD,2023,2024-05-16,438831,Real Sociedad de Fútbol,Valencia CF,1,0,1,5,4,5,6,4,7
+PD,2023,2024-05-16,438832,UD Almería,FC Barcelona,0,2,0,4,9,7,10,11,9
+PD,2023,2024-05-16,438833,UD Las Palmas,Real Betis Balompié,2,2,0,0,13,1,11,10,5
+PD,2023,2024-05-18,438837,Deportivo Alavés,Getafe CF,1,0,1,10,4,8,7,4,8
+PL,2023,2024-05-19,436313,Arsenal FC,Everton FC,2,1,1,15,13,14,2,7,1
+PD,2023,2024-05-19,438834,Athletic Club,Sevilla FC,2,0,1,5,7,7,8,8,6
+PL,2023,2024-05-19,436314,Brentford FC,Newcastle United FC,2,4,0,10,7,9,3,12,8
+PL,2023,2024-05-19,436315,Brighton & Hove Albion FC,Manchester United FC,0,2,0,4,7,3,10,8,10
+PL,2023,2024-05-19,436316,Burnley FC,Nottingham Forest FC,1,2,0,5,4,8,9,7,10
+PL,2023,2024-05-19,436317,Chelsea FC,AFC Bournemouth,2,1,1,13,6,14,5,6,8
+PD,2023,2024-05-19,438835,Club Atlético de Madrid,CA Osasuna,1,4,0,12,2,8,3,4,10
+PL,2023,2024-05-19,436318,Crystal Palace FC,Aston Villa FC,5,0,1,13,8,15,4,10,7
+PD,2023,2024-05-19,438839,Cádiz CF,UD Las Palmas,0,0,0,7,1,4,8,3,11
+PD,2023,2024-05-19,438838,FC Barcelona,Rayo Vallecano de Madrid,3,0,1,9,7,12,9,4,6
+PD,2023,2024-05-19,438840,Granada CF,RC Celta de Vigo,1,2,0,4,9,5,10,9,8
+PL,2023,2024-05-19,436319,Liverpool FC,Wolverhampton Wanderers FC,2,0,1,8,3,12,10,4,12
+PL,2023,2024-05-19,436320,Luton Town FC,Fulham FC,2,4,0,1,5,5,16,4,8
+PL,2023,2024-05-19,436321,Manchester City FC,West Ham United FC,3,1,1,15,4,17,1,7,15
+PD,2023,2024-05-19,438843,RCD Mallorca,UD Almería,2,2,0,5,3,4,5,5,10
+PD,2023,2024-05-19,438836,Real Betis Balompié,Real Sociedad de Fútbol,0,2,0,11,7,10,6,4,4
+PL,2023,2024-05-19,436322,Sheffield United FC,Tottenham Hotspur FC,0,3,0,0,3,5,17,6,12
+PD,2023,2024-05-19,438841,Valencia CF,Girona FC,1,3,0,1,10,3,8,12,6
+PD,2023,2024-05-19,438842,Villarreal CF,Real Madrid CF,4,4,0,12,15,11,6,16,2
+PD,2023,2024-05-24,438847,Girona FC,Granada CF,7,0,1,10,3,11,6,5,11
+PD,2023,2024-05-25,438844,CA Osasuna,Villarreal CF,1,1,0,5,10,7,9,13,9
+PD,2023,2024-05-25,438849,Rayo Vallecano de Madrid,Athletic Club,0,1,0,4,7,2,8,8,7
+PD,2023,2024-05-25,438850,Real Madrid CF,Real Betis Balompié,0,0,0,13,8,17,4,8,7
+PD,2023,2024-05-25,438851,Real Sociedad de Fútbol,Club Atlético de Madrid,0,2,0,9,12,5,3,9,5
+PD,2023,2024-05-25,438852,UD Almería,Cádiz CF,6,1,1,4,8,6,10,3,4
+PD,2023,2024-05-26,438846,Getafe CF,RCD Mallorca,1,2,0,3,6,3,8,5,5
+PD,2023,2024-05-26,438845,RC Celta de Vigo,Valencia CF,2,2,0,9,1,7,8,3,9
+PD,2023,2024-05-26,438848,Sevilla FC,FC Barcelona,1,2,0,4,12,6,7,13,6
+PD,2023,2024-05-26,438853,UD Las Palmas,Deportivo Alavés,1,1,0,2,10,2,7,7,7
+PD,2024,2024-08-15,498613,Athletic Club,Getafe CF,1,1,0,10,0,8,4,1,9
+PD,2024,2024-08-15,498614,Real Betis Balompié,Girona FC,1,1,0,8,10,7,6,16,6
+PL,2024,2024-08-16,497410,Manchester United FC,Fulham FC,1,0,1,7,5,6,8,6,10
+PD,2024,2024-08-16,498616,RC Celta de Vigo,Deportivo Alavés,2,1,1,10,8,9,7,5,8
+PD,2024,2024-08-16,498621,UD Las Palmas,Sevilla FC,2,2,0,3,3,3,6,6,8
+PL,2024,2024-08-17,497412,Arsenal FC,Wolverhampton Wanderers FC,2,0,1,15,3,14,3,4,12
+PL,2024,2024-08-17,497413,Everton FC,Brighton & Hove Albion FC,0,3,0,10,4,6,3,3,8
+PL,2024,2024-08-17,497415,Nottingham Forest FC,AFC Bournemouth,1,1,0,6,6,7,9,6,7
+PD,2024,2024-08-17,498617,Valencia CF,FC Barcelona,1,2,0,2,12,3,7,11,5
+PL,2024,2024-08-17,497416,West Ham United FC,Aston Villa FC,1,2,0,4,5,8,16,8,12
+PL,2024,2024-08-18,497417,Brentford FC,Crystal Palace FC,2,1,1,7,13,9,7,15,2
+PL,2024,2024-08-18,497418,Chelsea FC,Manchester City FC,0,2,0,15,15,14,4,16,2
+PD,2024,2024-08-18,498619,RCD Mallorca,Real Madrid CF,1,1,0,8,11,6,5,16,4
+PD,2024,2024-08-18,498620,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,1,2,0,9,4,5,4,2,6
+PD,2024,2024-08-19,498618,Villarreal CF,Club Atlético de Madrid,2,2,0,8,12,11,10,8,4
+PD,2024,2024-08-23,498626,RC Celta de Vigo,Valencia CF,3,1,1,10,2,8,6,4,8
+PD,2024,2024-08-23,498630,Sevilla FC,Villarreal CF,1,2,0,1,9,5,10,11,9
+PL,2024,2024-08-24,497421,Aston Villa FC,Arsenal FC,0,2,0,5,15,7,12,11,3
+PL,2024,2024-08-24,497422,Brighton & Hove Albion FC,Manchester United FC,2,1,1,7,9,6,5,6,7
+PD,2024,2024-08-24,498624,CA Osasuna,RCD Mallorca,1,0,1,7,9,9,6,7,5
+PL,2024,2024-08-24,497423,Crystal Palace FC,West Ham United FC,0,2,0,10,4,14,4,7,13
+PD,2024,2024-08-24,498628,FC Barcelona,Athletic Club,2,1,1,15,8,11,2,7,5
+PL,2024,2024-08-24,497424,Fulham FC,Leicester City FC,2,1,1,5,1,5,8,1,1
+PD,2024,2024-08-24,498629,Getafe CF,Rayo Vallecano de Madrid,0,0,0,1,7,2,8,4,6
+PL,2024,2024-08-24,497426,Manchester City FC,Ipswich Town FC,4,1,1,15,0,16,2,0,2
+PD,2024,2024-08-24,498632,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,0,1,0,0,6,0,1,4,6
+PL,2024,2024-08-24,497427,Southampton FC,Nottingham Forest FC,0,1,0,0,7,0,1,8,8
+PL,2024,2024-08-24,497428,Tottenham Hotspur FC,Everton FC,4,0,1,7,7,8,8,4,6
+PL,2024,2024-08-25,497420,AFC Bournemouth,Newcastle United FC,1,1,0,4,10,6,8,12,7
+PD,2024,2024-08-25,498625,CD Leganés,UD Las Palmas,2,1,1,1,4,1,1,5,6
+PD,2024,2024-08-25,498623,Club Atlético de Madrid,Girona FC,3,0,1,10,8,9,6,13,5
+PD,2024,2024-08-25,498627,Deportivo Alavés,Real Betis Balompié,0,0,0,5,6,5,10,6,7
+PL,2024,2024-08-25,497425,Liverpool FC,Brentford FC,2,0,1,11,7,13,7,6,7
+PD,2024,2024-08-25,498631,Real Madrid CF,Real Valladolid CF,3,0,1,9,3,14,5,1,0
+PL,2024,2024-08-25,497429,Wolverhampton Wanderers FC,Chelsea FC,2,6,0,3,12,4,13,12,6
+PD,2024,2024-08-26,498636,Villarreal CF,RC Celta de Vigo,4,3,1,9,13,10,8,11,6
+PD,2024,2024-08-27,498638,RCD Mallorca,Sevilla FC,0,0,0,6,1,6,6,4,9
+PD,2024,2024-08-27,498637,Rayo Vallecano de Madrid,FC Barcelona,1,2,0,7,15,4,6,11,3
+PD,2024,2024-08-28,498633,Athletic Club,Valencia CF,1,0,1,7,1,6,5,5,11
+PD,2024,2024-08-28,498642,Club Atlético de Madrid,RCD Espanyol de Barcelona,0,0,0,10,0,11,6,0,2
+PD,2024,2024-08-28,498639,Real Sociedad de Fútbol,Deportivo Alavés,1,2,0,9,5,5,4,3,8
+PD,2024,2024-08-28,498640,Real Valladolid CF,CD Leganés,0,0,0,3,4,1,3,3,2
+PD,2024,2024-08-29,498635,Girona FC,CA Osasuna,4,0,1,7,9,11,6,8,4
+PD,2024,2024-08-29,498641,UD Las Palmas,Real Madrid CF,1,1,0,4,9,6,7,13,5
+PL,2024,2024-08-31,497430,Arsenal FC,Brighton & Hove Albion FC,1,1,0,15,7,10,1,7,6
+PD,2024,2024-08-31,498643,Athletic Club,Club Atlético de Madrid,0,1,0,10,8,6,3,8,6
+PL,2024,2024-08-31,497431,Brentford FC,Southampton FC,3,1,1,7,0,6,8,0,2
+PD,2024,2024-08-31,498645,CD Leganés,RCD Mallorca,0,1,0,5,6,3,2,5,5
+PL,2024,2024-08-31,497433,Everton FC,AFC Bournemouth,2,3,0,4,2,3,10,4,9
+PD,2024,2024-08-31,498647,FC Barcelona,Real Valladolid CF,7,0,1,15,4,11,4,1,3
+PL,2024,2024-08-31,497434,Ipswich Town FC,Fulham FC,1,1,0,0,7,1,6,6,8
+PL,2024,2024-08-31,497435,Leicester City FC,Aston Villa FC,1,2,0,1,4,2,3,5,12
+PL,2024,2024-08-31,497438,Nottingham Forest FC,Wolverhampton Wanderers FC,1,1,0,10,0,9,6,4,18
+PD,2024,2024-08-31,498652,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,2,1,1,1,4,0,2,3,7
+PD,2024,2024-08-31,498650,Valencia CF,Villarreal CF,1,1,0,1,9,5,11,13,11
+PL,2024,2024-08-31,497439,West Ham United FC,Manchester City FC,1,3,0,6,15,7,11,15,2
+PD,2024,2024-09-01,498644,CA Osasuna,RC Celta de Vigo,3,2,1,8,10,7,7,12,9
+PL,2024,2024-09-01,497432,Chelsea FC,Crystal Palace FC,1,1,0,12,9,13,8,13,5
+PD,2024,2024-09-01,498646,Deportivo Alavés,UD Las Palmas,2,0,1,8,4,5,4,5,6
+PD,2024,2024-09-01,498648,Getafe CF,Real Sociedad de Fútbol,0,0,0,2,6,2,7,5,6
+PL,2024,2024-09-01,497436,Manchester United FC,Liverpool FC,0,3,0,9,13,7,5,13,5
+PL,2024,2024-09-01,497437,Newcastle United FC,Tottenham Hotspur FC,2,1,1,8,10,9,7,10,4
+PD,2024,2024-09-01,498651,Real Madrid CF,Real Betis Balompié,2,0,1,7,4,9,6,3,5
+PD,2024,2024-09-01,498649,Sevilla FC,Girona FC,0,2,0,2,10,4,8,15,5
+PD,2024,2024-09-13,498654,Real Betis Balompié,CD Leganés,2,0,1,3,5,1,5,3,3
+PL,2024,2024-09-14,497440,AFC Bournemouth,Chelsea FC,0,1,0,5,10,7,8,11,7
+PL,2024,2024-09-14,497441,Aston Villa FC,Everton FC,3,2,1,7,3,7,12,4,12
+PL,2024,2024-09-14,497442,Brighton & Hove Albion FC,Ipswich Town FC,0,0,0,7,1,7,6,2,7
+PL,2024,2024-09-14,497443,Crystal Palace FC,Leicester City FC,2,2,0,7,1,10,6,3,5
+PL,2024,2024-09-14,497444,Fulham FC,West Ham United FC,1,1,0,7,6,7,9,8,9
+PL,2024,2024-09-14,497445,Liverpool FC,Nottingham Forest FC,0,1,0,13,8,12,3,7,6
+PL,2024,2024-09-14,497446,Manchester City FC,Brentford FC,2,1,1,15,9,14,3,9,9
+PD,2024,2024-09-14,498662,RCD Espanyol de Barcelona,Deportivo Alavés,3,2,1,4,8,2,3,6,4
+PD,2024,2024-09-14,498659,RCD Mallorca,Villarreal CF,1,2,0,8,9,4,3,10,8
+PD,2024,2024-09-14,498660,Real Sociedad de Fútbol,Real Madrid CF,0,2,0,4,9,3,6,7,2
+PD,2024,2024-09-14,498657,Sevilla FC,Getafe CF,1,0,1,2,3,4,8,2,4
+PL,2024,2024-09-14,497447,Southampton FC,Manchester United FC,0,3,0,0,9,1,5,7,7
+PD,2024,2024-09-15,498653,Club Atlético de Madrid,Valencia CF,3,0,1,11,2,8,2,5,9
+PD,2024,2024-09-15,498656,Girona FC,FC Barcelona,1,4,0,10,15,14,4,15,4
+PD,2024,2024-09-15,498655,RC Celta de Vigo,Real Valladolid CF,3,1,1,7,4,12,11,1,10
+PL,2024,2024-09-15,497448,Tottenham Hotspur FC,Arsenal FC,0,1,0,7,13,9,5,8,2
+PD,2024,2024-09-15,498661,UD Las Palmas,Athletic Club,2,3,0,3,7,5,8,4,4
+PL,2024,2024-09-15,497449,Wolverhampton Wanderers FC,Newcastle United FC,1,2,0,1,10,4,14,10,7
+PD,2024,2024-09-16,498658,Rayo Vallecano de Madrid,CA Osasuna,3,1,1,4,8,4,6,6,8
+PD,2024,2024-09-17,498679,RCD Mallorca,Real Sociedad de Fútbol,1,0,1,5,4,3,4,3,6
+PD,2024,2024-09-18,498634,Real Betis Balompié,Getafe CF,2,1,1,6,3,3,3,2,4
+PD,2024,2024-09-19,498673,CD Leganés,Athletic Club,0,2,0,5,7,3,5,6,6
+PD,2024,2024-09-20,498666,Deportivo Alavés,Sevilla FC,2,1,1,7,5,7,6,4,6
+PL,2024,2024-09-21,497450,Aston Villa FC,Wolverhampton Wanderers FC,3,1,1,9,1,7,11,4,13
+PD,2024,2024-09-21,498665,CA Osasuna,UD Las Palmas,2,1,1,7,2,6,10,6,10
+PL,2024,2024-09-21,497452,Crystal Palace FC,Manchester United FC,0,0,0,5,9,9,7,7,5
+PL,2024,2024-09-21,497453,Fulham FC,Newcastle United FC,3,1,1,8,13,8,6,10,5
+PL,2024,2024-09-21,497454,Leicester City FC,Everton FC,1,1,0,2,0,5,7,5,15
+PL,2024,2024-09-21,497455,Liverpool FC,AFC Bournemouth,3,0,1,12,5,9,1,6,7
+PD,2024,2024-09-21,498672,Real Madrid CF,RCD Espanyol de Barcelona,4,1,1,11,7,9,2,5,5
+PD,2024,2024-09-21,498671,Real Valladolid CF,Real Sociedad de Fútbol,0,0,0,4,4,2,13,2,5
+PL,2024,2024-09-21,497457,Southampton FC,Ipswich Town FC,1,1,0,0,2,1,8,2,7
+PL,2024,2024-09-21,497458,Tottenham Hotspur FC,Brentford FC,3,1,1,7,6,9,4,8,10
+PD,2024,2024-09-21,498668,Valencia CF,Girona FC,2,0,1,1,7,3,10,8,8
+PL,2024,2024-09-21,497459,West Ham United FC,Chelsea FC,0,3,0,4,10,6,9,10,6
+PD,2024,2024-09-22,498663,Athletic Club,RC Celta de Vigo,3,1,1,9,9,7,5,13,10
+PL,2024,2024-09-22,497451,Brighton & Hove Albion FC,Nottingham Forest FC,2,2,0,8,11,6,4,6,3
+PD,2024,2024-09-22,498667,Getafe CF,CD Leganés,1,1,0,3,4,2,4,2,6
+PL,2024,2024-09-22,497456,Manchester City FC,Arsenal FC,2,2,0,15,13,14,4,8,2
+PD,2024,2024-09-22,498670,Rayo Vallecano de Madrid,Club Atlético de Madrid,1,1,0,7,11,7,6,9,2
+PD,2024,2024-09-22,498669,Villarreal CF,FC Barcelona,1,5,0,11,15,11,8,17,4
+PD,2024,2024-09-23,498664,Real Betis Balompié,RCD Mallorca,1,2,0,8,7,5,4,3,3
+PD,2024,2024-09-24,498680,Real Madrid CF,Deportivo Alavés,3,2,1,13,10,12,2,8,5
+PD,2024,2024-09-24,498677,Sevilla FC,Real Valladolid CF,2,1,1,4,2,3,6,1,13
+PD,2024,2024-09-24,498678,Valencia CF,CA Osasuna,0,0,0,4,9,4,8,7,10
+PD,2024,2024-09-25,498675,FC Barcelona,Getafe CF,1,0,1,15,3,20,4,2,4
+PD,2024,2024-09-25,498676,Girona FC,Rayo Vallecano de Madrid,0,0,0,6,5,7,9,6,6
+PD,2024,2024-09-26,498674,RC Celta de Vigo,Club Atlético de Madrid,0,1,0,6,11,12,12,8,1
+PD,2024,2024-09-26,498682,RCD Espanyol de Barcelona,Villarreal CF,1,2,0,7,10,6,8,10,11
+PD,2024,2024-09-26,498681,UD Las Palmas,Real Betis Balompié,1,1,0,1,7,5,10,5,5
+PD,2024,2024-09-27,498691,Real Valladolid CF,RCD Mallorca,1,2,0,2,10,2,12,5,3
+PL,2024,2024-09-28,497461,Arsenal FC,Leicester City FC,4,2,1,11,3,8,3,6,8
+PL,2024,2024-09-28,497462,Brentford FC,West Ham United FC,1,1,0,6,4,7,9,5,9
+PD,2024,2024-09-28,498685,CA Osasuna,FC Barcelona,4,2,1,7,15,6,10,19,3
+PL,2024,2024-09-28,497463,Chelsea FC,Brighton & Hove Albion FC,4,2,1,10,9,11,5,8,4
+PL,2024,2024-09-28,497464,Everton FC,Crystal Palace FC,2,1,1,1,3,5,14,4,7
+PD,2024,2024-09-28,498687,Getafe CF,Deportivo Alavés,2,0,1,2,9,2,5,10,8
+PL,2024,2024-09-28,497467,Newcastle United FC,Manchester City FC,1,1,0,10,13,7,6,13,5
+PL,2024,2024-09-28,497468,Nottingham Forest FC,Fulham FC,0,1,0,9,8,6,4,7,5
+PD,2024,2024-09-28,498689,Rayo Vallecano de Madrid,CD Leganés,1,1,0,5,2,6,6,1,6
+PD,2024,2024-09-28,498690,Real Sociedad de Fútbol,Valencia CF,3,0,1,2,5,1,5,3,5
+PL,2024,2024-09-28,497469,Wolverhampton Wanderers FC,Liverpool FC,1,2,0,1,12,5,14,10,1
+PD,2024,2024-09-29,498683,Athletic Club,Sevilla FC,1,1,0,12,7,9,4,4,5
+PD,2024,2024-09-29,498684,Club Atlético de Madrid,Real Madrid CF,1,1,0,11,13,6,1,12,4
+PL,2024,2024-09-29,497465,Ipswich Town FC,Aston Villa FC,2,2,0,3,12,3,8,10,7
+PL,2024,2024-09-29,497466,Manchester United FC,Tottenham Hotspur FC,0,3,0,7,7,5,5,9,5
+PD,2024,2024-09-29,498686,RC Celta de Vigo,Girona FC,1,1,0,3,7,9,12,7,6
+PD,2024,2024-09-29,498692,Real Betis Balompié,RCD Espanyol de Barcelona,1,0,1,7,7,6,6,7,9
+PL,2024,2024-09-30,497460,AFC Bournemouth,Southampton FC,3,1,1,5,1,5,8,2,9
+PD,2024,2024-09-30,498688,Villarreal CF,UD Las Palmas,3,1,1,10,2,10,11,5,9
+PD,2024,2024-10-04,498693,CD Leganés,Valencia CF,0,0,0,2,5,2,7,3,7
+PL,2024,2024-10-05,497470,Arsenal FC,Southampton FC,3,1,1,11,1,10,5,3,11
+PL,2024,2024-10-05,497472,Brentford FC,Wolverhampton Wanderers FC,5,3,1,4,1,6,9,6,14
+PL,2024,2024-10-05,497475,Crystal Palace FC,Liverpool FC,0,1,0,3,12,4,7,10,2
+PL,2024,2024-10-05,497476,Everton FC,Newcastle United FC,0,0,0,4,8,7,12,7,7
+PD,2024,2024-10-05,498695,Getafe CF,CA Osasuna,1,1,0,4,10,4,5,10,8
+PL,2024,2024-10-05,497477,Leicester City FC,AFC Bournemouth,1,0,1,2,7,7,11,7,8
+PL,2024,2024-10-05,497478,Manchester City FC,Fulham FC,3,2,1,11,11,12,6,8,4
+PD,2024,2024-10-05,498702,RCD Espanyol de Barcelona,RCD Mallorca,2,1,1,6,12,7,10,7,4
+PD,2024,2024-10-05,498698,Real Madrid CF,Villarreal CF,2,0,1,13,10,12,4,9,9
+PD,2024,2024-10-05,498700,Real Valladolid CF,Rayo Vallecano de Madrid,1,2,0,1,6,3,14,6,5
+PD,2024,2024-10-05,498701,UD Las Palmas,RC Celta de Vigo,0,1,0,1,4,5,11,7,9
+PL,2024,2024-10-05,497479,West Ham United FC,Ipswich Town FC,4,1,1,5,4,5,8,5,8
+PL,2024,2024-10-06,497471,Aston Villa FC,Manchester United FC,0,0,0,10,4,10,8,4,8
+PL,2024,2024-10-06,497473,Brighton & Hove Albion FC,Tottenham Hotspur FC,3,2,1,6,9,7,8,11,4
+PL,2024,2024-10-06,497474,Chelsea FC,Nottingham Forest FC,1,1,0,13,8,15,5,5,4
+PD,2024,2024-10-06,498694,Deportivo Alavés,FC Barcelona,0,3,0,6,12,8,9,19,6
+PD,2024,2024-10-06,498696,Girona FC,Athletic Club,2,1,1,5,10,4,7,9,5
+PD,2024,2024-10-06,498699,Real Sociedad de Fútbol,Club Atlético de Madrid,1,1,0,5,11,3,3,7,2
+PD,2024,2024-10-06,498697,Sevilla FC,Real Betis Balompié,1,0,1,7,10,5,6,7,4
+PD,2024,2024-10-18,498706,Deportivo Alavés,Real Valladolid CF,2,3,0,3,1,6,12,4,9
+PL,2024,2024-10-19,497480,AFC Bournemouth,Arsenal FC,2,0,1,6,11,6,8,11,6
+PD,2024,2024-10-19,498712,Athletic Club,RCD Espanyol de Barcelona,4,1,1,10,6,10,6,7,10
+PD,2024,2024-10-19,498704,CA Osasuna,Real Betis Balompié,1,2,0,8,7,8,7,5,5
+PL,2024,2024-10-19,497481,Fulham FC,Aston Villa FC,1,3,0,8,11,8,6,10,6
+PD,2024,2024-10-19,498708,Girona FC,Real Sociedad de Fútbol,0,1,0,5,5,4,8,4,4
+PL,2024,2024-10-19,497482,Ipswich Town FC,Everton FC,0,2,0,4,5,5,8,7,8
+PL,2024,2024-10-19,497484,Manchester United FC,Brentford FC,2,1,1,5,7,3,6,11,10
+PL,2024,2024-10-19,497485,Newcastle United FC,Brighton & Hove Albion FC,0,1,0,8,6,6,6,8,9
+PD,2024,2024-10-19,498705,RC Celta de Vigo,Real Madrid CF,1,2,0,7,13,6,6,12,4
+PL,2024,2024-10-19,497487,Southampton FC,Leicester City FC,2,3,0,1,5,4,13,7,9
+PL,2024,2024-10-19,497488,Tottenham Hotspur FC,West Ham United FC,4,1,1,6,5,9,7,7,9
+PD,2024,2024-10-20,498703,Club Atlético de Madrid,CD Leganés,3,1,1,9,3,7,3,2,6
+PD,2024,2024-10-20,498707,FC Barcelona,Sevilla FC,5,1,1,12,10,15,6,6,4
+PL,2024,2024-10-20,497483,Liverpool FC,Chelsea FC,2,1,1,12,11,9,2,10,4
+PD,2024,2024-10-20,498711,RCD Mallorca,Rayo Vallecano de Madrid,1,0,1,9,9,7,6,7,4
+PD,2024,2024-10-20,498710,Villarreal CF,Getafe CF,1,1,0,9,5,8,10,5,5
+PL,2024,2024-10-20,497489,Wolverhampton Wanderers FC,Manchester City FC,1,2,0,1,11,7,13,11,7
+PL,2024,2024-10-21,497486,Nottingham Forest FC,Crystal Palace FC,1,0,1,6,3,5,5,4,6
+PD,2024,2024-10-21,498709,Valencia CF,UD Las Palmas,2,3,0,5,1,2,6,5,10
+PL,2024,2024-10-25,497497,Leicester City FC,Nottingham Forest FC,1,3,0,8,8,9,9,5,4
+PD,2024,2024-10-25,498722,RCD Espanyol de Barcelona,Sevilla FC,0,2,0,3,7,5,12,6,9
+PL,2024,2024-10-26,497491,Aston Villa FC,AFC Bournemouth,1,1,0,11,6,11,6,5,6
+PL,2024,2024-10-26,497492,Brentford FC,Ipswich Town FC,4,3,1,4,3,9,11,4,9
+PL,2024,2024-10-26,497493,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,2,2,0,8,0,8,8,7,14
+PL,2024,2024-10-26,497496,Everton FC,Fulham FC,1,1,0,8,7,7,5,8,8
+PL,2024,2024-10-26,497498,Manchester City FC,Southampton FC,1,0,1,11,1,10,7,5,13
+PD,2024,2024-10-26,498716,Rayo Vallecano de Madrid,Deportivo Alavés,1,0,1,6,3,4,4,6,12
+PD,2024,2024-10-26,498718,Real Madrid CF,FC Barcelona,0,4,0,13,12,12,5,16,6
+PD,2024,2024-10-26,498720,Real Valladolid CF,Villarreal CF,1,2,0,4,7,6,8,7,10
+PD,2024,2024-10-26,498721,UD Las Palmas,Girona FC,1,0,1,4,5,6,9,3,5
+PL,2024,2024-10-27,497490,Arsenal FC,Liverpool FC,2,2,0,10,12,10,7,8,3
+PD,2024,2024-10-27,498714,CD Leganés,RC Celta de Vigo,3,0,1,3,4,3,7,4,7
+PL,2024,2024-10-27,497494,Chelsea FC,Newcastle United FC,2,1,1,10,5,10,5,4,6
+PL,2024,2024-10-27,497495,Crystal Palace FC,Tottenham Hotspur FC,1,0,1,2,9,3,6,12,6
+PD,2024,2024-10-27,498715,Getafe CF,Valencia CF,1,1,0,6,5,5,4,4,6
+PD,2024,2024-10-27,498713,Real Betis Balompié,Club Atlético de Madrid,1,0,1,7,9,5,5,7,4
+PD,2024,2024-10-27,498719,Real Sociedad de Fútbol,CA Osasuna,0,2,0,8,8,5,2,8,6
+PL,2024,2024-10-27,497499,West Ham United FC,Manchester United FC,2,1,1,5,8,7,10,5,4
+PD,2024,2024-10-28,498717,RCD Mallorca,Athletic Club,0,0,0,12,10,7,4,11,5
+PD,2024,2024-11-01,498727,Deportivo Alavés,RCD Mallorca,1,0,1,0,10,4,12,6,4
+PL,2024,2024-11-02,497500,AFC Bournemouth,Manchester City FC,2,1,1,7,11,6,6,9,6
+PD,2024,2024-11-02,498725,CA Osasuna,Real Valladolid CF,1,0,1,8,3,8,5,7,10
+PD,2024,2024-11-02,498728,Girona FC,CD Leganés,4,3,1,5,6,3,4,6,5
+PL,2024,2024-11-02,497502,Ipswich Town FC,Leicester City FC,1,1,0,2,7,7,13,8,10
+PL,2024,2024-11-02,497503,Liverpool FC,Brighton & Hove Albion FC,2,1,1,13,8,10,4,10,10
+PL,2024,2024-11-02,497505,Newcastle United FC,Arsenal FC,1,0,1,2,8,3,7,11,9
+PL,2024,2024-11-02,497506,Nottingham Forest FC,West Ham United FC,3,0,1,8,7,7,5,8,10
+PL,2024,2024-11-02,497507,Southampton FC,Everton FC,1,0,1,1,9,5,11,6,3
+PL,2024,2024-11-02,497509,Wolverhampton Wanderers FC,Crystal Palace FC,2,2,0,1,4,8,14,2,4
+PD,2024,2024-11-03,498723,Athletic Club,Real Betis Balompié,1,1,0,8,10,9,5,5,3
+PD,2024,2024-11-03,498724,Club Atlético de Madrid,UD Las Palmas,2,0,1,8,7,6,4,6,7
+PD,2024,2024-11-03,498732,FC Barcelona,RCD Espanyol de Barcelona,3,1,1,12,3,15,5,4,10
+PL,2024,2024-11-03,497504,Manchester United FC,Chelsea FC,1,1,0,5,10,3,6,11,6
+PD,2024,2024-11-03,498729,Sevilla FC,Real Sociedad de Fútbol,0,2,0,10,8,7,7,5,3
+PL,2024,2024-11-03,497508,Tottenham Hotspur FC,Aston Villa FC,4,1,1,9,9,12,6,9,5
+PL,2024,2024-11-04,497501,Fulham FC,Brentford FC,2,1,1,7,7,8,8,12,12
+PD,2024,2024-11-04,498726,RC Celta de Vigo,Getafe CF,1,0,1,4,6,3,7,5,4
+PD,2024,2024-11-08,498737,Rayo Vallecano de Madrid,UD Las Palmas,1,3,0,8,6,4,3,5,8
+PL,2024,2024-11-09,497510,Brentford FC,AFC Bournemouth,3,2,1,7,10,12,11,8,4
+PL,2024,2024-11-09,497511,Brighton & Hove Albion FC,Manchester City FC,2,1,1,7,10,9,10,8,6
+PD,2024,2024-11-09,498734,CD Leganés,Sevilla FC,1,0,1,5,7,8,8,5,8
+PL,2024,2024-11-09,497513,Crystal Palace FC,Fulham FC,0,2,0,4,7,4,6,7,8
+PL,2024,2024-11-09,497514,Liverpool FC,Aston Villa FC,2,0,1,13,6,9,5,7,8
+PD,2024,2024-11-09,498739,Real Madrid CF,CA Osasuna,4,0,1,10,10,8,8,9,5
+PD,2024,2024-11-09,498736,Villarreal CF,Deportivo Alavés,3,0,1,10,3,8,6,3,9
+PL,2024,2024-11-09,497518,West Ham United FC,Everton FC,0,0,0,7,8,8,10,5,3
+PL,2024,2024-11-09,497519,Wolverhampton Wanderers FC,Southampton FC,2,0,1,2,3,9,13,5,10
+PL,2024,2024-11-10,497512,Chelsea FC,Arsenal FC,1,1,0,8,7,9,7,9,8
+PD,2024,2024-11-10,498735,Getafe CF,Girona FC,0,1,0,6,7,5,4,7,7
+PL,2024,2024-11-10,497515,Manchester United FC,Leicester City FC,3,0,1,5,7,4,7,8,10
+PL,2024,2024-11-10,497516,Nottingham Forest FC,Newcastle United FC,1,3,0,10,5,8,3,3,4
+PD,2024,2024-11-10,498738,RCD Mallorca,Club Atlético de Madrid,0,1,0,7,8,4,4,7,4
+PD,2024,2024-11-10,498733,Real Betis Balompié,RC Celta de Vigo,2,2,0,10,7,5,3,4,6
+PD,2024,2024-11-10,498740,Real Sociedad de Fútbol,FC Barcelona,1,0,1,10,12,7,3,17,6
+PD,2024,2024-11-10,498741,Real Valladolid CF,Athletic Club,1,1,0,3,6,6,9,7,5
+PL,2024,2024-11-10,497517,Tottenham Hotspur FC,Ipswich Town FC,1,2,0,9,2,13,6,7,13
+PD,2024,2024-11-22,498748,Getafe CF,Real Valladolid CF,2,0,1,3,4,3,5,6,8
+PL,2024,2024-11-23,497520,AFC Bournemouth,Brighton & Hove Albion FC,1,2,0,7,10,7,6,9,7
+PL,2024,2024-11-23,497521,Arsenal FC,Nottingham Forest FC,3,0,1,5,10,6,7,9,5
+PL,2024,2024-11-23,497522,Aston Villa FC,Crystal Palace FC,2,2,0,5,4,5,8,3,6
+PD,2024,2024-11-23,498744,Club Atlético de Madrid,Deportivo Alavés,2,1,1,10,3,7,3,3,10
+PL,2024,2024-11-23,497523,Everton FC,Brentford FC,0,0,0,6,9,3,2,14,12
+PL,2024,2024-11-23,497524,Fulham FC,Wolverhampton Wanderers FC,1,4,0,7,5,8,8,10,11
+PD,2024,2024-11-23,498752,Girona FC,RCD Espanyol de Barcelona,4,1,1,9,3,7,6,4,11
+PL,2024,2024-11-23,497526,Leicester City FC,Chelsea FC,1,2,0,7,6,6,9,6,6
+PL,2024,2024-11-23,497527,Manchester City FC,Tottenham Hotspur FC,0,4,0,9,6,8,7,11,8
+PD,2024,2024-11-23,498747,RC Celta de Vigo,FC Barcelona,2,2,0,7,12,5,7,15,3
+PD,2024,2024-11-23,498751,UD Las Palmas,RCD Mallorca,2,3,0,9,4,7,6,2,4
+PD,2024,2024-11-23,498750,Valencia CF,Real Betis Balompié,4,2,1,3,8,3,7,6,5
+PD,2024,2024-11-24,498743,Athletic Club,Real Sociedad de Fútbol,1,0,1,6,10,7,5,5,3
+PD,2024,2024-11-24,498745,CA Osasuna,Villarreal CF,2,2,0,7,10,5,7,9,5
+PD,2024,2024-11-24,498746,CD Leganés,Real Madrid CF,0,3,0,7,10,8,7,9,6
+PL,2024,2024-11-24,497525,Ipswich Town FC,Manchester United FC,1,1,0,4,8,7,12,7,4
+PD,2024,2024-11-24,498749,Sevilla FC,Rayo Vallecano de Madrid,1,0,1,6,7,4,8,5,6
+PL,2024,2024-11-24,497529,Southampton FC,Liverpool FC,2,3,0,3,13,4,9,9,4
+PL,2024,2024-11-25,497528,Newcastle United FC,West Ham United FC,0,2,0,7,7,5,4,7,9
+PL,2024,2024-11-29,497531,Brighton & Hove Albion FC,Southampton FC,1,1,0,10,3,8,6,5,9
+PD,2024,2024-11-29,498758,RCD Mallorca,Valencia CF,2,1,1,7,5,4,4,7,9
+PL,2024,2024-11-30,497530,Brentford FC,Leicester City FC,4,1,1,7,4,9,9,6,11
+PL,2024,2024-11-30,497533,Crystal Palace FC,Newcastle United FC,1,1,0,5,6,5,7,5,6
+PD,2024,2024-11-30,498753,Deportivo Alavés,CD Leganés,1,1,0,3,6,4,9,8,10
+PD,2024,2024-11-30,498754,FC Barcelona,UD Las Palmas,1,2,0,10,9,14,5,9,8
+PL,2024,2024-11-30,497536,Nottingham Forest FC,Ipswich Town FC,1,0,1,9,5,8,7,7,9
+PD,2024,2024-11-30,498762,RCD Espanyol de Barcelona,RC Celta de Vigo,3,1,1,3,5,5,14,6,9
+PD,2024,2024-11-30,498761,Real Valladolid CF,Club Atlético de Madrid,0,5,0,4,12,5,8,8,3
+PL,2024,2024-11-30,497538,West Ham United FC,Arsenal FC,2,5,0,7,5,5,8,6,6
+PL,2024,2024-11-30,497539,Wolverhampton Wanderers FC,AFC Bournemouth,2,4,0,8,7,11,7,8,7
+PL,2024,2024-12-01,497532,Chelsea FC,Aston Villa FC,3,0,1,8,5,7,6,7,10
+PL,2024,2024-12-01,497534,Liverpool FC,Manchester City FC,2,0,1,13,6,11,6,5,9
+PL,2024,2024-12-01,497535,Manchester United FC,Everton FC,4,0,1,8,6,8,5,3,2
+PD,2024,2024-12-01,498757,Rayo Vallecano de Madrid,Athletic Club,1,2,0,6,9,4,6,7,3
+PD,2024,2024-12-01,498759,Real Madrid CF,Getafe CF,2,0,1,12,5,11,5,4,4
+PD,2024,2024-12-01,498760,Real Sociedad de Fútbol,Real Betis Balompié,2,0,1,9,8,4,3,8,8
+PL,2024,2024-12-01,497537,Tottenham Hotspur FC,Fulham FC,1,1,0,9,7,13,5,7,9
+PD,2024,2024-12-01,498756,Villarreal CF,Girona FC,2,2,0,8,9,8,6,9,6
+PD,2024,2024-12-02,498755,Sevilla FC,CA Osasuna,1,1,0,6,7,4,8,6,8
+PL,2024,2024-12-03,497545,Ipswich Town FC,Crystal Palace FC,0,1,0,5,6,7,8,6,7
+PL,2024,2024-12-03,497546,Leicester City FC,West Ham United FC,3,1,1,1,7,4,13,6,9
+PD,2024,2024-12-03,498798,RCD Mallorca,FC Barcelona,1,5,0,7,7,5,5,10,6
+PL,2024,2024-12-04,497541,Arsenal FC,Manchester United FC,2,0,1,8,8,11,6,10,4
+PL,2024,2024-12-04,497542,Aston Villa FC,Brentford FC,3,1,1,2,10,4,12,12,8
+PD,2024,2024-12-04,498793,Athletic Club,Real Madrid CF,2,1,1,9,12,5,3,11,5
+PL,2024,2024-12-04,497543,Everton FC,Wolverhampton Wanderers FC,4,0,1,3,8,1,6,12,9
+PL,2024,2024-12-04,497547,Manchester City FC,Nottingham Forest FC,3,0,1,3,9,3,10,8,7
+PL,2024,2024-12-04,497548,Newcastle United FC,Liverpool FC,3,3,0,7,13,6,6,11,5
+PL,2024,2024-12-04,497549,Southampton FC,Chelsea FC,1,5,0,4,11,4,7,9,4
+PL,2024,2024-12-05,497540,AFC Bournemouth,Tottenham Hotspur FC,1,0,1,7,7,10,9,10,5
+PL,2024,2024-12-05,497544,Fulham FC,Brighton & Hove Albion FC,3,1,1,8,8,7,7,8,7
+PD,2024,2024-12-06,498768,RC Celta de Vigo,RCD Mallorca,2,0,1,5,6,6,10,6,10
+PL,2024,2024-12-07,497550,Aston Villa FC,Southampton FC,1,0,1,4,4,6,12,5,11
+PL,2024,2024-12-07,497551,Brentford FC,Newcastle United FC,4,2,1,7,8,9,8,8,7
+PL,2024,2024-12-07,497552,Crystal Palace FC,Manchester City FC,2,2,0,6,3,6,7,5,10
+PD,2024,2024-12-07,498769,Girona FC,Real Madrid CF,0,3,0,10,9,11,7,10,6
+PL,2024,2024-12-07,497557,Manchester United FC,Nottingham Forest FC,2,3,0,8,6,9,4,5,9
+PD,2024,2024-12-07,498765,Real Betis Balompié,FC Barcelona,2,2,0,5,7,6,9,11,7
+PD,2024,2024-12-07,498771,UD Las Palmas,Real Valladolid CF,2,1,1,9,1,8,7,2,11
+PD,2024,2024-12-07,498770,Valencia CF,Rayo Vallecano de Madrid,0,1,0,5,3,8,8,3,7
+PD,2024,2024-12-08,498763,Athletic Club,Villarreal CF,2,0,1,11,9,7,4,10,6
+PD,2024,2024-12-08,498766,CA Osasuna,Deportivo Alavés,2,2,0,8,4,6,7,3,7
+PD,2024,2024-12-08,498767,CD Leganés,Real Sociedad de Fútbol,0,3,0,7,9,8,8,5,3
+PD,2024,2024-12-08,498764,Club Atlético de Madrid,Sevilla FC,4,3,1,12,7,10,2,4,4
+PL,2024,2024-12-08,497554,Fulham FC,Arsenal FC,1,1,0,10,10,9,7,11,4
+PL,2024,2024-12-08,497555,Ipswich Town FC,AFC Bournemouth,1,2,0,5,9,4,5,10,8
+PL,2024,2024-12-08,497556,Leicester City FC,Brighton & Hove Albion FC,2,2,0,4,7,6,11,7,8
+PL,2024,2024-12-08,497558,Tottenham Hotspur FC,Chelsea FC,3,4,0,7,11,10,5,12,4
+PD,2024,2024-12-09,498772,Getafe CF,RCD Espanyol de Barcelona,1,0,1,4,3,3,5,6,14
+PL,2024,2024-12-09,497559,West Ham United FC,Wolverhampton Wanderers FC,2,1,1,4,7,5,11,10,11
+PD,2024,2024-12-13,498781,Real Valladolid CF,Valencia CF,1,0,1,1,4,2,11,8,9
+PL,2024,2024-12-14,497561,Arsenal FC,Everton FC,0,0,0,11,5,12,4,4,5
+PL,2024,2024-12-14,497564,Liverpool FC,Fulham FC,2,2,0,13,8,12,6,8,7
+PL,2024,2024-12-14,497566,Newcastle United FC,Leicester City FC,4,0,1,5,4,9,11,7,12
+PL,2024,2024-12-14,497567,Nottingham Forest FC,Aston Villa FC,2,1,1,6,7,5,11,6,8
+PD,2024,2024-12-14,498782,RCD Espanyol de Barcelona,CA Osasuna,0,0,0,3,6,5,11,6,9
+PD,2024,2024-12-14,498779,RCD Mallorca,Girona FC,2,1,1,6,10,6,11,11,9
+PD,2024,2024-12-14,498778,Rayo Vallecano de Madrid,Real Madrid CF,3,3,0,6,12,4,6,13,2
+PD,2024,2024-12-14,498776,Sevilla FC,RC Celta de Vigo,1,0,1,4,8,5,8,8,7
+PL,2024,2024-12-14,497569,Wolverhampton Wanderers FC,Ipswich Town FC,1,2,0,6,4,9,11,4,6
+PL,2024,2024-12-15,497562,Brighton & Hove Albion FC,Crystal Palace FC,1,3,0,8,6,8,8,6,7
+PL,2024,2024-12-15,497563,Chelsea FC,Brentford FC,2,1,1,13,10,15,6,12,8
+PD,2024,2024-12-15,498773,Club Atlético de Madrid,Getafe CF,1,0,1,15,6,14,4,3,4
+PD,2024,2024-12-15,498774,Deportivo Alavés,Athletic Club,1,1,0,5,13,5,8,8,3
+PD,2024,2024-12-15,498775,FC Barcelona,CD Leganés,0,1,0,5,4,10,8,5,11
+PL,2024,2024-12-15,497565,Manchester City FC,Manchester United FC,1,2,0,4,7,6,10,10,6
+PD,2024,2024-12-15,498780,Real Sociedad de Fútbol,UD Las Palmas,0,0,0,12,9,8,1,9,8
+PL,2024,2024-12-15,497568,Southampton FC,Tottenham Hotspur FC,0,5,0,1,4,4,12,9,8
+PD,2024,2024-12-15,498777,Villarreal CF,Real Betis Balompié,1,2,0,8,3,9,7,7,11
+PL,2024,2024-12-16,497560,AFC Bournemouth,West Ham United FC,1,1,0,9,7,10,8,7,9
+PD,2024,2024-12-18,498742,RCD Espanyol de Barcelona,Valencia CF,1,1,0,4,4,5,9,6,7
+PD,2024,2024-12-18,498731,Villarreal CF,Rayo Vallecano de Madrid,1,1,0,5,4,8,8,6,9
+PD,2024,2024-12-20,498789,Girona FC,Real Valladolid CF,3,0,1,7,4,8,8,3,10
+PL,2024,2024-12-21,497570,Aston Villa FC,Manchester City FC,2,1,1,7,4,7,8,6,10
+PL,2024,2024-12-21,497571,Brentford FC,Nottingham Forest FC,0,2,0,7,9,10,8,6,9
+PD,2024,2024-12-21,498784,CA Osasuna,Athletic Club,1,2,0,4,13,5,9,8,3
+PL,2024,2024-12-21,497572,Crystal Palace FC,Arsenal FC,1,5,0,9,11,9,6,11,3
+PD,2024,2024-12-21,498787,FC Barcelona,Club Atlético de Madrid,1,2,0,5,15,10,8,13,4
+PD,2024,2024-12-21,498788,Getafe CF,RCD Mallorca,0,1,0,6,9,3,4,8,11
+PL,2024,2024-12-21,497575,Ipswich Town FC,Newcastle United FC,0,4,0,4,5,4,6,10,10
+PD,2024,2024-12-21,498786,RC Celta de Vigo,Real Sociedad de Fútbol,2,0,1,5,10,7,8,6,1
+PL,2024,2024-12-21,497579,West Ham United FC,Brighton & Hove Albion FC,1,1,0,7,5,8,10,7,10
+PD,2024,2024-12-22,498785,CD Leganés,Villarreal CF,2,5,0,7,3,3,7,6,9
+PL,2024,2024-12-22,497573,Everton FC,Chelsea FC,0,0,0,6,15,4,4,16,6
+PL,2024,2024-12-22,497574,Fulham FC,Southampton FC,0,0,0,6,1,8,9,4,15
+PL,2024,2024-12-22,497576,Leicester City FC,Wolverhampton Wanderers FC,0,3,0,4,3,7,13,8,13
+PL,2024,2024-12-22,497577,Manchester United FC,AFC Bournemouth,0,3,0,7,10,9,7,9,6
+PD,2024,2024-12-22,498783,Real Betis Balompié,Rayo Vallecano de Madrid,1,1,0,5,5,8,11,6,7
+PD,2024,2024-12-22,498791,Real Madrid CF,Sevilla FC,4,2,1,10,7,12,5,6,6
+PL,2024,2024-12-22,497578,Tottenham Hotspur FC,Liverpool FC,3,6,0,7,11,13,6,12,7
+PD,2024,2024-12-22,498792,UD Las Palmas,RCD Espanyol de Barcelona,1,0,1,10,5,9,6,5,7
+PD,2024,2024-12-22,498790,Valencia CF,Deportivo Alavés,2,2,0,4,3,6,7,5,9
+PL,2024,2024-12-26,497580,AFC Bournemouth,Crystal Palace FC,0,0,0,13,8,11,4,8,9
+PL,2024,2024-12-26,497583,Chelsea FC,Fulham FC,1,2,0,13,7,14,5,7,5
+PL,2024,2024-12-26,497584,Liverpool FC,Leicester City FC,3,1,1,11,4,16,10,6,14
+PL,2024,2024-12-26,497585,Manchester City FC,Everton FC,1,1,0,4,6,7,8,4,4
+PL,2024,2024-12-26,497586,Newcastle United FC,Aston Villa FC,3,0,1,8,9,14,8,7,7
+PL,2024,2024-12-26,497587,Nottingham Forest FC,Tottenham Hotspur FC,1,0,1,12,4,8,6,12,12
+PL,2024,2024-12-26,497588,Southampton FC,West Ham United FC,0,1,0,2,5,2,12,7,11
+PL,2024,2024-12-26,497589,Wolverhampton Wanderers FC,Manchester United FC,2,0,1,3,6,7,12,8,9
+PL,2024,2024-12-27,497581,Arsenal FC,Ipswich Town FC,1,0,1,11,3,13,4,3,9
+PL,2024,2024-12-27,497582,Brighton & Hove Albion FC,Brentford FC,0,0,0,3,6,6,10,10,10
+PL,2024,2024-12-29,497592,Crystal Palace FC,Southampton FC,2,1,1,8,1,7,8,1,12
+PL,2024,2024-12-29,497593,Everton FC,Nottingham Forest FC,0,2,0,6,12,5,5,8,6
+PL,2024,2024-12-29,497594,Fulham FC,AFC Bournemouth,2,2,0,9,11,8,5,7,2
+PL,2024,2024-12-29,497596,Leicester City FC,Manchester City FC,0,2,0,4,5,6,13,8,7
+PL,2024,2024-12-29,497598,Tottenham Hotspur FC,Wolverhampton Wanderers FC,2,2,0,3,6,11,12,7,8
+PL,2024,2024-12-29,497599,West Ham United FC,Liverpool FC,0,5,0,8,11,6,6,16,9
+PL,2024,2024-12-30,497590,Aston Villa FC,Brighton & Hove Albion FC,2,2,0,9,3,7,7,5,9
+PL,2024,2024-12-30,497595,Ipswich Town FC,Chelsea FC,2,0,1,3,10,3,9,12,7
+PL,2024,2024-12-30,497597,Manchester United FC,Newcastle United FC,0,2,0,3,10,4,11,16,7
+PL,2024,2025-01-01,497591,Brentford FC,Arsenal FC,1,3,0,4,11,6,9,9,2
+PD,2024,2025-01-03,498730,Valencia CF,Real Madrid CF,1,2,0,2,10,4,7,13,7
+PL,2024,2025-01-04,497603,AFC Bournemouth,Everton FC,1,0,1,9,6,8,4,5,3
+PL,2024,2025-01-04,497605,Aston Villa FC,Leicester City FC,2,1,1,7,1,6,8,3,14
+PL,2024,2025-01-04,497600,Brighton & Hove Albion FC,Arsenal FC,1,1,0,4,11,6,8,10,3
+PL,2024,2025-01-04,497602,Crystal Palace FC,Chelsea FC,1,1,0,8,7,8,9,7,8
+PL,2024,2025-01-04,497609,Manchester City FC,West Ham United FC,4,1,1,5,8,7,7,5,8
+PL,2024,2025-01-04,497601,Southampton FC,Brentford FC,0,5,0,1,4,1,9,6,9
+PL,2024,2025-01-04,497607,Tottenham Hotspur FC,Newcastle United FC,1,2,0,4,12,13,13,15,4
+PL,2024,2025-01-05,497604,Fulham FC,Ipswich Town FC,2,2,0,7,6,7,6,5,8
+PL,2024,2025-01-05,497606,Liverpool FC,Manchester United FC,2,2,0,11,3,19,9,4,11
+PL,2024,2025-01-06,497608,Wolverhampton Wanderers FC,Nottingham Forest FC,0,3,0,7,15,9,6,10,3
+PD,2024,2025-01-10,498797,Rayo Vallecano de Madrid,RC Celta de Vigo,2,1,1,6,7,7,7,7,6
+PD,2024,2025-01-11,498795,Deportivo Alavés,Girona FC,0,1,0,4,7,7,8,10,8
+PD,2024,2025-01-11,498802,RCD Espanyol de Barcelona,CD Leganés,1,1,0,5,4,4,4,4,12
+PD,2024,2025-01-11,498800,Real Valladolid CF,Real Betis Balompié,1,0,1,3,5,2,12,7,10
+PD,2024,2025-01-11,498796,Sevilla FC,Valencia CF,1,1,0,7,2,8,9,4,7
+PD,2024,2025-01-12,498794,Club Atlético de Madrid,CA Osasuna,1,0,1,15,4,14,5,6,7
+PD,2024,2025-01-12,498801,UD Las Palmas,Getafe CF,1,2,0,10,6,7,5,3,4
+PD,2024,2025-01-13,498799,Real Sociedad de Fútbol,Villarreal CF,1,0,1,7,5,5,3,9,9
+PL,2024,2025-01-14,497615,Brentford FC,Manchester City FC,2,2,0,4,7,7,7,9,6
+PL,2024,2025-01-14,497617,Chelsea FC,AFC Bournemouth,2,2,0,5,9,4,6,7,3
+PL,2024,2025-01-14,497614,Nottingham Forest FC,Liverpool FC,1,1,0,15,11,10,1,18,8
+PL,2024,2025-01-14,497613,West Ham United FC,Fulham FC,3,2,1,5,7,4,11,8,7
+PL,2024,2025-01-15,497616,Arsenal FC,Tottenham Hotspur FC,2,1,1,11,4,10,3,11,11
+PL,2024,2025-01-15,497610,Everton FC,Aston Villa FC,0,1,0,3,7,1,4,7,9
+PL,2024,2025-01-15,497612,Leicester City FC,Crystal Palace FC,0,2,0,0,8,2,14,7,8
+PL,2024,2025-01-15,497619,Newcastle United FC,Wolverhampton Wanderers FC,3,0,1,15,7,15,1,8,7
+PL,2024,2025-01-16,497611,Ipswich Town FC,Brighton & Hove Albion FC,0,2,0,7,4,6,8,5,7
+PL,2024,2025-01-16,497618,Manchester United FC,Southampton FC,3,1,1,4,1,4,10,1,13
+PD,2024,2025-01-17,498812,RCD Espanyol de Barcelona,Real Valladolid CF,2,1,1,3,6,2,4,3,10
+PL,2024,2025-01-18,497621,Arsenal FC,Aston Villa FC,2,2,0,13,10,12,4,7,7
+PL,2024,2025-01-18,497625,Brentford FC,Liverpool FC,0,2,0,5,11,8,7,17,7
+PD,2024,2025-01-18,498805,CD Leganés,Club Atlético de Madrid,1,0,1,5,15,5,10,13,4
+PD,2024,2025-01-18,498807,Getafe CF,FC Barcelona,1,1,0,6,4,3,5,9,8
+PD,2024,2025-01-18,498808,Girona FC,Sevilla FC,1,2,0,7,5,7,7,8,10
+PL,2024,2025-01-18,497624,Leicester City FC,Fulham FC,0,2,0,0,6,2,12,8,8
+PL,2024,2025-01-18,497620,Newcastle United FC,AFC Bournemouth,1,4,0,15,9,14,1,8,4
+PD,2024,2025-01-18,498803,Real Betis Balompié,Deportivo Alavés,1,3,0,5,4,5,7,6,7
+PL,2024,2025-01-18,497623,West Ham United FC,Crystal Palace FC,0,2,0,7,8,6,12,6,7
+PD,2024,2025-01-19,498804,CA Osasuna,Rayo Vallecano de Madrid,1,1,0,3,9,4,6,8,6
+PL,2024,2025-01-19,497628,Everton FC,Tottenham Hotspur FC,3,2,1,2,1,1,5,7,13
+PL,2024,2025-01-19,497626,Ipswich Town FC,Manchester City FC,0,6,0,4,8,4,9,10,6
+PL,2024,2025-01-19,497622,Manchester United FC,Brighton & Hove Albion FC,1,3,0,4,7,5,10,6,4
+PL,2024,2025-01-19,497627,Nottingham Forest FC,Southampton FC,3,2,1,13,1,9,1,2,11
+PD,2024,2025-01-19,498806,RC Celta de Vigo,Athletic Club,1,2,0,6,13,6,6,9,4
+PD,2024,2025-01-19,498811,Real Madrid CF,UD Las Palmas,4,1,1,10,10,13,8,6,4
+PD,2024,2025-01-19,498809,Valencia CF,Real Sociedad de Fútbol,1,0,1,3,10,5,7,6,2
+PL,2024,2025-01-20,497629,Chelsea FC,Wolverhampton Wanderers FC,3,1,1,3,7,4,7,7,8
+PD,2024,2025-01-20,498810,Villarreal CF,RCD Mallorca,4,0,1,4,9,7,8,6,9
+PD,2024,2025-01-24,498821,UD Las Palmas,CA Osasuna,1,1,0,7,3,5,7,4,6
+PL,2024,2025-01-25,497635,AFC Bournemouth,Nottingham Forest FC,5,0,1,9,13,9,5,10,3
+PL,2024,2025-01-25,497633,Brighton & Hove Albion FC,Everton FC,0,1,0,9,4,8,4,4,7
+PD,2024,2025-01-25,498814,Club Atlético de Madrid,Villarreal CF,1,1,0,12,7,8,5,11,6
+PL,2024,2025-01-25,497631,Liverpool FC,Ipswich Town FC,4,1,1,11,4,13,4,4,11
+PL,2024,2025-01-25,497638,Manchester City FC,Chelsea FC,3,1,1,11,5,15,4,7,8
+PD,2024,2025-01-25,498818,RCD Mallorca,Real Betis Balompié,0,1,0,6,5,4,12,6,8
+PD,2024,2025-01-25,498820,Real Valladolid CF,Real Madrid CF,0,3,0,6,13,4,7,16,7
+PD,2024,2025-01-25,498822,Sevilla FC,RCD Espanyol de Barcelona,1,1,0,7,6,9,10,4,4
+PL,2024,2025-01-25,497634,Southampton FC,Newcastle United FC,1,3,0,0,12,4,14,11,5
+PL,2024,2025-01-25,497632,Wolverhampton Wanderers FC,Arsenal FC,0,1,0,4,11,5,11,9,5
+PL,2024,2025-01-26,497636,Aston Villa FC,West Ham United FC,1,1,0,8,6,7,8,5,13
+PD,2024,2025-01-26,498813,Athletic Club,CD Leganés,0,0,0,13,7,9,4,5,9
+PL,2024,2025-01-26,497637,Crystal Palace FC,Brentford FC,1,2,0,11,5,7,2,8,7
+PD,2024,2025-01-26,498816,FC Barcelona,Valencia CF,7,1,1,5,6,9,7,6,6
+PL,2024,2025-01-26,497630,Fulham FC,Manchester United FC,0,1,0,8,4,10,8,6,10
+PD,2024,2025-01-26,498817,Rayo Vallecano de Madrid,Girona FC,2,1,1,7,6,8,7,6,7
+PD,2024,2025-01-26,498819,Real Sociedad de Fútbol,Getafe CF,0,3,0,7,7,4,3,4,4
+PL,2024,2025-01-26,497639,Tottenham Hotspur FC,Leicester City FC,1,2,0,1,0,6,10,2,11
+PD,2024,2025-01-27,498815,Deportivo Alavés,RC Celta de Vigo,1,1,0,6,6,8,7,6,5
+PD,2024,2025-01-31,498826,CD Leganés,Rayo Vallecano de Madrid,0,1,0,8,9,5,6,7,5
+PL,2024,2025-02-01,497645,AFC Bournemouth,Liverpool FC,0,2,0,11,11,14,5,14,4
+PD,2024,2025-02-01,498823,Club Atlético de Madrid,RCD Mallorca,2,0,1,10,6,5,3,3,8
+PL,2024,2025-02-01,497644,Everton FC,Leicester City FC,4,0,1,6,3,4,6,3,9
+PD,2024,2025-02-01,498828,Getafe CF,Sevilla FC,0,0,0,7,8,6,4,7,7
+PL,2024,2025-02-01,497647,Ipswich Town FC,Southampton FC,1,2,0,4,0,5,14,5,16
+PL,2024,2025-02-01,497643,Newcastle United FC,Fulham FC,1,2,0,12,5,11,6,8,8
+PL,2024,2025-02-01,497641,Nottingham Forest FC,Brighton & Hove Albion FC,7,0,1,10,8,9,8,8,5
+PD,2024,2025-02-01,498832,RCD Espanyol de Barcelona,Real Madrid CF,1,0,1,6,13,5,5,16,7
+PD,2024,2025-02-01,498831,Villarreal CF,Real Valladolid CF,5,1,1,8,6,11,5,3,8
+PL,2024,2025-02-01,497640,Wolverhampton Wanderers FC,Aston Villa FC,2,0,1,1,9,3,12,8,6
+PL,2024,2025-02-02,497646,Arsenal FC,Manchester City FC,5,1,1,11,13,9,5,17,4
+PL,2024,2025-02-02,497648,Brentford FC,Tottenham Hotspur FC,0,2,0,7,1,10,8,7,11
+PD,2024,2025-02-02,498825,CA Osasuna,Real Sociedad de Fútbol,2,1,1,3,4,3,5,1,6
+PD,2024,2025-02-02,498827,FC Barcelona,Deportivo Alavés,1,0,1,5,6,11,7,7,6
+PL,2024,2025-02-02,497642,Manchester United FC,Crystal Palace FC,0,2,0,7,10,7,8,8,4
+PD,2024,2025-02-02,498824,Real Betis Balompié,Athletic Club,2,2,0,7,11,5,6,7,3
+PD,2024,2025-02-02,498830,Valencia CF,RC Celta de Vigo,2,1,1,5,4,6,12,5,6
+PL,2024,2025-02-03,497649,Chelsea FC,West Ham United FC,2,1,1,5,4,7,9,5,14
+PD,2024,2025-02-03,498829,Girona FC,UD Las Palmas,2,1,1,6,5,7,6,4,7
+PD,2024,2025-02-07,498838,Rayo Vallecano de Madrid,Real Valladolid CF,1,0,1,11,3,7,4,3,13
+PD,2024,2025-02-08,498833,Athletic Club,Girona FC,3,0,1,9,9,7,5,8,5
+PD,2024,2025-02-08,498834,RC Celta de Vigo,Real Betis Balompié,3,2,1,4,5,6,7,5,7
+PD,2024,2025-02-08,498840,Real Madrid CF,Club Atlético de Madrid,1,1,0,12,10,13,5,6,3
+PD,2024,2025-02-08,498841,UD Las Palmas,Villarreal CF,1,2,0,4,10,5,9,15,5
+PD,2024,2025-02-09,498835,Deportivo Alavés,Getafe CF,0,1,0,5,8,6,6,6,3
+PD,2024,2025-02-09,498842,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,2,1,1,3,8,2,8,5,4
+PD,2024,2025-02-09,498836,Sevilla FC,FC Barcelona,1,4,0,6,7,6,7,10,5
+PD,2024,2025-02-09,498837,Valencia CF,CD Leganés,2,0,1,7,5,6,11,4,7
+PD,2024,2025-02-10,498839,RCD Mallorca,CA Osasuna,1,1,0,6,5,3,8,5,6
+PL,2024,2025-02-12,497553,Everton FC,Liverpool FC,2,2,0,9,11,8,4,11,4
+PL,2024,2025-02-14,497653,Brighton & Hove Albion FC,Chelsea FC,3,0,1,7,8,6,10,9,8
+PD,2024,2025-02-14,498848,Girona FC,Getafe CF,1,2,0,6,11,5,8,7,2
+PL,2024,2025-02-15,497655,Aston Villa FC,Ipswich Town FC,1,1,0,8,1,6,6,4,16
+PD,2024,2025-02-15,498845,CA Osasuna,Real Madrid CF,1,1,0,6,10,5,5,10,4
+PD,2024,2025-02-15,498846,CD Leganés,Deportivo Alavés,3,3,0,5,4,2,4,4,5
+PD,2024,2025-02-15,498843,Club Atlético de Madrid,RC Celta de Vigo,1,1,0,8,4,5,3,7,9
+PL,2024,2025-02-15,497654,Crystal Palace FC,Everton FC,1,2,0,10,10,8,3,10,5
+PL,2024,2025-02-15,497658,Fulham FC,Nottingham Forest FC,2,1,1,7,10,8,7,14,8
+PL,2024,2025-02-15,497651,Leicester City FC,Arsenal FC,0,2,0,3,11,3,11,11,5
+PL,2024,2025-02-15,497657,Manchester City FC,Newcastle United FC,4,0,1,10,9,16,9,10,8
+PL,2024,2025-02-15,497650,Southampton FC,AFC Bournemouth,1,3,0,3,10,6,15,12,5
+PD,2024,2025-02-15,498849,Villarreal CF,Valencia CF,1,1,0,10,10,12,4,7,9
+PL,2024,2025-02-15,497652,West Ham United FC,Brentford FC,0,1,0,4,7,6,11,9,7
+PL,2024,2025-02-16,497659,Liverpool FC,Wolverhampton Wanderers FC,2,1,1,11,3,11,4,3,10
+PD,2024,2025-02-16,498852,RCD Espanyol de Barcelona,Athletic Club,1,1,0,8,11,6,5,9,4
+PD,2024,2025-02-16,498850,RCD Mallorca,UD Las Palmas,3,1,1,4,1,2,8,5,11
+PD,2024,2025-02-16,498844,Real Betis Balompié,Real Sociedad de Fútbol,3,0,1,4,6,6,9,4,7
+PD,2024,2025-02-16,498851,Real Valladolid CF,Sevilla FC,0,4,0,3,6,3,11,5,7
+PL,2024,2025-02-16,497656,Tottenham Hotspur FC,Manchester United FC,1,0,1,3,7,7,9,7,8
+PD,2024,2025-02-17,498847,FC Barcelona,Rayo Vallecano de Madrid,1,0,1,10,13,14,5,7,3
+PL,2024,2025-02-19,497692,Aston Villa FC,Liverpool FC,2,2,0,6,13,5,6,12,4
+PL,2024,2025-02-21,497660,Leicester City FC,Brentford FC,0,4,0,3,7,2,11,5,7
+PD,2024,2025-02-21,498854,RC Celta de Vigo,CA Osasuna,1,0,1,5,7,7,8,6,5
+PL,2024,2025-02-22,497669,AFC Bournemouth,Wolverhampton Wanderers FC,0,1,0,10,3,14,6,4,9
+PL,2024,2025-02-22,497668,Arsenal FC,West Ham United FC,0,1,0,13,4,12,4,5,8
+PL,2024,2025-02-22,497662,Aston Villa FC,Chelsea FC,2,1,1,4,7,6,8,8,10
+PD,2024,2025-02-22,498862,Deportivo Alavés,RCD Espanyol de Barcelona,0,1,0,5,8,7,7,6,5
+PL,2024,2025-02-22,497665,Everton FC,Manchester United FC,2,2,0,13,6,12,5,5,7
+PL,2024,2025-02-22,497667,Fulham FC,Crystal Palace FC,0,2,0,9,9,8,6,8,4
+PL,2024,2025-02-22,497666,Ipswich Town FC,Tottenham Hotspur FC,1,4,0,1,6,3,15,7,7
+PD,2024,2025-02-22,498858,Rayo Vallecano de Madrid,Villarreal CF,0,1,0,10,11,5,3,13,4
+PL,2024,2025-02-22,497661,Southampton FC,Brighton & Hove Albion FC,0,4,0,3,9,7,13,8,9
+PD,2024,2025-02-22,498861,UD Las Palmas,FC Barcelona,0,2,0,1,13,5,12,14,3
+PD,2024,2025-02-22,498857,Valencia CF,Club Atlético de Madrid,0,3,0,10,6,7,9,5,4
+PD,2024,2025-02-23,498853,Athletic Club,Real Valladolid CF,7,1,1,9,0,8,4,2,15
+PD,2024,2025-02-23,498855,Getafe CF,Real Betis Balompié,1,2,0,11,7,7,2,9,8
+PL,2024,2025-02-23,497664,Manchester City FC,Liverpool FC,0,2,0,10,11,16,8,12,6
+PL,2024,2025-02-23,497663,Newcastle United FC,Nottingham Forest FC,4,3,1,6,7,8,11,12,10
+PD,2024,2025-02-23,498859,Real Madrid CF,Girona FC,2,0,1,8,3,9,4,5,10
+PD,2024,2025-02-23,498860,Real Sociedad de Fútbol,CD Leganés,3,0,1,3,5,3,10,4,6
+PD,2024,2025-02-24,498856,Sevilla FC,RCD Mallorca,1,1,0,8,4,8,6,4,9
+PL,2024,2025-02-25,497670,Brighton & Hove Albion FC,AFC Bournemouth,2,1,1,9,9,10,9,12,5
+PL,2024,2025-02-25,497678,Chelsea FC,Southampton FC,4,0,1,6,3,7,10,6,14
+PL,2024,2025-02-25,497672,Crystal Palace FC,Aston Villa FC,4,1,1,9,6,8,4,6,7
+PL,2024,2025-02-25,497674,Wolverhampton Wanderers FC,Fulham FC,1,2,0,6,9,5,6,6,5
+PL,2024,2025-02-26,497673,Brentford FC,Everton FC,1,1,0,9,11,7,5,11,5
+PL,2024,2025-02-26,497679,Liverpool FC,Newcastle United FC,2,0,1,11,6,10,5,9,14
+PL,2024,2025-02-26,497677,Manchester United FC,Ipswich Town FC,3,2,1,4,1,4,8,4,17
+PL,2024,2025-02-26,497671,Nottingham Forest FC,Arsenal FC,0,0,0,6,10,14,13,10,4
+PL,2024,2025-02-26,497675,Tottenham Hotspur FC,Manchester City FC,0,1,0,9,9,10,6,14,8
+PL,2024,2025-02-27,497676,West Ham United FC,Leicester City FC,2,0,1,4,3,3,6,2,13
+PD,2024,2025-02-28,498871,Real Valladolid CF,UD Las Palmas,1,1,0,0,1,2,20,4,10
+PD,2024,2025-03-01,498863,Club Atlético de Madrid,Athletic Club,1,0,1,9,9,8,3,13,4
+PD,2024,2025-03-01,498868,Girona FC,RC Celta de Vigo,2,2,0,3,8,4,10,7,6
+PD,2024,2025-03-01,498869,Rayo Vallecano de Madrid,Sevilla FC,1,1,0,9,6,4,3,7,6
+PD,2024,2025-03-01,498864,Real Betis Balompié,Real Madrid CF,2,1,1,10,8,10,6,7,3
+PD,2024,2025-03-02,498865,CA Osasuna,Valencia CF,3,3,0,6,7,5,5,6,12
+PD,2024,2025-03-02,498866,CD Leganés,Getafe CF,1,0,1,2,10,3,9,7,3
+PD,2024,2025-03-02,498867,FC Barcelona,Real Sociedad de Fútbol,4,0,1,15,6,15,2,6,9
+PD,2024,2025-03-02,498870,RCD Mallorca,Deportivo Alavés,1,1,0,5,2,5,6,4,7
+PL,2024,2025-03-08,497682,Brentford FC,Aston Villa FC,0,1,0,10,5,8,4,6,10
+PL,2024,2025-03-08,497684,Brighton & Hove Albion FC,Fulham FC,2,1,1,9,9,9,9,6,6
+PL,2024,2025-03-08,497685,Crystal Palace FC,Ipswich Town FC,1,0,1,9,1,10,5,6,14
+PD,2024,2025-03-08,498876,Deportivo Alavés,Villarreal CF,1,0,1,2,11,4,7,10,4
+PL,2024,2025-03-08,497688,Liverpool FC,Southampton FC,3,1,1,11,3,10,5,4,15
+PL,2024,2025-03-08,497687,Nottingham Forest FC,Manchester City FC,1,0,1,4,9,11,11,9,8
+PD,2024,2025-03-08,498875,RC Celta de Vigo,CD Leganés,2,1,1,8,4,8,7,4,9
+PD,2024,2025-03-08,498879,Valencia CF,Real Valladolid CF,2,1,1,8,1,8,8,3,18
+PL,2024,2025-03-08,497683,Wolverhampton Wanderers FC,Everton FC,1,1,0,6,9,5,5,11,6
+PD,2024,2025-03-09,498873,Athletic Club,RCD Mallorca,1,1,0,8,6,13,5,6,6
+PL,2024,2025-03-09,497689,Chelsea FC,Leicester City FC,1,0,1,6,3,8,9,2,13
+PD,2024,2025-03-09,498878,Getafe CF,Club Atlético de Madrid,2,1,1,7,11,4,4,8,2
+PL,2024,2025-03-09,497681,Manchester United FC,Arsenal FC,1,1,0,7,10,6,7,8,2
+PD,2024,2025-03-09,498874,Real Betis Balompié,UD Las Palmas,1,0,1,10,1,11,7,4,10
+PD,2024,2025-03-09,498880,Real Madrid CF,Rayo Vallecano de Madrid,2,1,1,5,7,5,5,3,3
+PD,2024,2025-03-09,498881,Real Sociedad de Fútbol,Sevilla FC,0,1,0,6,6,6,10,7,6
+PL,2024,2025-03-09,497680,Tottenham Hotspur FC,AFC Bournemouth,2,2,0,9,6,8,4,9,6
+PD,2024,2025-03-10,498882,RCD Espanyol de Barcelona,Girona FC,1,1,0,8,4,5,4,5,10
+PL,2024,2025-03-10,497686,West Ham United FC,Newcastle United FC,0,1,0,7,6,5,4,8,12
+PD,2024,2025-03-14,498891,UD Las Palmas,Deportivo Alavés,2,2,0,1,5,3,9,5,6
+PL,2024,2025-03-15,497690,AFC Bournemouth,Brentford FC,1,2,0,4,7,6,8,6,4
+PL,2024,2025-03-15,497693,Everton FC,West Ham United FC,1,1,0,7,6,8,7,4,4
+PD,2024,2025-03-15,498886,Girona FC,Valencia CF,1,1,0,2,8,4,10,8,8
+PL,2024,2025-03-15,497695,Ipswich Town FC,Nottingham Forest FC,2,4,0,1,7,5,11,12,6
+PL,2024,2025-03-15,497697,Manchester City FC,Brighton & Hove Albion FC,2,2,0,6,12,6,8,11,9
+PD,2024,2025-03-15,498892,RCD Mallorca,RCD Espanyol de Barcelona,2,1,1,7,8,7,5,5,4
+PD,2024,2025-03-15,498890,Real Valladolid CF,RC Celta de Vigo,0,1,0,1,11,3,15,9,6
+PL,2024,2025-03-15,497699,Southampton FC,Wolverhampton Wanderers FC,1,2,0,3,7,4,15,6,5
+PD,2024,2025-03-15,498888,Villarreal CF,Real Madrid CF,1,2,0,10,8,9,4,7,5
+PL,2024,2025-03-16,497691,Arsenal FC,Chelsea FC,1,0,1,8,9,8,3,8,6
+PD,2024,2025-03-16,498884,CA Osasuna,Getafe CF,1,2,0,6,9,7,7,6,5
+PD,2024,2025-03-16,498885,CD Leganés,Real Betis Balompié,2,3,0,4,12,5,10,10,5
+PD,2024,2025-03-16,498883,Club Atlético de Madrid,FC Barcelona,2,4,0,8,15,7,4,12,1
+PL,2024,2025-03-16,497694,Fulham FC,Tottenham Hotspur FC,2,0,1,9,10,7,7,9,4
+PL,2024,2025-03-16,497696,Leicester City FC,Manchester United FC,0,3,0,0,5,0,13,6,8
+PD,2024,2025-03-16,498889,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,2,2,0,4,6,3,5,5,9
+PD,2024,2025-03-16,498887,Sevilla FC,Athletic Club,0,1,0,8,8,8,6,12,4
+PD,2024,2025-03-27,498877,FC Barcelona,CA Osasuna,3,0,1,15,3,15,3,6,8
+PD,2024,2025-03-29,498896,Deportivo Alavés,Rayo Vallecano de Madrid,0,2,0,6,2,7,7,4,7
+PD,2024,2025-03-29,498902,RCD Espanyol de Barcelona,Club Atlético de Madrid,1,1,0,5,7,5,6,8,7
+PD,2024,2025-03-29,498900,Real Madrid CF,CD Leganés,3,2,1,10,4,8,5,7,11
+PD,2024,2025-03-29,498901,Real Sociedad de Fútbol,Real Valladolid CF,2,1,1,4,1,5,10,3,15
+PD,2024,2025-03-30,498893,Athletic Club,CA Osasuna,0,0,0,8,2,10,4,5,10
+PD,2024,2025-03-30,498897,FC Barcelona,Girona FC,4,1,1,15,3,14,2,5,8
+PD,2024,2025-03-30,498898,Getafe CF,Villarreal CF,1,2,0,9,7,7,6,5,5
+PD,2024,2025-03-30,498894,Real Betis Balompié,Sevilla FC,2,1,1,15,8,11,4,7,3
+PD,2024,2025-03-30,498899,Valencia CF,RCD Mallorca,1,0,1,6,9,7,9,8,5
+PD,2024,2025-03-31,498895,RC Celta de Vigo,UD Las Palmas,1,1,0,11,2,7,4,4,9
+PL,2024,2025-04-01,497701,Arsenal FC,Fulham FC,2,1,1,8,9,4,2,7,6
+PL,2024,2025-04-01,497703,Nottingham Forest FC,Manchester United FC,1,0,1,7,8,9,8,9,6
+PL,2024,2025-04-01,497704,Wolverhampton Wanderers FC,West Ham United FC,1,0,1,7,7,6,6,4,3
+PL,2024,2025-04-02,497700,AFC Bournemouth,Ipswich Town FC,1,2,0,4,1,7,8,6,13
+PL,2024,2025-04-02,497702,Brighton & Hove Albion FC,Aston Villa FC,0,3,0,13,8,13,4,7,8
+PL,2024,2025-04-02,497709,Liverpool FC,Everton FC,1,0,1,13,7,11,4,7,6
+PL,2024,2025-04-02,497706,Manchester City FC,Leicester City FC,2,0,1,7,0,7,5,0,12
+PL,2024,2025-04-02,497707,Newcastle United FC,Brentford FC,2,1,1,6,10,6,11,8,3
+PL,2024,2025-04-02,497708,Southampton FC,Crystal Palace FC,1,1,0,0,12,3,16,10,3
+PL,2024,2025-04-03,497705,Chelsea FC,Tottenham Hotspur FC,1,0,1,6,7,6,6,7,6
+PD,2024,2025-04-04,498912,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,0,4,0,5,6,6,6,5,5
+PL,2024,2025-04-05,497710,Aston Villa FC,Nottingham Forest FC,2,1,1,10,10,9,7,9,6
+PL,2024,2025-04-05,497712,Crystal Palace FC,Brighton & Hove Albion FC,2,1,1,10,10,9,4,10,7
+PL,2024,2025-04-05,497713,Everton FC,Arsenal FC,1,1,0,4,8,5,6,4,3
+PD,2024,2025-04-05,498904,FC Barcelona,Real Betis Balompié,1,1,0,15,15,17,3,10,5
+PD,2024,2025-04-05,498905,Girona FC,Deportivo Alavés,0,1,0,3,5,5,10,4,6
+PL,2024,2025-04-05,497715,Ipswich Town FC,Wolverhampton Wanderers FC,1,2,0,3,10,7,13,6,4
+PD,2024,2025-04-05,498908,RCD Mallorca,RC Celta de Vigo,1,2,0,6,11,5,5,7,4
+PD,2024,2025-04-05,498909,Real Madrid CF,Valencia CF,1,2,0,12,8,10,6,7,8
+PL,2024,2025-04-05,497719,West Ham United FC,AFC Bournemouth,2,2,0,7,1,4,3,5,9
+PL,2024,2025-04-06,497711,Brentford FC,Chelsea FC,0,0,0,7,9,8,5,7,3
+PL,2024,2025-04-06,497714,Fulham FC,Liverpool FC,3,2,1,6,13,6,7,10,3
+PL,2024,2025-04-06,497717,Manchester United FC,Manchester City FC,0,0,0,8,7,9,6,5,5
+PD,2024,2025-04-06,498910,Real Valladolid CF,Getafe CF,0,4,0,1,6,4,13,6,7
+PD,2024,2025-04-06,498906,Sevilla FC,Club Atlético de Madrid,1,2,0,5,7,4,5,8,7
+PL,2024,2025-04-06,497718,Tottenham Hotspur FC,Southampton FC,3,1,1,4,1,6,7,3,14
+PD,2024,2025-04-06,498911,UD Las Palmas,Real Sociedad de Fútbol,1,3,0,3,7,4,7,7,8
+PD,2024,2025-04-06,498907,Villarreal CF,Athletic Club,0,0,0,7,8,5,5,9,3
+PD,2024,2025-04-07,498903,CD Leganés,CA Osasuna,1,1,0,3,2,6,11,4,9
+PL,2024,2025-04-07,497716,Leicester City FC,Newcastle United FC,0,3,0,0,9,0,12,7,10
+PD,2024,2025-04-11,498920,Valencia CF,Sevilla FC,1,0,1,11,4,9,6,4,6
+PL,2024,2025-04-12,497721,Arsenal FC,Brentford FC,1,1,0,9,5,5,3,4,5
+PL,2024,2025-04-12,497722,Brighton & Hove Albion FC,Leicester City FC,2,2,0,7,0,7,9,0,11
+PD,2024,2025-04-12,498917,CD Leganés,FC Barcelona,0,1,0,4,13,7,9,16,4
+PD,2024,2025-04-12,498919,Getafe CF,UD Las Palmas,1,3,0,9,3,9,5,5,8
+PL,2024,2025-04-12,497725,Manchester City FC,Crystal Palace FC,5,2,1,8,13,5,3,10,3
+PL,2024,2025-04-12,497727,Nottingham Forest FC,Everton FC,0,1,0,10,4,7,4,4,5
+PD,2024,2025-04-12,498922,RC Celta de Vigo,RCD Espanyol de Barcelona,0,2,0,11,8,8,5,8,4
+PD,2024,2025-04-12,498921,Real Sociedad de Fútbol,RCD Mallorca,0,2,0,7,5,7,9,5,6
+PL,2024,2025-04-12,497728,Southampton FC,Aston Villa FC,0,3,0,1,12,4,13,9,6
+PD,2024,2025-04-13,498913,Athletic Club,Rayo Vallecano de Madrid,3,1,1,6,5,2,2,6,9
+PD,2024,2025-04-13,498916,CA Osasuna,Girona FC,2,1,1,3,3,5,9,5,9
+PL,2024,2025-04-13,497723,Chelsea FC,Ipswich Town FC,2,2,0,10,3,6,1,7,11
+PD,2024,2025-04-13,498918,Deportivo Alavés,Real Madrid CF,0,1,0,8,9,5,5,9,8
+PL,2024,2025-04-13,497724,Liverpool FC,West Ham United FC,2,1,1,12,5,10,4,5,5
+PL,2024,2025-04-13,497726,Newcastle United FC,Manchester United FC,4,1,1,12,8,10,6,7,4
+PD,2024,2025-04-13,498915,Real Betis Balompié,Villarreal CF,1,2,0,13,7,9,5,4,4
+PL,2024,2025-04-13,497729,Wolverhampton Wanderers FC,Tottenham Hotspur FC,4,2,1,10,4,7,5,5,7
+PL,2024,2025-04-14,497720,AFC Bournemouth,Fulham FC,1,0,1,2,9,7,10,9,7
+PD,2024,2025-04-14,498914,Club Atlético de Madrid,Real Valladolid CF,4,2,1,7,1,7,8,3,10
+PL,2024,2025-04-16,497698,Newcastle United FC,Crystal Palace FC,5,0,1,12,10,10,4,10,8
+PD,2024,2025-04-18,498932,RCD Espanyol de Barcelona,Getafe CF,1,0,1,8,9,9,4,10,7
+PL,2024,2025-04-19,497730,Aston Villa FC,Newcastle United FC,4,1,1,12,15,10,5,15,2
+PL,2024,2025-04-19,497731,Brentford FC,Brighton & Hove Albion FC,4,2,1,5,5,4,5,7,10
+PL,2024,2025-04-19,497732,Crystal Palace FC,AFC Bournemouth,0,0,0,7,5,6,12,7,8
+PL,2024,2025-04-19,497733,Everton FC,Manchester City FC,0,2,0,6,8,4,4,9,5
+PD,2024,2025-04-19,498923,FC Barcelona,RC Celta de Vigo,4,3,1,13,10,13,4,6,5
+PD,2024,2025-04-19,498928,RCD Mallorca,CD Leganés,0,0,0,7,1,6,5,6,10
+PD,2024,2025-04-19,498927,Rayo Vallecano de Madrid,Valencia CF,1,1,0,4,13,6,11,7,3
+PD,2024,2025-04-19,498931,UD Las Palmas,Club Atlético de Madrid,1,0,1,5,7,7,8,10,10
+PL,2024,2025-04-19,497739,West Ham United FC,Southampton FC,1,1,0,2,1,4,7,4,12
+PL,2024,2025-04-20,497734,Fulham FC,Chelsea FC,1,2,0,6,8,7,7,4,3
+PL,2024,2025-04-20,497735,Ipswich Town FC,Arsenal FC,0,4,0,4,9,7,10,6,4
+PL,2024,2025-04-20,497736,Leicester City FC,Liverpool FC,0,1,0,1,12,2,11,10,5
+PL,2024,2025-04-20,497737,Manchester United FC,Wolverhampton Wanderers FC,0,1,0,5,13,5,6,10,5
+PD,2024,2025-04-20,498929,Real Madrid CF,Athletic Club,1,0,1,12,9,9,6,5,2
+PD,2024,2025-04-20,498930,Real Valladolid CF,CA Osasuna,2,3,0,0,5,4,13,4,7
+PD,2024,2025-04-20,498925,Sevilla FC,Deportivo Alavés,1,1,0,3,7,3,6,4,5
+PD,2024,2025-04-20,498926,Villarreal CF,Real Sociedad de Fútbol,2,2,0,7,7,5,5,7,7
+PD,2024,2025-04-21,498924,Girona FC,Real Betis Balompié,1,3,0,2,10,4,9,8,6
+PL,2024,2025-04-21,497738,Tottenham Hotspur FC,Nottingham Forest FC,1,2,0,4,9,7,10,7,5
+PD,2024,2025-04-22,498940,FC Barcelona,RCD Mallorca,1,0,1,13,7,13,5,5,4
+PL,2024,2025-04-22,497745,Manchester City FC,Aston Villa FC,2,1,1,11,15,11,4,13,2
+PD,2024,2025-04-22,498942,Valencia CF,RCD Espanyol de Barcelona,1,1,0,11,10,6,3,9,3
+PL,2024,2025-04-23,497741,Arsenal FC,Crystal Palace FC,2,2,0,11,5,9,3,5,12
+PD,2024,2025-04-23,498933,Athletic Club,UD Las Palmas,1,0,1,8,8,4,2,8,7
+PD,2024,2025-04-23,498939,Deportivo Alavés,Real Sociedad de Fútbol,1,0,1,5,8,4,6,9,8
+PD,2024,2025-04-23,498941,Getafe CF,Real Madrid CF,0,1,0,6,12,8,7,8,5
+PD,2024,2025-04-23,498938,RC Celta de Vigo,Villarreal CF,3,0,1,7,8,7,8,7,6
+PD,2024,2025-04-24,498936,CA Osasuna,Sevilla FC,1,0,1,8,1,6,7,3,7
+PD,2024,2025-04-24,498937,CD Leganés,Girona FC,1,1,0,2,1,5,8,4,11
+PD,2024,2025-04-24,498934,Club Atlético de Madrid,Rayo Vallecano de Madrid,3,0,1,7,5,9,9,6,10
+PD,2024,2025-04-24,498935,Real Betis Balompié,Real Valladolid CF,5,1,1,10,0,10,7,5,14
+PL,2024,2025-04-26,497742,Brighton & Hove Albion FC,West Ham United FC,3,2,1,2,3,7,13,5,7
+PL,2024,2025-04-26,497743,Chelsea FC,Everton FC,1,0,1,8,5,5,4,3,5
+PL,2024,2025-04-26,497746,Newcastle United FC,Ipswich Town FC,3,0,1,12,4,15,6,7,13
+PL,2024,2025-04-26,497748,Southampton FC,Fulham FC,1,2,0,2,6,4,10,7,7
+PL,2024,2025-04-26,497749,Wolverhampton Wanderers FC,Leicester City FC,3,0,1,15,1,10,4,2,11
+PL,2024,2025-04-27,497740,AFC Bournemouth,Manchester United FC,1,1,0,5,4,5,6,4,6
+PL,2024,2025-04-27,497744,Liverpool FC,Tottenham Hotspur FC,5,1,1,12,3,9,5,6,10
+PD,2024,2025-04-27,498872,Villarreal CF,RCD Espanyol de Barcelona,1,0,1,8,11,6,7,9,2
+PL,2024,2025-05-01,497747,Nottingham Forest FC,Brentford FC,0,2,0,9,8,8,6,8,6
+PL,2024,2025-05-02,497758,Manchester City FC,Wolverhampton Wanderers FC,1,0,1,13,15,11,3,11,3
+PD,2024,2025-05-02,498947,Rayo Vallecano de Madrid,Getafe CF,1,0,1,4,3,4,11,6,7
+PL,2024,2025-05-03,497750,Arsenal FC,AFC Bournemouth,1,2,0,9,6,10,5,5,5
+PL,2024,2025-05-03,497751,Aston Villa FC,Fulham FC,1,0,1,12,6,13,4,7,8
+PD,2024,2025-05-03,498943,Deportivo Alavés,Club Atlético de Madrid,0,0,0,7,10,3,4,10,5
+PL,2024,2025-05-03,497756,Everton FC,Ipswich Town FC,2,2,0,4,4,2,5,5,12
+PL,2024,2025-05-03,497757,Leicester City FC,Southampton FC,2,0,1,1,2,2,11,4,10
+PD,2024,2025-05-03,498950,Real Valladolid CF,FC Barcelona,1,2,0,0,13,6,18,11,5
+PD,2024,2025-05-03,498951,UD Las Palmas,Valencia CF,2,3,0,7,11,6,6,6,3
+PD,2024,2025-05-03,498946,Villarreal CF,CA Osasuna,4,2,1,8,11,5,6,7,4
+PL,2024,2025-05-04,497752,Brentford FC,Manchester United FC,4,3,1,8,2,8,5,2,7
+PL,2024,2025-05-04,497753,Brighton & Hove Albion FC,Newcastle United FC,1,1,0,4,12,8,13,16,5
+PL,2024,2025-05-04,497754,Chelsea FC,Liverpool FC,3,1,1,11,12,6,3,11,5
+PD,2024,2025-05-04,498952,RCD Espanyol de Barcelona,Real Betis Balompié,1,2,0,10,10,8,2,12,6
+PD,2024,2025-05-04,498948,Real Madrid CF,RC Celta de Vigo,3,2,1,12,7,7,4,9,8
+PD,2024,2025-05-04,498949,Real Sociedad de Fútbol,Athletic Club,0,0,0,7,8,7,7,4,2
+PD,2024,2025-05-04,498945,Sevilla FC,CD Leganés,2,2,0,1,3,3,7,4,6
+PL,2024,2025-05-04,497759,West Ham United FC,Tottenham Hotspur FC,1,1,0,2,3,6,9,7,13
+PL,2024,2025-05-05,497755,Crystal Palace FC,Nottingham Forest FC,1,1,0,5,6,6,13,4,6
+PD,2024,2025-05-05,498944,Girona FC,RCD Mallorca,1,0,1,1,4,4,11,3,4
+PD,2024,2025-05-09,498961,UD Las Palmas,Rayo Vallecano de Madrid,0,1,0,6,4,7,8,3,11
+PL,2024,2025-05-10,497760,AFC Bournemouth,Aston Villa FC,0,1,0,9,12,6,4,11,4
+PD,2024,2025-05-10,498954,Club Atlético de Madrid,Real Sociedad de Fútbol,4,0,1,10,5,9,4,5,6
+PL,2024,2025-05-10,497761,Fulham FC,Everton FC,1,3,0,6,5,6,7,4,6
+PD,2024,2025-05-10,498958,Girona FC,Villarreal CF,0,1,0,4,10,4,7,9,8
+PL,2024,2025-05-10,497762,Ipswich Town FC,Brentford FC,0,1,0,2,11,5,13,11,6
+PD,2024,2025-05-10,498956,RC Celta de Vigo,Sevilla FC,3,2,1,6,2,10,10,4,7
+PD,2024,2025-05-10,498960,RCD Mallorca,Real Valladolid CF,2,1,1,4,0,3,4,6,18
+PL,2024,2025-05-10,497767,Southampton FC,Manchester City FC,0,0,0,1,13,3,11,10,3
+PD,2024,2025-05-10,498959,Valencia CF,Getafe CF,3,0,1,11,3,8,5,5,6
+PL,2024,2025-05-10,497769,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,0,2,0,12,5,10,4,9,11
+PD,2024,2025-05-11,498953,Athletic Club,Deportivo Alavés,1,0,1,8,8,4,2,3,2
+PD,2024,2025-05-11,498962,CD Leganés,RCD Espanyol de Barcelona,3,2,1,4,7,4,5,5,4
+PD,2024,2025-05-11,498957,FC Barcelona,Real Madrid CF,4,3,1,13,12,9,5,7,4
+PL,2024,2025-05-11,497763,Liverpool FC,Arsenal FC,2,2,0,9,6,11,8,9,6
+PL,2024,2025-05-11,497764,Manchester United FC,West Ham United FC,0,2,0,2,3,5,10,7,9
+PL,2024,2025-05-11,497765,Newcastle United FC,Chelsea FC,2,0,1,10,11,14,6,8,4
+PL,2024,2025-05-11,497766,Nottingham Forest FC,Leicester City FC,2,2,0,4,4,4,7,4,9
+PD,2024,2025-05-11,498955,Real Betis Balompié,CA Osasuna,1,1,0,10,10,12,6,9,8
+PL,2024,2025-05-11,497768,Tottenham Hotspur FC,Crystal Palace FC,0,2,0,4,3,8,13,5,13
+PD,2024,2025-05-13,498970,Real Sociedad de Fútbol,RC Celta de Vigo,0,1,0,2,6,2,9,11,11
+PD,2024,2025-05-13,498971,Real Valladolid CF,Girona FC,0,1,0,0,4,7,16,4,7
+PD,2024,2025-05-13,498966,Sevilla FC,UD Las Palmas,1,0,1,2,6,5,8,6,6
+PD,2024,2025-05-14,498964,Deportivo Alavés,Valencia CF,1,0,1,5,11,2,3,9,4
+PD,2024,2025-05-14,498969,Real Madrid CF,RCD Mallorca,2,1,1,12,7,9,6,4,3
+PD,2024,2025-05-14,498967,Villarreal CF,CD Leganés,3,0,1,10,6,8,7,6,6
+PD,2024,2025-05-15,498963,CA Osasuna,Club Atlético de Madrid,2,0,1,10,10,9,8,11,3
+PD,2024,2025-05-15,498965,Getafe CF,Athletic Club,0,2,0,0,10,1,9,5,2
+PD,2024,2025-05-15,498972,RCD Espanyol de Barcelona,FC Barcelona,0,2,0,4,15,5,7,12,7
+PD,2024,2025-05-15,498968,Rayo Vallecano de Madrid,Real Betis Balompié,2,2,0,7,10,4,7,12,6
+PL,2024,2025-05-16,497771,Aston Villa FC,Tottenham Hotspur FC,2,0,1,12,1,10,3,5,14
+PL,2024,2025-05-16,497774,Chelsea FC,Manchester United FC,1,0,1,10,1,8,6,5,12
+PL,2024,2025-05-18,497770,Arsenal FC,Newcastle United FC,1,0,1,6,10,10,7,12,5
+PL,2024,2025-05-18,497772,Brentford FC,Fulham FC,2,3,0,13,3,12,6,4,8
+PD,2024,2025-05-18,498982,CA Osasuna,RCD Espanyol de Barcelona,2,0,1,10,1,9,7,4,9
+PD,2024,2025-05-18,498973,Club Atlético de Madrid,Real Betis Balompié,4,1,1,7,11,7,3,13,6
+PL,2024,2025-05-18,497776,Everton FC,Southampton FC,2,0,1,7,2,6,6,2,8
+PD,2024,2025-05-18,498975,FC Barcelona,Villarreal CF,2,3,0,15,12,13,7,9,5
+PL,2024,2025-05-18,497777,Leicester City FC,Ipswich Town FC,2,0,1,5,2,6,8,4,12
+PD,2024,2025-05-18,498974,RC Celta de Vigo,Rayo Vallecano de Madrid,1,2,0,9,8,12,9,5,6
+PD,2024,2025-05-18,498978,RCD Mallorca,Getafe CF,1,2,0,4,0,3,5,0,8
+PD,2024,2025-05-18,498979,Real Sociedad de Fútbol,Girona FC,3,2,1,2,7,2,8,4,5
+PD,2024,2025-05-18,498980,Real Valladolid CF,Deportivo Alavés,0,1,0,0,8,5,13,3,2
+PD,2024,2025-05-18,498976,Sevilla FC,Real Madrid CF,0,2,0,5,12,6,7,10,7
+PD,2024,2025-05-18,498981,UD Las Palmas,CD Leganés,0,1,0,3,6,3,6,6,8
+PD,2024,2025-05-18,498977,Valencia CF,Athletic Club,0,1,0,8,10,8,5,4,1
+PL,2024,2025-05-18,497779,West Ham United FC,Nottingham Forest FC,1,2,0,5,5,7,7,5,7
+PL,2024,2025-05-19,497773,Brighton & Hove Albion FC,Liverpool FC,3,2,1,8,10,10,9,11,7
+PL,2024,2025-05-20,497775,Crystal Palace FC,Wolverhampton Wanderers FC,4,2,1,6,9,5,8,8,5
+PL,2024,2025-05-20,497778,Manchester City FC,AFC Bournemouth,3,1,1,13,8,10,3,4,3
+PD,2024,2025-05-23,498984,Real Betis Balompié,Valencia CF,1,1,0,8,7,11,9,7,5
+PD,2024,2025-05-24,498985,CD Leganés,Real Valladolid CF,3,0,1,8,0,7,8,3,11
+PD,2024,2025-05-24,498986,Deportivo Alavés,CA Osasuna,1,1,0,10,10,3,1,8,5
+PD,2024,2025-05-24,498987,Getafe CF,RC Celta de Vigo,1,2,0,3,9,2,8,10,7
+PD,2024,2025-05-24,498992,RCD Espanyol de Barcelona,UD Las Palmas,2,0,1,0,0,3,10,2,7
+PD,2024,2025-05-24,498990,Rayo Vallecano de Madrid,RCD Mallorca,0,0,0,10,3,6,6,4,7
+PD,2024,2025-05-24,498991,Real Madrid CF,Real Sociedad de Fútbol,2,0,1,12,4,11,7,3,8
+PL,2024,2025-05-25,497780,AFC Bournemouth,Leicester City FC,2,0,1,5,7,4,6,6,6
+PD,2024,2025-05-25,498983,Athletic Club,FC Barcelona,0,3,0,13,12,5,0,11,7
+PL,2024,2025-05-25,497781,Fulham FC,Manchester City FC,0,2,0,6,13,7,9,8,2
+PD,2024,2025-05-25,498988,Girona FC,Club Atlético de Madrid,0,4,0,7,10,5,5,11,3
+PL,2024,2025-05-25,497782,Ipswich Town FC,West Ham United FC,1,3,0,1,5,2,12,7,7
+PL,2024,2025-05-25,497783,Liverpool FC,Crystal Palace FC,1,1,0,7,9,11,9,9,5
+PL,2024,2025-05-25,497784,Manchester United FC,Aston Villa FC,2,0,1,1,12,4,9,9,3
+PL,2024,2025-05-25,497785,Newcastle United FC,Everton FC,0,1,0,7,7,7,6,7,6
+PL,2024,2025-05-25,497786,Nottingham Forest FC,Chelsea FC,0,1,0,8,12,7,7,7,4
+PL,2024,2025-05-25,497787,Southampton FC,Arsenal FC,1,2,0,2,8,2,7,10,6
+PL,2024,2025-05-25,497788,Tottenham Hotspur FC,Brighton & Hove Albion FC,1,4,0,1,10,3,12,11,9
+PD,2024,2025-05-25,498989,Villarreal CF,Sevilla FC,4,2,1,15,4,12,4,5,8
+PL,2024,2025-05-25,497789,Wolverhampton Wanderers FC,Brentford FC,1,1,0,6,12,6,7,13,8

@@ -1,0 +1,9 @@
+competition,season,date,match_id,home_team,away_team,home_goals,away_goals,actual_result,predicted_result,p_home_win
+PL,2024,2025-01-05,497606,Liverpool FC,Manchester United FC,2,2,0,1,0.8269
+PL,2024,2025-02-22,497669,AFC Bournemouth,Wolverhampton Wanderers FC,0,1,0,1,0.7629
+PL,2024,2025-05-18,497772,Brentford FC,Fulham FC,2,3,0,1,0.7626
+PL,2024,2025-02-22,497668,Arsenal FC,West Ham United FC,0,1,0,1,0.7582
+PL,2024,2025-01-18,497620,Newcastle United FC,AFC Bournemouth,1,4,0,1,0.7134
+PL,2024,2025-02-22,497665,Everton FC,Manchester United FC,2,2,0,1,0.7128
+PL,2024,2025-04-23,497741,Arsenal FC,Crystal Palace FC,2,2,0,1,0.7111
+PD,2024,2025-03-30,498893,Athletic Club,CA Osasuna,0,0,0,1,0.7053

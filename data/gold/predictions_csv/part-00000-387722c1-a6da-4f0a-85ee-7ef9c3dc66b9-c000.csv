@@ -1,0 +1,450 @@
+competition,season,date,match_id,home_team,away_team,home_goals,away_goals,actual_result,predicted_result,p_home_win
+PL,2024,2024-12-14,497566,Newcastle United FC,Leicester City FC,4,0,1,1,0.517
+PL,2024,2024-12-14,497567,Nottingham Forest FC,Aston Villa FC,2,1,1,0,0.3759
+PD,2024,2024-12-14,498782,RCD Espanyol de Barcelona,CA Osasuna,0,0,0,0,0.3556
+PD,2024,2024-12-14,498779,RCD Mallorca,Girona FC,2,1,1,0,0.2954
+PD,2024,2024-12-14,498778,Rayo Vallecano de Madrid,Real Madrid CF,3,3,0,0,0.2142
+PD,2024,2024-12-14,498776,Sevilla FC,RC Celta de Vigo,1,0,1,0,0.3307
+PL,2024,2024-12-14,497569,Wolverhampton Wanderers FC,Ipswich Town FC,1,2,0,1,0.5153
+PL,2024,2024-12-15,497562,Brighton & Hove Albion FC,Crystal Palace FC,1,3,0,1,0.513
+PL,2024,2024-12-15,497563,Chelsea FC,Brentford FC,2,1,1,1,0.6176
+PD,2024,2024-12-15,498773,Club Atlético de Madrid,Getafe CF,1,0,1,1,0.776
+PD,2024,2024-12-15,498774,Deportivo Alavés,Athletic Club,1,1,0,0,0.2395
+PD,2024,2024-12-15,498775,FC Barcelona,CD Leganés,0,1,0,1,0.5907
+PL,2024,2024-12-15,497565,Manchester City FC,Manchester United FC,1,2,0,0,0.3107
+PD,2024,2024-12-15,498780,Real Sociedad de Fútbol,UD Las Palmas,0,0,0,1,0.5821
+PL,2024,2024-12-15,497568,Southampton FC,Tottenham Hotspur FC,0,5,0,0,0.287
+PD,2024,2024-12-15,498777,Villarreal CF,Real Betis Balompié,1,2,0,1,0.6228
+PL,2024,2024-12-16,497560,AFC Bournemouth,West Ham United FC,1,1,0,1,0.5575
+PD,2024,2024-12-18,498742,RCD Espanyol de Barcelona,Valencia CF,1,1,0,0,0.411
+PD,2024,2024-12-18,498731,Villarreal CF,Rayo Vallecano de Madrid,1,1,0,1,0.5189
+PD,2024,2024-12-20,498789,Girona FC,Real Valladolid CF,3,0,1,1,0.5999
+PL,2024,2024-12-21,497570,Aston Villa FC,Manchester City FC,2,1,1,1,0.5413
+PL,2024,2024-12-21,497571,Brentford FC,Nottingham Forest FC,0,2,0,1,0.5018
+PD,2024,2024-12-21,498784,CA Osasuna,Athletic Club,1,2,0,0,0.219
+PL,2024,2024-12-21,497572,Crystal Palace FC,Arsenal FC,1,5,0,0,0.3819
+PD,2024,2024-12-21,498787,FC Barcelona,Club Atlético de Madrid,1,2,0,0,0.2455
+PD,2024,2024-12-21,498788,Getafe CF,RCD Mallorca,0,1,0,0,0.3892
+PL,2024,2024-12-21,497575,Ipswich Town FC,Newcastle United FC,0,4,0,0,0.3876
+PD,2024,2024-12-21,498786,RC Celta de Vigo,Real Sociedad de Fútbol,2,0,1,0,0.3212
+PL,2024,2024-12-21,497579,West Ham United FC,Brighton & Hove Albion FC,1,1,0,1,0.5051
+PD,2024,2024-12-22,498785,CD Leganés,Villarreal CF,2,5,0,0,0.4819
+PL,2024,2024-12-22,497573,Everton FC,Chelsea FC,0,0,0,0,0.1946
+PL,2024,2024-12-22,497574,Fulham FC,Southampton FC,0,0,0,1,0.6561
+PL,2024,2024-12-22,497576,Leicester City FC,Wolverhampton Wanderers FC,0,3,0,0,0.4497
+PL,2024,2024-12-22,497577,Manchester United FC,AFC Bournemouth,0,3,0,0,0.4085
+PD,2024,2024-12-22,498783,Real Betis Balompié,Rayo Vallecano de Madrid,1,1,0,0,0.444
+PD,2024,2024-12-22,498791,Real Madrid CF,Sevilla FC,4,2,1,1,0.6334
+PL,2024,2024-12-22,497578,Tottenham Hotspur FC,Liverpool FC,3,6,0,0,0.4528
+PD,2024,2024-12-22,498792,UD Las Palmas,RCD Espanyol de Barcelona,1,0,1,1,0.6203
+PD,2024,2024-12-22,498790,Valencia CF,Deportivo Alavés,2,2,0,1,0.5059
+PL,2024,2024-12-26,497580,AFC Bournemouth,Crystal Palace FC,0,0,0,1,0.6575
+PL,2024,2024-12-26,497583,Chelsea FC,Fulham FC,1,2,0,1,0.6931
+PL,2024,2024-12-26,497584,Liverpool FC,Leicester City FC,3,1,1,1,0.7702
+PL,2024,2024-12-26,497585,Manchester City FC,Everton FC,1,1,0,0,0.4247
+PL,2024,2024-12-26,497586,Newcastle United FC,Aston Villa FC,3,0,1,1,0.566
+PL,2024,2024-12-26,497587,Nottingham Forest FC,Tottenham Hotspur FC,1,0,1,1,0.6077
+PL,2024,2024-12-26,497588,Southampton FC,West Ham United FC,0,1,0,0,0.2982
+PL,2024,2024-12-26,497589,Wolverhampton Wanderers FC,Manchester United FC,2,0,1,0,0.3568
+PL,2024,2024-12-27,497581,Arsenal FC,Ipswich Town FC,1,0,1,1,0.7871
+PL,2024,2024-12-27,497582,Brighton & Hove Albion FC,Brentford FC,0,0,0,0,0.3461
+PL,2024,2024-12-29,497592,Crystal Palace FC,Southampton FC,2,1,1,1,0.6879
+PL,2024,2024-12-29,497593,Everton FC,Nottingham Forest FC,0,2,0,0,0.3208
+PL,2024,2024-12-29,497594,Fulham FC,AFC Bournemouth,2,2,0,0,0.4161
+PL,2024,2024-12-29,497596,Leicester City FC,Manchester City FC,0,2,0,0,0.341
+PL,2024,2024-12-29,497598,Tottenham Hotspur FC,Wolverhampton Wanderers FC,2,2,0,0,0.4372
+PL,2024,2024-12-29,497599,West Ham United FC,Liverpool FC,0,5,0,0,0.3053
+PL,2024,2024-12-30,497590,Aston Villa FC,Brighton & Hove Albion FC,2,2,0,1,0.6071
+PL,2024,2024-12-30,497595,Ipswich Town FC,Chelsea FC,2,0,1,0,0.2077
+PL,2024,2024-12-30,497597,Manchester United FC,Newcastle United FC,0,2,0,0,0.1722
+PL,2024,2025-01-01,497591,Brentford FC,Arsenal FC,1,3,0,0,0.2427
+PD,2024,2025-01-03,498730,Valencia CF,Real Madrid CF,1,2,0,0,0.2181
+PL,2024,2025-01-04,497603,AFC Bournemouth,Everton FC,1,0,1,1,0.5542
+PL,2024,2025-01-04,497605,Aston Villa FC,Leicester City FC,2,1,1,1,0.6492
+PL,2024,2025-01-04,497600,Brighton & Hove Albion FC,Arsenal FC,1,1,0,0,0.2494
+PL,2024,2025-01-04,497602,Crystal Palace FC,Chelsea FC,1,1,0,0,0.4787
+PL,2024,2025-01-04,497609,Manchester City FC,West Ham United FC,4,1,1,0,0.4427
+PL,2024,2025-01-04,497601,Southampton FC,Brentford FC,0,5,0,0,0.3093
+PL,2024,2025-01-04,497607,Tottenham Hotspur FC,Newcastle United FC,1,2,0,0,0.2522
+PL,2024,2025-01-05,497604,Fulham FC,Ipswich Town FC,2,2,0,1,0.5243
+PL,2024,2025-01-05,497606,Liverpool FC,Manchester United FC,2,2,0,1,0.8269
+PL,2024,2025-01-06,497608,Wolverhampton Wanderers FC,Nottingham Forest FC,0,3,0,0,0.2993
+PD,2024,2025-01-10,498797,Rayo Vallecano de Madrid,RC Celta de Vigo,2,1,1,0,0.4318
+PD,2024,2025-01-11,498795,Deportivo Alavés,Girona FC,0,1,0,0,0.3686
+PD,2024,2025-01-11,498802,RCD Espanyol de Barcelona,CD Leganés,1,1,0,1,0.5439
+PD,2024,2025-01-11,498800,Real Valladolid CF,Real Betis Balompié,1,0,1,0,0.304
+PD,2024,2025-01-11,498796,Sevilla FC,Valencia CF,1,1,0,1,0.5819
+PD,2024,2025-01-12,498794,Club Atlético de Madrid,CA Osasuna,1,0,1,1,0.7849
+PD,2024,2025-01-12,498801,UD Las Palmas,Getafe CF,1,2,0,1,0.5738
+PD,2024,2025-01-13,498799,Real Sociedad de Fútbol,Villarreal CF,1,0,1,0,0.4967
+PL,2024,2025-01-14,497615,Brentford FC,Manchester City FC,2,2,0,0,0.3746
+PL,2024,2025-01-14,497617,Chelsea FC,AFC Bournemouth,2,2,0,0,0.3116
+PL,2024,2025-01-14,497614,Nottingham Forest FC,Liverpool FC,1,1,0,1,0.5177
+PL,2024,2025-01-14,497613,West Ham United FC,Fulham FC,3,2,1,0,0.3104
+PL,2024,2025-01-15,497616,Arsenal FC,Tottenham Hotspur FC,2,1,1,1,0.6678
+PL,2024,2025-01-15,497610,Everton FC,Aston Villa FC,0,1,0,0,0.3341
+PL,2024,2025-01-15,497612,Leicester City FC,Crystal Palace FC,0,2,0,0,0.1944
+PL,2024,2025-01-15,497619,Newcastle United FC,Wolverhampton Wanderers FC,3,0,1,1,0.7779
+PL,2024,2025-01-16,497611,Ipswich Town FC,Brighton & Hove Albion FC,0,2,0,1,0.5055
+PL,2024,2025-01-16,497618,Manchester United FC,Southampton FC,3,1,1,1,0.5553
+PD,2024,2025-01-17,498812,RCD Espanyol de Barcelona,Real Valladolid CF,2,1,1,0,0.4288
+PL,2024,2025-01-18,497621,Arsenal FC,Aston Villa FC,2,2,0,1,0.6373
+PL,2024,2025-01-18,497625,Brentford FC,Liverpool FC,0,2,0,0,0.2613
+PD,2024,2025-01-18,498805,CD Leganés,Club Atlético de Madrid,1,0,1,0,0.1643
+PD,2024,2025-01-18,498807,Getafe CF,FC Barcelona,1,1,0,0,0.4237
+PD,2024,2025-01-18,498808,Girona FC,Sevilla FC,1,2,0,1,0.5095
+PL,2024,2025-01-18,497624,Leicester City FC,Fulham FC,0,2,0,0,0.2263
+PL,2024,2025-01-18,497620,Newcastle United FC,AFC Bournemouth,1,4,0,1,0.7134
+PD,2024,2025-01-18,498803,Real Betis Balompié,Deportivo Alavés,1,3,0,0,0.4519
+PL,2024,2025-01-18,497623,West Ham United FC,Crystal Palace FC,0,2,0,0,0.3725
+PD,2024,2025-01-19,498804,CA Osasuna,Rayo Vallecano de Madrid,1,1,0,0,0.2969
+PL,2024,2025-01-19,497628,Everton FC,Tottenham Hotspur FC,3,2,1,0,0.4459
+PL,2024,2025-01-19,497626,Ipswich Town FC,Manchester City FC,0,6,0,0,0.2729
+PL,2024,2025-01-19,497622,Manchester United FC,Brighton & Hove Albion FC,1,3,0,0,0.3223
+PL,2024,2025-01-19,497627,Nottingham Forest FC,Southampton FC,3,2,1,1,0.8239
+PD,2024,2025-01-19,498806,RC Celta de Vigo,Athletic Club,1,2,0,0,0.2845
+PD,2024,2025-01-19,498811,Real Madrid CF,UD Las Palmas,4,1,1,1,0.5453
+PD,2024,2025-01-19,498809,Valencia CF,Real Sociedad de Fútbol,1,0,1,0,0.2783
+PL,2024,2025-01-20,497629,Chelsea FC,Wolverhampton Wanderers FC,3,1,1,0,0.3458
+PD,2024,2025-01-20,498810,Villarreal CF,RCD Mallorca,4,0,1,0,0.3934
+PD,2024,2025-01-24,498821,UD Las Palmas,CA Osasuna,1,1,0,1,0.5196
+PL,2024,2025-01-25,497635,AFC Bournemouth,Nottingham Forest FC,5,0,1,0,0.3721
+PL,2024,2025-01-25,497633,Brighton & Hove Albion FC,Everton FC,0,1,0,1,0.6387
+PD,2024,2025-01-25,498814,Club Atlético de Madrid,Villarreal CF,1,1,0,1,0.523
+PL,2024,2025-01-25,497631,Liverpool FC,Ipswich Town FC,4,1,1,1,0.779
+PL,2024,2025-01-25,497638,Manchester City FC,Chelsea FC,3,1,1,1,0.7454
+PD,2024,2025-01-25,498818,RCD Mallorca,Real Betis Balompié,0,1,0,0,0.3791
+PD,2024,2025-01-25,498820,Real Valladolid CF,Real Madrid CF,0,3,0,0,0.1998
+PD,2024,2025-01-25,498822,Sevilla FC,RCD Espanyol de Barcelona,1,1,0,0,0.4889
+PL,2024,2025-01-25,497634,Southampton FC,Newcastle United FC,1,3,0,0,0.1327
+PL,2024,2025-01-25,497632,Wolverhampton Wanderers FC,Arsenal FC,0,1,0,0,0.2309
+PL,2024,2025-01-26,497636,Aston Villa FC,West Ham United FC,1,1,0,1,0.5636
+PD,2024,2025-01-26,498813,Athletic Club,CD Leganés,0,0,0,1,0.6731
+PL,2024,2025-01-26,497637,Crystal Palace FC,Brentford FC,1,2,0,1,0.6079
+PD,2024,2025-01-26,498816,FC Barcelona,Valencia CF,7,1,1,0,0.4865
+PL,2024,2025-01-26,497630,Fulham FC,Manchester United FC,0,1,0,1,0.6163
+PD,2024,2025-01-26,498817,Rayo Vallecano de Madrid,Girona FC,2,1,1,1,0.509
+PD,2024,2025-01-26,498819,Real Sociedad de Fútbol,Getafe CF,0,3,0,0,0.4582
+PL,2024,2025-01-26,497639,Tottenham Hotspur FC,Leicester City FC,1,2,0,1,0.5318
+PD,2024,2025-01-27,498815,Deportivo Alavés,RC Celta de Vigo,1,1,0,0,0.4732
+PD,2024,2025-01-31,498826,CD Leganés,Rayo Vallecano de Madrid,0,1,0,0,0.3925
+PL,2024,2025-02-01,497645,AFC Bournemouth,Liverpool FC,0,2,0,0,0.4961
+PD,2024,2025-02-01,498823,Club Atlético de Madrid,RCD Mallorca,2,0,1,1,0.5965
+PL,2024,2025-02-01,497644,Everton FC,Leicester City FC,4,0,1,1,0.5376
+PD,2024,2025-02-01,498828,Getafe CF,Sevilla FC,0,0,0,0,0.4572
+PL,2024,2025-02-01,497647,Ipswich Town FC,Southampton FC,1,2,0,1,0.5196
+PL,2024,2025-02-01,497643,Newcastle United FC,Fulham FC,1,2,0,1,0.6602
+PL,2024,2025-02-01,497641,Nottingham Forest FC,Brighton & Hove Albion FC,7,0,1,0,0.4843
+PD,2024,2025-02-01,498832,RCD Espanyol de Barcelona,Real Madrid CF,1,0,1,0,0.2303
+PD,2024,2025-02-01,498831,Villarreal CF,Real Valladolid CF,5,1,1,1,0.6552
+PL,2024,2025-02-01,497640,Wolverhampton Wanderers FC,Aston Villa FC,2,0,1,0,0.2015
+PL,2024,2025-02-02,497646,Arsenal FC,Manchester City FC,5,1,1,0,0.3269
+PL,2024,2025-02-02,497648,Brentford FC,Tottenham Hotspur FC,0,2,0,1,0.6481
+PD,2024,2025-02-02,498825,CA Osasuna,Real Sociedad de Fútbol,2,1,1,0,0.46
+PD,2024,2025-02-02,498827,FC Barcelona,Deportivo Alavés,1,0,1,1,0.5136
+PL,2024,2025-02-02,497642,Manchester United FC,Crystal Palace FC,0,2,0,0,0.353
+PD,2024,2025-02-02,498824,Real Betis Balompié,Athletic Club,2,2,0,0,0.3263
+PD,2024,2025-02-02,498830,Valencia CF,RC Celta de Vigo,2,1,1,0,0.4134
+PL,2024,2025-02-03,497649,Chelsea FC,West Ham United FC,2,1,1,1,0.5475
+PD,2024,2025-02-03,498829,Girona FC,UD Las Palmas,2,1,1,1,0.5294
+PD,2024,2025-02-07,498838,Rayo Vallecano de Madrid,Real Valladolid CF,1,0,1,1,0.7268
+PD,2024,2025-02-08,498833,Athletic Club,Girona FC,3,0,1,0,0.4473
+PD,2024,2025-02-08,498834,RC Celta de Vigo,Real Betis Balompié,3,2,1,0,0.4506
+PD,2024,2025-02-08,498840,Real Madrid CF,Club Atlético de Madrid,1,1,0,1,0.605
+PD,2024,2025-02-08,498841,UD Las Palmas,Villarreal CF,1,2,0,0,0.2063
+PD,2024,2025-02-09,498835,Deportivo Alavés,Getafe CF,0,1,0,0,0.3761
+PD,2024,2025-02-09,498842,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,2,1,1,0,0.2748
+PD,2024,2025-02-09,498836,Sevilla FC,FC Barcelona,1,4,0,0,0.3653
+PD,2024,2025-02-09,498837,Valencia CF,CD Leganés,2,0,1,0,0.463
+PD,2024,2025-02-10,498839,RCD Mallorca,CA Osasuna,1,1,0,0,0.4021
+PL,2024,2025-02-12,497553,Everton FC,Liverpool FC,2,2,0,0,0.3959
+PL,2024,2025-02-14,497653,Brighton & Hove Albion FC,Chelsea FC,3,0,1,0,0.368
+PD,2024,2025-02-14,498848,Girona FC,Getafe CF,1,2,0,0,0.2829
+PL,2024,2025-02-15,497655,Aston Villa FC,Ipswich Town FC,1,1,0,1,0.6914
+PD,2024,2025-02-15,498845,CA Osasuna,Real Madrid CF,1,1,0,0,0.3126
+PD,2024,2025-02-15,498846,CD Leganés,Deportivo Alavés,3,3,0,0,0.4364
+PD,2024,2025-02-15,498843,Club Atlético de Madrid,RC Celta de Vigo,1,1,0,1,0.5575
+PL,2024,2025-02-15,497654,Crystal Palace FC,Everton FC,1,2,0,0,0.4645
+PL,2024,2025-02-15,497658,Fulham FC,Nottingham Forest FC,2,1,1,0,0.3458
+PL,2024,2025-02-15,497651,Leicester City FC,Arsenal FC,0,2,0,0,0.1771
+PL,2024,2025-02-15,497657,Manchester City FC,Newcastle United FC,4,0,1,1,0.596
+PL,2024,2025-02-15,497650,Southampton FC,AFC Bournemouth,1,3,0,0,0.186
+PD,2024,2025-02-15,498849,Villarreal CF,Valencia CF,1,1,0,1,0.6089
+PL,2024,2025-02-15,497652,West Ham United FC,Brentford FC,0,1,0,0,0.3196
+PL,2024,2025-02-16,497659,Liverpool FC,Wolverhampton Wanderers FC,2,1,1,1,0.7658
+PD,2024,2025-02-16,498852,RCD Espanyol de Barcelona,Athletic Club,1,1,0,0,0.3555
+PD,2024,2025-02-16,498850,RCD Mallorca,UD Las Palmas,3,1,1,0,0.4683
+PD,2024,2025-02-16,498844,Real Betis Balompié,Real Sociedad de Fútbol,3,0,1,0,0.421
+PD,2024,2025-02-16,498851,Real Valladolid CF,Sevilla FC,0,4,0,0,0.3143
+PL,2024,2025-02-16,497656,Tottenham Hotspur FC,Manchester United FC,1,0,1,0,0.3784
+PD,2024,2025-02-17,498847,FC Barcelona,Rayo Vallecano de Madrid,1,0,1,1,0.5262
+PL,2024,2025-02-19,497692,Aston Villa FC,Liverpool FC,2,2,0,0,0.2384
+PL,2024,2025-02-21,497660,Leicester City FC,Brentford FC,0,4,0,0,0.2823
+PD,2024,2025-02-21,498854,RC Celta de Vigo,CA Osasuna,1,0,1,0,0.4069
+PL,2024,2025-02-22,497669,AFC Bournemouth,Wolverhampton Wanderers FC,0,1,0,1,0.7629
+PL,2024,2025-02-22,497668,Arsenal FC,West Ham United FC,0,1,0,1,0.7582
+PL,2024,2025-02-22,497662,Aston Villa FC,Chelsea FC,2,1,1,0,0.3927
+PD,2024,2025-02-22,498862,Deportivo Alavés,RCD Espanyol de Barcelona,0,1,0,0,0.4016
+PL,2024,2025-02-22,497665,Everton FC,Manchester United FC,2,2,0,1,0.7128
+PL,2024,2025-02-22,497667,Fulham FC,Crystal Palace FC,0,2,0,0,0.4452
+PL,2024,2025-02-22,497666,Ipswich Town FC,Tottenham Hotspur FC,1,4,0,0,0.2281
+PD,2024,2025-02-22,498858,Rayo Vallecano de Madrid,Villarreal CF,0,1,0,0,0.3421
+PL,2024,2025-02-22,497661,Southampton FC,Brighton & Hove Albion FC,0,4,0,0,0.298
+PD,2024,2025-02-22,498861,UD Las Palmas,FC Barcelona,0,2,0,0,0.1259
+PD,2024,2025-02-22,498857,Valencia CF,Club Atlético de Madrid,0,3,0,0,0.4975
+PD,2024,2025-02-23,498853,Athletic Club,Real Valladolid CF,7,1,1,1,0.7814
+PD,2024,2025-02-23,498855,Getafe CF,Real Betis Balompié,1,2,0,1,0.5694
+PL,2024,2025-02-23,497664,Manchester City FC,Liverpool FC,0,2,0,1,0.5278
+PL,2024,2025-02-23,497663,Newcastle United FC,Nottingham Forest FC,4,3,1,0,0.3764
+PD,2024,2025-02-23,498859,Real Madrid CF,Girona FC,2,0,1,1,0.6725
+PD,2024,2025-02-23,498860,Real Sociedad de Fútbol,CD Leganés,3,0,1,0,0.3446
+PD,2024,2025-02-24,498856,Sevilla FC,RCD Mallorca,1,1,0,1,0.6178
+PL,2024,2025-02-25,497670,Brighton & Hove Albion FC,AFC Bournemouth,2,1,1,0,0.4055
+PL,2024,2025-02-25,497678,Chelsea FC,Southampton FC,4,0,1,1,0.5562
+PL,2024,2025-02-25,497672,Crystal Palace FC,Aston Villa FC,4,1,1,1,0.5792
+PL,2024,2025-02-25,497674,Wolverhampton Wanderers FC,Fulham FC,1,2,0,0,0.3738
+PL,2024,2025-02-26,497673,Brentford FC,Everton FC,1,1,0,0,0.374
+PL,2024,2025-02-26,497679,Liverpool FC,Newcastle United FC,2,0,1,1,0.6624
+PL,2024,2025-02-26,497677,Manchester United FC,Ipswich Town FC,3,2,1,1,0.579
+PL,2024,2025-02-26,497671,Nottingham Forest FC,Arsenal FC,0,0,0,0,0.3858
+PL,2024,2025-02-26,497675,Tottenham Hotspur FC,Manchester City FC,0,1,0,0,0.4449
+PL,2024,2025-02-27,497676,West Ham United FC,Leicester City FC,2,0,1,1,0.5362
+PD,2024,2025-02-28,498871,Real Valladolid CF,UD Las Palmas,1,1,0,0,0.2726
+PD,2024,2025-03-01,498863,Club Atlético de Madrid,Athletic Club,1,0,1,0,0.4174
+PD,2024,2025-03-01,498868,Girona FC,RC Celta de Vigo,2,2,0,0,0.2813
+PD,2024,2025-03-01,498869,Rayo Vallecano de Madrid,Sevilla FC,1,1,0,0,0.4889
+PD,2024,2025-03-01,498864,Real Betis Balompié,Real Madrid CF,2,1,1,1,0.5235
+PD,2024,2025-03-02,498865,CA Osasuna,Valencia CF,3,3,0,0,0.4873
+PD,2024,2025-03-02,498866,CD Leganés,Getafe CF,1,0,1,0,0.215
+PD,2024,2025-03-02,498867,FC Barcelona,Real Sociedad de Fútbol,4,0,1,1,0.8113
+PD,2024,2025-03-02,498870,RCD Mallorca,Deportivo Alavés,1,1,0,1,0.5269
+PL,2024,2025-03-08,497682,Brentford FC,Aston Villa FC,0,1,0,1,0.6396
+PL,2024,2025-03-08,497684,Brighton & Hove Albion FC,Fulham FC,2,1,1,0,0.4731
+PL,2024,2025-03-08,497685,Crystal Palace FC,Ipswich Town FC,1,0,1,1,0.7432
+PD,2024,2025-03-08,498876,Deportivo Alavés,Villarreal CF,1,0,1,0,0.2131
+PL,2024,2025-03-08,497688,Liverpool FC,Southampton FC,3,1,1,1,0.7675
+PL,2024,2025-03-08,497687,Nottingham Forest FC,Manchester City FC,1,0,1,0,0.3873
+PD,2024,2025-03-08,498875,RC Celta de Vigo,CD Leganés,2,1,1,1,0.6059
+PD,2024,2025-03-08,498879,Valencia CF,Real Valladolid CF,2,1,1,1,0.7305
+PL,2024,2025-03-08,497683,Wolverhampton Wanderers FC,Everton FC,1,1,0,0,0.3338
+PD,2024,2025-03-09,498873,Athletic Club,RCD Mallorca,1,1,0,1,0.6382
+PL,2024,2025-03-09,497689,Chelsea FC,Leicester City FC,1,0,1,1,0.6294
+PD,2024,2025-03-09,498878,Getafe CF,Club Atlético de Madrid,2,1,1,0,0.3108
+PL,2024,2025-03-09,497681,Manchester United FC,Arsenal FC,1,1,0,0,0.3288
+PD,2024,2025-03-09,498874,Real Betis Balompié,UD Las Palmas,1,0,1,1,0.7427
+PD,2024,2025-03-09,498880,Real Madrid CF,Rayo Vallecano de Madrid,2,1,1,0,0.4242
+PD,2024,2025-03-09,498881,Real Sociedad de Fútbol,Sevilla FC,0,1,0,0,0.3932
+PL,2024,2025-03-09,497680,Tottenham Hotspur FC,AFC Bournemouth,2,2,0,1,0.5305
+PD,2024,2025-03-10,498882,RCD Espanyol de Barcelona,Girona FC,1,1,0,1,0.5805
+PL,2024,2025-03-10,497686,West Ham United FC,Newcastle United FC,0,1,0,1,0.5081
+PD,2024,2025-03-14,498891,UD Las Palmas,Deportivo Alavés,2,2,0,0,0.3148
+PL,2024,2025-03-15,497690,AFC Bournemouth,Brentford FC,1,2,0,0,0.3631
+PL,2024,2025-03-15,497693,Everton FC,West Ham United FC,1,1,0,1,0.5065
+PD,2024,2025-03-15,498886,Girona FC,Valencia CF,1,1,0,0,0.2729
+PL,2024,2025-03-15,497695,Ipswich Town FC,Nottingham Forest FC,2,4,0,0,0.2259
+PL,2024,2025-03-15,497697,Manchester City FC,Brighton & Hove Albion FC,2,2,0,0,0.2967
+PD,2024,2025-03-15,498892,RCD Mallorca,RCD Espanyol de Barcelona,2,1,1,0,0.4622
+PD,2024,2025-03-15,498890,Real Valladolid CF,RC Celta de Vigo,0,1,0,0,0.1512
+PL,2024,2025-03-15,497699,Southampton FC,Wolverhampton Wanderers FC,1,2,0,0,0.2491
+PD,2024,2025-03-15,498888,Villarreal CF,Real Madrid CF,1,2,0,1,0.5477
+PL,2024,2025-03-16,497691,Arsenal FC,Chelsea FC,1,0,1,0,0.4855
+PD,2024,2025-03-16,498884,CA Osasuna,Getafe CF,1,2,0,0,0.4001
+PD,2024,2025-03-16,498885,CD Leganés,Real Betis Balompié,2,3,0,0,0.2179
+PD,2024,2025-03-16,498883,Club Atlético de Madrid,FC Barcelona,2,4,0,0,0.2635
+PL,2024,2025-03-16,497694,Fulham FC,Tottenham Hotspur FC,2,0,1,0,0.3831
+PL,2024,2025-03-16,497696,Leicester City FC,Manchester United FC,0,3,0,0,0.2205
+PD,2024,2025-03-16,498889,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,2,2,0,0,0.4171
+PD,2024,2025-03-16,498887,Sevilla FC,Athletic Club,0,1,0,0,0.3953
+PD,2024,2025-03-27,498877,FC Barcelona,CA Osasuna,3,0,1,1,0.8301
+PD,2024,2025-03-29,498896,Deportivo Alavés,Rayo Vallecano de Madrid,0,2,0,1,0.5707
+PD,2024,2025-03-29,498902,RCD Espanyol de Barcelona,Club Atlético de Madrid,1,1,0,0,0.3856
+PD,2024,2025-03-29,498900,Real Madrid CF,CD Leganés,3,2,1,1,0.6414
+PD,2024,2025-03-29,498901,Real Sociedad de Fútbol,Real Valladolid CF,2,1,1,1,0.5681
+PD,2024,2025-03-30,498893,Athletic Club,CA Osasuna,0,0,0,1,0.7053
+PD,2024,2025-03-30,498897,FC Barcelona,Girona FC,4,1,1,1,0.8333
+PD,2024,2025-03-30,498898,Getafe CF,Villarreal CF,1,2,0,1,0.5103
+PD,2024,2025-03-30,498894,Real Betis Balompié,Sevilla FC,2,1,1,1,0.647
+PD,2024,2025-03-30,498899,Valencia CF,RCD Mallorca,1,0,1,0,0.3517
+PD,2024,2025-03-31,498895,RC Celta de Vigo,UD Las Palmas,1,1,0,1,0.6992
+PL,2024,2025-04-01,497701,Arsenal FC,Fulham FC,2,1,1,0,0.4311
+PL,2024,2025-04-01,497703,Nottingham Forest FC,Manchester United FC,1,0,1,0,0.4315
+PL,2024,2025-04-01,497704,Wolverhampton Wanderers FC,West Ham United FC,1,0,1,0,0.4512
+PL,2024,2025-04-02,497700,AFC Bournemouth,Ipswich Town FC,1,2,0,1,0.5746
+PL,2024,2025-04-02,497702,Brighton & Hove Albion FC,Aston Villa FC,0,3,0,1,0.6959
+PL,2024,2025-04-02,497709,Liverpool FC,Everton FC,1,0,1,1,0.6597
+PL,2024,2025-04-02,497706,Manchester City FC,Leicester City FC,2,0,1,1,0.7312
+PL,2024,2025-04-02,497707,Newcastle United FC,Brentford FC,2,1,1,0,0.2804
+PL,2024,2025-04-02,497708,Southampton FC,Crystal Palace FC,1,1,0,0,0.1108
+PL,2024,2025-04-03,497705,Chelsea FC,Tottenham Hotspur FC,1,0,1,0,0.4244
+PD,2024,2025-04-04,498912,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,0,4,0,0,0.4424
+PL,2024,2025-04-05,497710,Aston Villa FC,Nottingham Forest FC,2,1,1,0,0.4572
+PL,2024,2025-04-05,497712,Crystal Palace FC,Brighton & Hove Albion FC,2,1,1,0,0.4913
+PL,2024,2025-04-05,497713,Everton FC,Arsenal FC,1,1,0,0,0.3665
+PD,2024,2025-04-05,498904,FC Barcelona,Real Betis Balompié,1,1,0,1,0.6345
+PD,2024,2025-04-05,498905,Girona FC,Deportivo Alavés,0,1,0,0,0.3818
+PL,2024,2025-04-05,497715,Ipswich Town FC,Wolverhampton Wanderers FC,1,2,0,0,0.2657
+PD,2024,2025-04-05,498908,RCD Mallorca,RC Celta de Vigo,1,2,0,0,0.3314
+PD,2024,2025-04-05,498909,Real Madrid CF,Valencia CF,1,2,0,1,0.6033
+PL,2024,2025-04-05,497719,West Ham United FC,AFC Bournemouth,2,2,0,1,0.6004
+PL,2024,2025-04-06,497711,Brentford FC,Chelsea FC,0,0,0,0,0.4286
+PL,2024,2025-04-06,497714,Fulham FC,Liverpool FC,3,2,1,0,0.2566
+PL,2024,2025-04-06,497717,Manchester United FC,Manchester City FC,0,0,0,1,0.534
+PD,2024,2025-04-06,498910,Real Valladolid CF,Getafe CF,0,4,0,0,0.2719
+PD,2024,2025-04-06,498906,Sevilla FC,Club Atlético de Madrid,1,2,0,0,0.3785
+PL,2024,2025-04-06,497718,Tottenham Hotspur FC,Southampton FC,3,1,1,1,0.6147
+PD,2024,2025-04-06,498911,UD Las Palmas,Real Sociedad de Fútbol,1,3,0,0,0.3458
+PD,2024,2025-04-06,498907,Villarreal CF,Athletic Club,0,0,0,0,0.3629
+PD,2024,2025-04-07,498903,CD Leganés,CA Osasuna,1,1,0,0,0.4704
+PL,2024,2025-04-07,497716,Leicester City FC,Newcastle United FC,0,3,0,0,0.1858
+PD,2024,2025-04-11,498920,Valencia CF,Sevilla FC,1,0,1,1,0.6555
+PL,2024,2025-04-12,497721,Arsenal FC,Brentford FC,1,1,0,1,0.5569
+PL,2024,2025-04-12,497722,Brighton & Hove Albion FC,Leicester City FC,2,2,0,1,0.6815
+PD,2024,2025-04-12,498917,CD Leganés,FC Barcelona,0,1,0,0,0.1832
+PD,2024,2025-04-12,498919,Getafe CF,UD Las Palmas,1,3,0,1,0.6589
+PL,2024,2025-04-12,497725,Manchester City FC,Crystal Palace FC,5,2,1,0,0.3077
+PL,2024,2025-04-12,497727,Nottingham Forest FC,Everton FC,0,1,0,1,0.6173
+PD,2024,2025-04-12,498922,RC Celta de Vigo,RCD Espanyol de Barcelona,0,2,0,1,0.5087
+PD,2024,2025-04-12,498921,Real Sociedad de Fútbol,RCD Mallorca,0,2,0,0,0.4854
+PL,2024,2025-04-12,497728,Southampton FC,Aston Villa FC,0,3,0,0,0.1657
+PD,2024,2025-04-13,498913,Athletic Club,Rayo Vallecano de Madrid,3,1,1,0,0.4719
+PD,2024,2025-04-13,498916,CA Osasuna,Girona FC,2,1,1,0,0.4443
+PL,2024,2025-04-13,497723,Chelsea FC,Ipswich Town FC,2,2,0,1,0.6669
+PD,2024,2025-04-13,498918,Deportivo Alavés,Real Madrid CF,0,1,0,0,0.4071
+PL,2024,2025-04-13,497724,Liverpool FC,West Ham United FC,2,1,1,1,0.6741
+PL,2024,2025-04-13,497726,Newcastle United FC,Manchester United FC,4,1,1,1,0.5658
+PD,2024,2025-04-13,498915,Real Betis Balompié,Villarreal CF,1,2,0,1,0.6298
+PL,2024,2025-04-13,497729,Wolverhampton Wanderers FC,Tottenham Hotspur FC,4,2,1,1,0.6112
+PL,2024,2025-04-14,497720,AFC Bournemouth,Fulham FC,1,0,1,0,0.2887
+PD,2024,2025-04-14,498914,Club Atlético de Madrid,Real Valladolid CF,4,2,1,1,0.6322
+PL,2024,2025-04-16,497698,Newcastle United FC,Crystal Palace FC,5,0,1,1,0.5539
+PD,2024,2025-04-18,498932,RCD Espanyol de Barcelona,Getafe CF,1,0,1,0,0.4763
+PL,2024,2025-04-19,497730,Aston Villa FC,Newcastle United FC,4,1,1,0,0.3337
+PL,2024,2025-04-19,497731,Brentford FC,Brighton & Hove Albion FC,4,2,1,0,0.4545
+PL,2024,2025-04-19,497732,Crystal Palace FC,AFC Bournemouth,0,0,0,0,0.421
+PL,2024,2025-04-19,497733,Everton FC,Manchester City FC,0,2,0,0,0.3585
+PD,2024,2025-04-19,498923,FC Barcelona,RC Celta de Vigo,4,3,1,1,0.6502
+PD,2024,2025-04-19,498928,RCD Mallorca,CD Leganés,0,0,0,1,0.6114
+PD,2024,2025-04-19,498927,Rayo Vallecano de Madrid,Valencia CF,1,1,0,0,0.2246
+PD,2024,2025-04-19,498931,UD Las Palmas,Club Atlético de Madrid,1,0,1,0,0.4025
+PL,2024,2025-04-19,497739,West Ham United FC,Southampton FC,1,1,0,1,0.5109
+PL,2024,2025-04-20,497734,Fulham FC,Chelsea FC,1,2,0,0,0.4245
+PL,2024,2025-04-20,497735,Ipswich Town FC,Arsenal FC,0,4,0,0,0.3259
+PL,2024,2025-04-20,497736,Leicester City FC,Liverpool FC,0,1,0,0,0.1457
+PL,2024,2025-04-20,497737,Manchester United FC,Wolverhampton Wanderers FC,0,1,0,0,0.2529
+PD,2024,2025-04-20,498929,Real Madrid CF,Athletic Club,1,0,1,1,0.535
+PD,2024,2025-04-20,498930,Real Valladolid CF,CA Osasuna,2,3,0,0,0.2946
+PD,2024,2025-04-20,498925,Sevilla FC,Deportivo Alavés,1,1,0,0,0.3486
+PD,2024,2025-04-20,498926,Villarreal CF,Real Sociedad de Fútbol,2,2,0,0,0.4427
+PD,2024,2025-04-21,498924,Girona FC,Real Betis Balompié,1,3,0,0,0.2402
+PL,2024,2025-04-21,497738,Tottenham Hotspur FC,Nottingham Forest FC,1,2,0,0,0.3228
+PD,2024,2025-04-22,498940,FC Barcelona,RCD Mallorca,1,0,1,1,0.6902
+PL,2024,2025-04-22,497745,Manchester City FC,Aston Villa FC,2,1,1,0,0.3726
+PD,2024,2025-04-22,498942,Valencia CF,RCD Espanyol de Barcelona,1,1,0,0,0.4349
+PL,2024,2025-04-23,497741,Arsenal FC,Crystal Palace FC,2,2,0,1,0.7111
+PD,2024,2025-04-23,498933,Athletic Club,UD Las Palmas,1,0,1,0,0.4454
+PD,2024,2025-04-23,498939,Deportivo Alavés,Real Sociedad de Fútbol,1,0,1,0,0.3468
+PD,2024,2025-04-23,498941,Getafe CF,Real Madrid CF,0,1,0,0,0.3436
+PD,2024,2025-04-23,498938,RC Celta de Vigo,Villarreal CF,3,0,1,0,0.418
+PD,2024,2025-04-24,498936,CA Osasuna,Sevilla FC,1,0,1,1,0.6134
+PD,2024,2025-04-24,498937,CD Leganés,Girona FC,1,1,0,1,0.5089
+PD,2024,2025-04-24,498934,Club Atlético de Madrid,Rayo Vallecano de Madrid,3,0,1,1,0.5509
+PD,2024,2025-04-24,498935,Real Betis Balompié,Real Valladolid CF,5,1,1,1,0.7601
+PL,2024,2025-04-26,497742,Brighton & Hove Albion FC,West Ham United FC,3,2,1,0,0.3996
+PL,2024,2025-04-26,497743,Chelsea FC,Everton FC,1,0,1,1,0.5412
+PL,2024,2025-04-26,497746,Newcastle United FC,Ipswich Town FC,3,0,1,1,0.7867
+PL,2024,2025-04-26,497748,Southampton FC,Fulham FC,1,2,0,0,0.3056
+PL,2024,2025-04-26,497749,Wolverhampton Wanderers FC,Leicester City FC,3,0,1,1,0.8327
+PL,2024,2025-04-27,497740,AFC Bournemouth,Manchester United FC,1,1,0,0,0.4811
+PL,2024,2025-04-27,497744,Liverpool FC,Tottenham Hotspur FC,5,1,1,1,0.707
+PD,2024,2025-04-27,498872,Villarreal CF,RCD Espanyol de Barcelona,1,0,1,0,0.3159
+PL,2024,2025-05-01,497747,Nottingham Forest FC,Brentford FC,0,2,0,0,0.4824
+PL,2024,2025-05-02,497758,Manchester City FC,Wolverhampton Wanderers FC,1,0,1,0,0.4516
+PD,2024,2025-05-02,498947,Rayo Vallecano de Madrid,Getafe CF,1,0,1,0,0.3849
+PL,2024,2025-05-03,497750,Arsenal FC,AFC Bournemouth,1,2,0,1,0.6001
+PL,2024,2025-05-03,497751,Aston Villa FC,Fulham FC,1,0,1,1,0.7123
+PD,2024,2025-05-03,498943,Deportivo Alavés,Club Atlético de Madrid,0,0,0,0,0.3113
+PL,2024,2025-05-03,497756,Everton FC,Ipswich Town FC,2,2,0,0,0.4614
+PL,2024,2025-05-03,497757,Leicester City FC,Southampton FC,2,0,1,0,0.3695
+PD,2024,2025-05-03,498950,Real Valladolid CF,FC Barcelona,1,2,0,0,0.1203
+PD,2024,2025-05-03,498951,UD Las Palmas,Valencia CF,2,3,0,0,0.3563
+PD,2024,2025-05-03,498946,Villarreal CF,CA Osasuna,4,2,1,0,0.3498
+PL,2024,2025-05-04,497752,Brentford FC,Manchester United FC,4,3,1,1,0.6691
+PL,2024,2025-05-04,497753,Brighton & Hove Albion FC,Newcastle United FC,1,1,0,0,0.1818
+PL,2024,2025-05-04,497754,Chelsea FC,Liverpool FC,3,1,1,0,0.3929
+PD,2024,2025-05-04,498952,RCD Espanyol de Barcelona,Real Betis Balompié,1,2,0,0,0.4603
+PD,2024,2025-05-04,498948,Real Madrid CF,RC Celta de Vigo,3,2,1,1,0.5609
+PD,2024,2025-05-04,498949,Real Sociedad de Fútbol,Athletic Club,0,0,0,0,0.4313
+PD,2024,2025-05-04,498945,Sevilla FC,CD Leganés,2,2,0,0,0.3824
+PL,2024,2025-05-04,497759,West Ham United FC,Tottenham Hotspur FC,1,1,0,0,0.46
+PL,2024,2025-05-05,497755,Crystal Palace FC,Nottingham Forest FC,1,1,0,0,0.3794
+PD,2024,2025-05-05,498944,Girona FC,RCD Mallorca,1,0,1,0,0.3325
+PD,2024,2025-05-09,498961,UD Las Palmas,Rayo Vallecano de Madrid,0,1,0,1,0.5737
+PL,2024,2025-05-10,497760,AFC Bournemouth,Aston Villa FC,0,1,0,0,0.3415
+PD,2024,2025-05-10,498954,Club Atlético de Madrid,Real Sociedad de Fútbol,4,0,1,1,0.6348
+PL,2024,2025-05-10,497761,Fulham FC,Everton FC,1,3,0,0,0.4871
+PD,2024,2025-05-10,498958,Girona FC,Villarreal CF,0,1,0,0,0.2902
+PL,2024,2025-05-10,497762,Ipswich Town FC,Brentford FC,0,1,0,0,0.1819
+PD,2024,2025-05-10,498956,RC Celta de Vigo,Sevilla FC,3,2,1,1,0.5928
+PD,2024,2025-05-10,498960,RCD Mallorca,Real Valladolid CF,2,1,1,1,0.6094
+PL,2024,2025-05-10,497767,Southampton FC,Manchester City FC,0,0,0,0,0.1373
+PD,2024,2025-05-10,498959,Valencia CF,Getafe CF,3,0,1,1,0.6531
+PL,2024,2025-05-10,497769,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,0,2,0,1,0.6786
+PD,2024,2025-05-11,498953,Athletic Club,Deportivo Alavés,1,0,1,0,0.4631
+PD,2024,2025-05-11,498962,CD Leganés,RCD Espanyol de Barcelona,3,2,1,0,0.373
+PD,2024,2025-05-11,498957,FC Barcelona,Real Madrid CF,4,3,1,1,0.5027
+PL,2024,2025-05-11,497763,Liverpool FC,Arsenal FC,2,2,0,1,0.5406
+PL,2024,2025-05-11,497764,Manchester United FC,West Ham United FC,0,2,0,0,0.3904
+PL,2024,2025-05-11,497765,Newcastle United FC,Chelsea FC,2,0,1,1,0.5461
+PL,2024,2025-05-11,497766,Nottingham Forest FC,Leicester City FC,2,2,0,0,0.4608
+PD,2024,2025-05-11,498955,Real Betis Balompié,CA Osasuna,1,1,0,1,0.5493
+PL,2024,2025-05-11,497768,Tottenham Hotspur FC,Crystal Palace FC,0,2,0,1,0.5094
+PD,2024,2025-05-13,498970,Real Sociedad de Fútbol,RC Celta de Vigo,0,1,0,0,0.2712
+PD,2024,2025-05-13,498971,Real Valladolid CF,Girona FC,0,1,0,0,0.3296
+PD,2024,2025-05-13,498966,Sevilla FC,UD Las Palmas,1,0,1,0,0.3486
+PD,2024,2025-05-14,498964,Deportivo Alavés,Valencia CF,1,0,1,0,0.266
+PD,2024,2025-05-14,498969,Real Madrid CF,RCD Mallorca,2,1,1,1,0.593
+PD,2024,2025-05-14,498967,Villarreal CF,CD Leganés,3,0,1,1,0.5488
+PD,2024,2025-05-15,498963,CA Osasuna,Club Atlético de Madrid,2,0,1,0,0.3909
+PD,2024,2025-05-15,498965,Getafe CF,Athletic Club,0,2,0,0,0.1792
+PD,2024,2025-05-15,498972,RCD Espanyol de Barcelona,FC Barcelona,0,2,0,0,0.2022
+PD,2024,2025-05-15,498968,Rayo Vallecano de Madrid,Real Betis Balompié,2,2,0,0,0.2826
+PL,2024,2025-05-16,497771,Aston Villa FC,Tottenham Hotspur FC,2,0,1,1,0.8045
+PL,2024,2025-05-16,497774,Chelsea FC,Manchester United FC,1,0,1,1,0.7094
+PL,2024,2025-05-18,497770,Arsenal FC,Newcastle United FC,1,0,1,0,0.3653
+PL,2024,2025-05-18,497772,Brentford FC,Fulham FC,2,3,0,1,0.7626
+PD,2024,2025-05-18,498982,CA Osasuna,RCD Espanyol de Barcelona,2,0,1,1,0.7027
+PD,2024,2025-05-18,498973,Club Atlético de Madrid,Real Betis Balompié,4,1,1,0,0.3512
+PL,2024,2025-05-18,497776,Everton FC,Southampton FC,2,0,1,1,0.6142
+PD,2024,2025-05-18,498975,FC Barcelona,Villarreal CF,2,3,0,1,0.5739
+PL,2024,2025-05-18,497777,Leicester City FC,Ipswich Town FC,2,0,1,1,0.5697
+PD,2024,2025-05-18,498974,RC Celta de Vigo,Rayo Vallecano de Madrid,1,2,0,1,0.5645
+PD,2024,2025-05-18,498978,RCD Mallorca,Getafe CF,1,2,0,1,0.5806
+PD,2024,2025-05-18,498979,Real Sociedad de Fútbol,Girona FC,3,2,1,0,0.2947
+PD,2024,2025-05-18,498980,Real Valladolid CF,Deportivo Alavés,0,1,0,0,0.2405
+PD,2024,2025-05-18,498976,Sevilla FC,Real Madrid CF,0,2,0,0,0.2884
+PD,2024,2025-05-18,498981,UD Las Palmas,CD Leganés,0,1,0,0,0.3676
+PD,2024,2025-05-18,498977,Valencia CF,Athletic Club,0,1,0,0,0.447
+PL,2024,2025-05-18,497779,West Ham United FC,Nottingham Forest FC,1,2,0,0,0.4871
+PL,2024,2025-05-19,497773,Brighton & Hove Albion FC,Liverpool FC,3,2,1,0,0.4035
+PL,2024,2025-05-20,497775,Crystal Palace FC,Wolverhampton Wanderers FC,4,2,1,0,0.3269
+PL,2024,2025-05-20,497778,Manchester City FC,AFC Bournemouth,3,1,1,1,0.6461
+PD,2024,2025-05-23,498984,Real Betis Balompié,Valencia CF,1,1,0,1,0.5102
+PD,2024,2025-05-24,498985,CD Leganés,Real Valladolid CF,3,0,1,1,0.6723
+PD,2024,2025-05-24,498986,Deportivo Alavés,CA Osasuna,1,1,0,0,0.416
+PD,2024,2025-05-24,498987,Getafe CF,RC Celta de Vigo,1,2,0,0,0.2331
+PD,2024,2025-05-24,498992,RCD Espanyol de Barcelona,UD Las Palmas,2,0,1,0,0.417
+PD,2024,2025-05-24,498990,Rayo Vallecano de Madrid,RCD Mallorca,0,0,0,1,0.6098
+PD,2024,2025-05-24,498991,Real Madrid CF,Real Sociedad de Fútbol,2,0,1,1,0.7212
+PL,2024,2025-05-25,497780,AFC Bournemouth,Leicester City FC,2,0,1,0,0.3824
+PD,2024,2025-05-25,498983,Athletic Club,FC Barcelona,0,3,0,0,0.4612
+PL,2024,2025-05-25,497781,Fulham FC,Manchester City FC,0,2,0,0,0.2656
+PD,2024,2025-05-25,498988,Girona FC,Club Atlético de Madrid,0,4,0,0,0.3072
+PL,2024,2025-05-25,497782,Ipswich Town FC,West Ham United FC,1,3,0,0,0.2542
+PL,2024,2025-05-25,497783,Liverpool FC,Crystal Palace FC,1,1,0,0,0.4315
+PL,2024,2025-05-25,497784,Manchester United FC,Aston Villa FC,2,0,1,0,0.1778
+PL,2024,2025-05-25,497785,Newcastle United FC,Everton FC,0,1,0,0,0.4606
+PL,2024,2025-05-25,497786,Nottingham Forest FC,Chelsea FC,0,1,0,0,0.3586
+PL,2024,2025-05-25,497787,Southampton FC,Arsenal FC,1,2,0,0,0.2363
+PL,2024,2025-05-25,497788,Tottenham Hotspur FC,Brighton & Hove Albion FC,1,4,0,0,0.1836
+PD,2024,2025-05-25,498989,Villarreal CF,Sevilla FC,4,2,1,1,0.7816
+PL,2024,2025-05-25,497789,Wolverhampton Wanderers FC,Brentford FC,1,1,0,0,0.2775
