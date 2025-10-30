@@ -17,3 +17,6 @@ data/gold/*.csv
 
 # --- allow raw API JSON in Bronze (override any *.json ignore) ---
 !data/bronze/*.json
+
+# --- allow raw API JSON in Bronze (override any *.json ignore) ---
+!data/bronze/*.json
