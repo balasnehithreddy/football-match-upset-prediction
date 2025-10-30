@@ -14,3 +14,6 @@ data/gold/*.csv
 
 # Mac
 .DS_Store
+
+# --- allow raw API JSON in Bronze (override any *.json ignore) ---
+!data/bronze/*.json
