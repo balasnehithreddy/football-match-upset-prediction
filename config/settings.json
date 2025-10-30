@@ -1,0 +1,7 @@
+{
+  "api_base": "https://api.football-data.org/v4",
+  "competitions": ["PL", "PD"],
+  "seasons": [2023, 2024],
+  "feature_window": 5,
+  "upset_threshold": 0.70
+}
