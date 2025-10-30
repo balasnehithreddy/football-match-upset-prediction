@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Data files
+data/bronze/*.json
+data/silver/*.parquet
+data/gold/*.csv
+
+# Mac
+.DS_Store
